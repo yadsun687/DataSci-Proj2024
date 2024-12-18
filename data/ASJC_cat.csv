@@ -1,0 +1,335 @@
+,Code,ASJC category,Subject area
+0,1000,Multidisciplinary,Multidisciplinary
+1,1100,General Agricultural and Biological Sciences,Life Sciences
+2,1101,Agricultural and Biological Sciences (miscellaneous),Life Sciences
+3,1102,Agronomy and Crop Science,Life Sciences
+4,1103,Animal Science and Zoology,Life Sciences
+5,1104,Aquatic Science,Life Sciences
+6,1105,"Ecology, Evolution, Behavior and Systematics",Life Sciences
+7,1106,Food Science,Life Sciences
+8,1107,Forestry,Life Sciences
+9,1108,Horticulture,Life Sciences
+10,1109,Insect Science,Life Sciences
+11,1110,Plant Science,Life Sciences
+12,1111,Soil Science,Life Sciences
+13,1200,General Arts and Humanities,Social Sciences & Humanities
+14,1201,Arts and Humanities (miscellaneous),Social Sciences & Humanities
+15,1202,History,Social Sciences & Humanities
+16,1203,Language and Linguistics,Social Sciences & Humanities
+17,1204,Archeology (arts and humanities),Social Sciences & Humanities
+18,1205,Classics,Social Sciences & Humanities
+19,1206,Conservation,Social Sciences & Humanities
+20,1207,History and Philosophy of Science,Social Sciences & Humanities
+21,1208,Literature and Literary Theory,Social Sciences & Humanities
+22,1209,Museology,Social Sciences & Humanities
+23,1210,Music,Social Sciences & Humanities
+24,1211,Philosophy,Social Sciences & Humanities
+25,1212,Religious Studies,Social Sciences & Humanities
+26,1213,Visual Arts and Performing Arts,Social Sciences & Humanities
+27,1300,"General Biochemistry, Genetics and Molecular Biology",Life Sciences
+28,1301,"Biochemistry, Genetics and Molecular Biology (miscellaneous)",Life Sciences
+29,1302,Aging,Life Sciences
+30,1303,Biochemistry,Life Sciences
+31,1304,Biophysics,Life Sciences
+32,1305,Biotechnology,Life Sciences
+33,1306,Cancer Research,Life Sciences
+34,1307,Cell Biology,Life Sciences
+35,1308,Clinical Biochemistry,Life Sciences
+36,1309,Developmental Biology,Life Sciences
+37,1310,Endocrinology,Life Sciences
+38,1311,Genetics,Life Sciences
+39,1312,Molecular Biology,Life Sciences
+40,1313,Molecular Medicine,Life Sciences
+41,1314,Physiology,Life Sciences
+42,1315,Structural Biology,Life Sciences
+43,1400,"General Business, Management and Accounting",Social Sciences & Humanities
+44,1401,"Business, Management and Accounting (miscellaneous)",Social Sciences & Humanities
+45,1402,Accounting,Social Sciences & Humanities
+46,1403,Business and International Management,Social Sciences & Humanities
+47,1404,Management Information Systems,Social Sciences & Humanities
+48,1405,Management of Technology and Innovation,Social Sciences & Humanities
+49,1406,Marketing,Social Sciences & Humanities
+50,1407,Organizational Behavior and Human Resource Management,Social Sciences & Humanities
+51,1408,Strategy and Management,Social Sciences & Humanities
+52,1409,"Tourism, Leisure and Hospitality Management",Social Sciences & Humanities
+53,1410,Industrial Relations,Social Sciences & Humanities
+54,1500,General Chemical Engineering,Physical Sciences
+55,1501,Chemical Engineering (miscellaneous),Physical Sciences
+56,1502,Bioengineering,Physical Sciences
+57,1503,Catalysis,Physical Sciences
+58,1504,Chemical Health and Safety,Physical Sciences
+59,1505,Colloid and Surface Chemistry,Physical Sciences
+60,1506,Filtration and Separation,Physical Sciences
+61,1507,Fluid Flow and Transfer Processes,Physical Sciences
+62,1508,Process Chemistry and Technology,Physical Sciences
+63,1600,General Chemistry,Physical Sciences
+64,1601,Chemistry (miscellaneous),Physical Sciences
+65,1602,Analytical Chemistry,Physical Sciences
+66,1603,Electrochemistry,Physical Sciences
+67,1604,Inorganic Chemistry,Physical Sciences
+68,1605,Organic Chemistry,Physical Sciences
+69,1606,Physical and Theoretical Chemistry,Physical Sciences
+70,1607,Spectroscopy,Physical Sciences
+71,1700,General Computer Science,Physical Sciences
+72,1701,Computer Science (miscellaneous),Physical Sciences
+73,1702,Artificial Intelligence,Physical Sciences
+74,1703,Computational Theory and Mathematics,Physical Sciences
+75,1704,Computer Graphics and Computer-Aided Design,Physical Sciences
+76,1705,Computer Networks and Communications,Physical Sciences
+77,1706,Computer Science Applications,Physical Sciences
+78,1707,Computer Vision and Pattern Recognition,Physical Sciences
+79,1708,Hardware and Architecture,Physical Sciences
+80,1709,Human-Computer Interaction,Physical Sciences
+81,1710,Information Systems,Physical Sciences
+82,1711,Signal Processing,Physical Sciences
+83,1712,Software,Physical Sciences
+84,1800,General Decision Sciences,Social Sciences & Humanities
+85,1801,Decision Sciences (miscellaneous),Social Sciences & Humanities
+86,1802,Information Systems and Management,Social Sciences & Humanities
+87,1803,Management Science and Operations Research,Social Sciences & Humanities
+88,1804,"Statistics, Probability and Uncertainty",Social Sciences & Humanities
+89,1900,General Earth and Planetary Sciences,Physical Sciences
+90,1901,Earth and Planetary Sciences (miscellaneous),Physical Sciences
+91,1902,Atmospheric Science,Physical Sciences
+92,1903,Computers in Earth Sciences,Physical Sciences
+93,1904,Earth-Surface Processes,Physical Sciences
+94,1905,Economic Geology,Physical Sciences
+95,1906,Geochemistry and Petrology,Physical Sciences
+96,1907,Geology,Physical Sciences
+97,1908,Geophysics,Physical Sciences
+98,1909,Geotechnical Engineering and Engineering Geology,Physical Sciences
+99,1910,Oceanography,Physical Sciences
+100,1911,Paleontology,Physical Sciences
+101,1912,Space and Planetary Science,Physical Sciences
+102,1913,Stratigraphy,Physical Sciences
+103,2000,"General Economics, Econometrics and Finance",Social Sciences & Humanities
+104,2001,"Economics, Econometrics and Finance (miscellaneous)",Social Sciences & Humanities
+105,2002,Economics and Econometrics,Social Sciences & Humanities
+106,2003,Finance,Social Sciences & Humanities
+107,2100,General Energy,Physical Sciences
+108,2101,Energy (miscellaneous),Physical Sciences
+109,2102,Energy Engineering and Power Technology,Physical Sciences
+110,2103,Fuel Technology,Physical Sciences
+111,2104,Nuclear Energy and Engineering,Physical Sciences
+112,2105,"Renewable Energy, Sustainability and the Environment",Physical Sciences
+113,2200,General Engineering,Physical Sciences
+114,2201,Engineering (miscellaneous),Physical Sciences
+115,2202,Aerospace Engineering,Physical Sciences
+116,2203,Automotive Engineering,Physical Sciences
+117,2204,Biomedical Engineering,Physical Sciences
+118,2205,Civil and Structural Engineering,Physical Sciences
+119,2206,Computational Mechanics,Physical Sciences
+120,2207,Control and Systems Engineering,Physical Sciences
+121,2208,Electrical and Electronic Engineering,Physical Sciences
+122,2209,Industrial and Manufacturing Engineering,Physical Sciences
+123,2210,Mechanical Engineering,Physical Sciences
+124,2211,Mechanics of Materials,Physical Sciences
+125,2212,Ocean Engineering,Physical Sciences
+126,2213,"Safety, Risk, Reliability and Quality",Physical Sciences
+127,2214,Media Technology,Physical Sciences
+128,2215,Building and Construction,Physical Sciences
+129,2216,Architecture,Physical Sciences
+130,2300,General Environmental Science,Physical Sciences
+131,2301,Environmental Science (miscellaneous),Physical Sciences
+132,2302,Ecological Modeling,Physical Sciences
+133,2303,Ecology,Physical Sciences
+134,2304,Environmental Chemistry,Physical Sciences
+135,2305,Environmental Engineering,Physical Sciences
+136,2306,Global and Planetary Change,Physical Sciences
+137,2307,"Health, Toxicology and Mutagenesis",Physical Sciences
+138,2308,"Management, Monitoring, Policy and Law",Physical Sciences
+139,2309,Nature and Landscape Conservation,Physical Sciences
+140,2310,Pollution,Physical Sciences
+141,2311,Waste Management and Disposal,Physical Sciences
+142,2312,Water Science and Technology,Physical Sciences
+143,2400,General Immunology and Microbiology,Life Sciences
+144,2401,Immunology and Microbiology (miscellaneous),Life Sciences
+145,2402,Applied Microbiology and Biotechnology,Life Sciences
+146,2403,Immunology,Life Sciences
+147,2404,Microbiology,Life Sciences
+148,2405,Parasitology,Life Sciences
+149,2406,Virology,Life Sciences
+150,2500,General Materials Science,Physical Sciences
+151,2501,Materials Science (miscellaneous),Physical Sciences
+152,2502,Biomaterials,Physical Sciences
+153,2503,Ceramics and Composites,Physical Sciences
+154,2504,"Electronic, Optical and Magnetic Materials",Physical Sciences
+155,2505,Materials Chemistry,Physical Sciences
+156,2506,Metals and Alloys,Physical Sciences
+157,2507,Polymers and Plastics,Physical Sciences
+158,2508,"Surfaces, Coatings and Films",Physical Sciences
+159,2600,General Mathematics,Physical Sciences
+160,2601,Mathematics (miscellaneous),Physical Sciences
+161,2602,Algebra and Number Theory,Physical Sciences
+162,2603,Analysis,Physical Sciences
+163,2604,Applied Mathematics,Physical Sciences
+164,2605,Computational Mathematics,Physical Sciences
+165,2606,Control and Optimization,Physical Sciences
+166,2607,Discrete Mathematics and Combinatorics,Physical Sciences
+167,2608,Geometry and Topology,Physical Sciences
+168,2609,Logic,Physical Sciences
+169,2610,Mathematical Physics,Physical Sciences
+170,2611,Modeling and Simulation,Physical Sciences
+171,2612,Numerical Analysis,Physical Sciences
+172,2613,Statistics and Probability,Physical Sciences
+173,2614,Theoretical Computer Science,Physical Sciences
+174,2700,General Medicine,Health Sciences
+175,2701,Medicine (miscellaneous),Health Sciences
+176,2702,Anatomy,Health Sciences
+177,2703,Anesthesiology and Pain Medicine,Health Sciences
+178,2704,Biochemistry (medical),Health Sciences
+179,2705,Cardiology and Cardiovascular Medicine,Health Sciences
+180,2706,Critical Care and Intensive Care Medicine,Health Sciences
+181,2707,Complementary and Alternative Medicine,Health Sciences
+182,2708,Dermatology,Health Sciences
+183,2709,Drug Guides,Health Sciences
+184,2710,Embryology,Health Sciences
+185,2711,Emergency Medicine,Health Sciences
+186,2712,"Endocrinology, Diabetes and Metabolism",Health Sciences
+187,2713,Epidemiology,Health Sciences
+188,2714,Family Practice,Health Sciences
+189,2715,Gastroenterology,Health Sciences
+190,2716,Genetics (clinical),Health Sciences
+191,2717,Geriatrics and Gerontology,Health Sciences
+192,2718,Health Informatics,Health Sciences
+193,2719,Health Policy,Health Sciences
+194,2720,Hematology,Health Sciences
+195,2721,Hepatology,Health Sciences
+196,2722,Histology,Health Sciences
+197,2723,Immunology and Allergy,Health Sciences
+198,2724,Internal Medicine,Health Sciences
+199,2725,Infectious Diseases,Health Sciences
+200,2726,Microbiology (medical),Health Sciences
+201,2727,Nephrology,Health Sciences
+202,2728,Neurology (clinical),Health Sciences
+203,2729,Obstetrics and Gynecology,Health Sciences
+204,2730,Oncology,Health Sciences
+205,2731,Ophthalmology,Health Sciences
+206,2732,Orthopedics and Sports Medicine,Health Sciences
+207,2733,Otorhinolaryngology,Health Sciences
+208,2734,Pathology and Forensic Medicine,Health Sciences
+209,2735,"Pediatrics, Perinatology and Child Health",Health Sciences
+210,2736,Pharmacology (medical),Health Sciences
+211,2737,Physiology (medical),Health Sciences
+212,2738,Psychiatry and Mental Health,Health Sciences
+213,2739,"Public Health, Environmental and Occupational Health",Health Sciences
+214,2740,Pulmonary and Respiratory Medicine,Health Sciences
+215,2741,"Radiology, Nuclear Medicine and Imaging",Health Sciences
+216,2742,Rehabilitation,Health Sciences
+217,2743,Reproductive Medicine,Health Sciences
+218,2744,Reviews and References (medical),Health Sciences
+219,2745,Rheumatology,Health Sciences
+220,2746,Surgery,Health Sciences
+221,2747,Transplantation,Health Sciences
+222,2748,Urology,Health Sciences
+223,2800,General Neuroscience,Life Sciences
+224,2801,Neuroscience (miscellaneous),Life Sciences
+225,2802,Behavioral Neuroscience,Life Sciences
+226,2803,Biological Psychiatry,Life Sciences
+227,2804,Cellular and Molecular Neuroscience,Life Sciences
+228,2805,Cognitive Neuroscience,Life Sciences
+229,2806,Developmental Neuroscience,Life Sciences
+230,2807,Endocrine and Autonomic Systems,Life Sciences
+231,2808,Neurology,Life Sciences
+232,2809,Sensory Systems,Life Sciences
+233,2900,General Nursing,Health Sciences
+234,2901,Nursing (miscellaneous),Health Sciences
+235,2902,Advanced and Specialized Nursing,Health Sciences
+236,2903,Assessment and Diagnosis,Health Sciences
+237,2904,Care Planning,Health Sciences
+238,2905,Community and Home Care,Health Sciences
+239,2906,Critical Care Nursing,Health Sciences
+240,2907,Emergency Nursing,Health Sciences
+241,2908,Fundamentals and Skills,Health Sciences
+242,2909,Gerontology,Health Sciences
+243,2910,"Issues, Ethics and Legal Aspects",Health Sciences
+244,2911,Leadership and Management,Health Sciences
+245,2912,LPN and LVN,Health Sciences
+246,2913,Maternity and Midwifery,Health Sciences
+247,2914,Medical and Surgical Nursing,Health Sciences
+248,2915,Nurse Assisting,Health Sciences
+249,2916,Nutrition and Dietetics,Health Sciences
+250,2917,Oncology (nursing),Health Sciences
+251,2918,Pathophysiology,Health Sciences
+252,2919,Pediatrics,Health Sciences
+253,2920,Pharmacology (nursing),Health Sciences
+254,2921,Psychiatric Mental Health,Health Sciences
+255,2922,Research and Theory,Health Sciences
+256,2923,Review and Exam Preparation,Health Sciences
+257,3000,"General Pharmacology, Toxicology and Pharmaceutics",Life Sciences
+258,3001,"Pharmacology, Toxicology and Pharmaceutics (miscellaneous)",Life Sciences
+259,3002,Drug Discovery,Life Sciences
+260,3003,Pharmaceutical Science,Life Sciences
+261,3004,Pharmacology,Life Sciences
+262,3005,Toxicology,Life Sciences
+263,3100,General Physics and Astronomy,Physical Sciences
+264,3101,Physics and Astronomy (miscellaneous),Physical Sciences
+265,3102,Acoustics and Ultrasonics,Physical Sciences
+266,3103,Astronomy and Astrophysics,Physical Sciences
+267,3104,Condensed Matter Physics,Physical Sciences
+268,3105,Instrumentation,Physical Sciences
+269,3106,Nuclear and High Energy Physics,Physical Sciences
+270,3107,"Atomic and Molecular Physics, and Optics",Physical Sciences
+271,3108,Radiation,Physical Sciences
+272,3109,Statistical and Nonlinear Physics,Physical Sciences
+273,3110,Surfaces and Interfaces,Physical Sciences
+274,3200,General Psychology,Social Sciences & Humanities
+275,3201,Psychology (miscellaneous),Social Sciences & Humanities
+276,3202,Applied Psychology,Social Sciences & Humanities
+277,3203,Clinical Psychology,Social Sciences & Humanities
+278,3204,Developmental and Educational Psychology,Social Sciences & Humanities
+279,3205,Experimental and Cognitive Psychology,Social Sciences & Humanities
+280,3206,Neuropsychology and Physiological Psychology,Social Sciences & Humanities
+281,3207,Social Psychology,Social Sciences & Humanities
+282,3300,General Social Sciences,Social Sciences & Humanities
+283,3301,Social Sciences (miscellaneous),Social Sciences & Humanities
+284,3302,Archeology,Social Sciences & Humanities
+285,3303,Development,Social Sciences & Humanities
+286,3304,Education,Social Sciences & Humanities
+287,3305,"Geography, Planning and Development",Social Sciences & Humanities
+288,3306,Health (social science),Social Sciences & Humanities
+289,3307,Human Factors and Ergonomics,Social Sciences & Humanities
+290,3308,Law,Social Sciences & Humanities
+291,3309,Library and Information Sciences,Social Sciences & Humanities
+292,3310,Linguistics and Language,Social Sciences & Humanities
+293,3311,Safety Research,Social Sciences & Humanities
+294,3312,Sociology and Political Science,Social Sciences & Humanities
+295,3313,Transportation,Social Sciences & Humanities
+296,3314,Anthropology,Social Sciences & Humanities
+297,3315,Communication,Social Sciences & Humanities
+298,3316,Cultural Studies,Social Sciences & Humanities
+299,3317,Demography,Social Sciences & Humanities
+300,3318,Gender Studies,Social Sciences & Humanities
+301,3319,Life-span and Life-course Studies,Social Sciences & Humanities
+302,3320,Political Science and International Relations,Social Sciences & Humanities
+303,3321,Public Administration,Social Sciences & Humanities
+304,3322,Urban Studies,Social Sciences & Humanities
+305,3400,General Veterinary,Health Sciences
+306,3401,Veterinary (miscellaneous),Health Sciences
+307,3402,Equine,Health Sciences
+308,3403,Food Animals,Health Sciences
+309,3404,Small Animals,Health Sciences
+310,3500,General Dentistry,Health Sciences
+311,3501,Dentistry (miscellaneous),Health Sciences
+312,3502,Dental Assisting,Health Sciences
+313,3503,Dental Hygiene,Health Sciences
+314,3504,Oral Surgery,Health Sciences
+315,3505,Orthodontics,Health Sciences
+316,3506,Periodontics,Health Sciences
+317,3600,General Health Professions,Health Sciences
+318,3601,Health Professions (miscellaneous),Health Sciences
+319,3602,Chiropractics,Health Sciences
+320,3603,Complementary and Manual Therapy,Health Sciences
+321,3604,Emergency Medical Services,Health Sciences
+322,3605,Health Information Management,Health Sciences
+323,3606,Medical Assisting and Transcription,Health Sciences
+324,3607,Medical Laboratory Technology,Health Sciences
+325,3608,Medical Terminology,Health Sciences
+326,3609,Occupational Therapy,Health Sciences
+327,3610,Optometry,Health Sciences
+328,3611,Pharmacy,Health Sciences
+329,3612,"Physical Therapy, Sports Therapy and Rehabilitation",Health Sciences
+330,3613,Podiatry,Health Sciences
+331,3614,Radiological and Ultrasound Technology,Health Sciences
+332,3615,Respiratory Care,Health Sciences
+333,3616,Speech and Hearing,Health Sciences

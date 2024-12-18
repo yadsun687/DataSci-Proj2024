@@ -1,0 +1,3440 @@
+,country_name,latitude,longitude
+0,"Baltimore, United States",39.29058,-76.60926
+1,"Stanford, United States",37.43137,-122.16892
+2,"Palo Alto, United States",37.44466,-122.16079
+3,"Bangkok, Thailand",13.75336,100.50483
+4,"Nagoya, Japan",35.18142,136.90668
+5,"Pathum Thani, Thailand",13.96878,100.55392
+6,"Hirosaki, Japan",40.60299,140.46409
+7,"Nakhon Ratchasima, Thailand",14.99151,102.11727
+8,"North Bangkok, Thailand",13.75336,100.50483
+9,"Fort Collins, United States",40.58147,-105.07671
+10,"Milwaukee, United States",43.04223,-87.9069
+11,"Houston, United States",29.76078,-95.36952
+12,"Guangzhou, China",25.70622,-99.23993
+13,"Qinhuangdao, China",27.33849,128.57385
+14,"Oxford, United Kingdom",51.75629,-1.25951
+15,"Milton Keynes, United Kingdom",52.0435,-0.75458
+16,"Austin, United States",30.26759,-97.74299
+17,"Abu Dhabi, United Arab Emirates",24.46918,54.37173
+18,"Santa Cruz, United States",36.97424,-122.03098
+19,"Madison, United States",43.07313,-89.38644
+20,"Sunspot, United States",32.79171,-105.81815
+21,"Princeton, United States",40.36076,-74.66446
+22,"Santa Maria, Brazil",-29.69081,-53.80105
+23,"New York, United States",40.71453,-74.00712
+24,"Rio de Janeiro, Brazil",-22.91216,-43.17501
+25,"Mount Hamilton, United States",46.24871,-114.15586
+26,"Beijing, China",39.90657,116.38765
+27,"Lexington, United States",38.04861,-84.5003
+28,"Portsmouth, United Kingdom",50.804,-1.08727
+29,"Tokyo, Japan",35.68946,139.69172
+30,"Cambridge, United States",42.36679,-71.10601
+31,"Moscow, Russian Federation",55.75696,37.61502
+32,"None, Thailand",13.75336,100.50482
+33,"Lund, Sweden",55.70664,13.18759
+34,"Bristol, United Kingdom",51.45526,-2.59651
+35,"Boston, United States",42.35866,-71.05674
+36,"Charlottesville, United States",38.03219,-78.47777
+37,"Auckland, New Zealand",-36.85232,174.76388
+38,"Arica, Chile",-18.47844,-70.32181
+39,"Rayong, Thailand",12.68067,101.27539
+40,"Nakhon Pathom, Thailand",13.84848,100.03943
+41,"Surabaya, Indonesia",-7.26419,112.73615
+42,"Brussels, Belgium",50.84439,4.35609
+43,"Kuala Lumpur, Malaysia",3.14789,101.69405
+44,"Chaing Mai, Thailand",18.767,99.02618
+45,"Hatyai, Thailand",7.01468,100.47113
+46,"Bratislava, Slovakia",48.14924,17.10699
+47,"Livermore, United States",37.6757,-121.75856
+48,"Jeddah, Saudi Arabia",21.4817,39.1828
+49,"Bogota, Colombia",4.61496,-74.06941
+50,"Iowa City, United States",41.65782,-91.52653
+51,"Santa Barbara, United States",34.42138,-119.70203
+52,"Galle, Sri Lanka",6.03459,80.21702
+53,"Minneapolis, United States",44.97902,-93.26494
+54,"None, Switzerland",46.94843,7.44046
+55,"Milan, Italy",45.46796,9.18178
+56,"Chennai, India",13.0838,80.28258
+57,"Mersin, Turkey",36.79987,34.63415
+58,"Orem, United States",40.29882,-111.69575
+59,"Ithaca, United States",42.44051,-76.49546
+60,"Sinop, Turkey",42.02436,35.15022
+61,"Oviedo, Spain",43.36269,-5.84768
+62,"Cairo, Egypt",30.04427,31.23525
+63,"Perugia, Italy",43.11135,12.38393
+64,"Lincoln, United States",40.81362,-96.7073
+65,"Pisa, Italy",43.70996,10.39945
+66,"Ghent, Belgium",51.05563,3.72856
+67,"Ioannina, Greece",39.66858,20.85638
+68,"Westville, United States",39.87243,-75.12553
+69,"Sao Paulo, Brazil",-23.5629,-46.65474
+70,"Vercelli, Italy",45.32263,8.41844
+71,"Florence, Italy",43.78237,11.25501
+72,"Prague, Czech Republic",50.07914,14.43299
+73,"Ankara, Turkey",39.92121,32.85391
+74,"Mexico, Mexico",19.43195,-99.13315
+75,"Gwangju, South Korea",35.21405,126.80807
+76,"Turin, Italy",45.06235,7.67993
+77,"Bebek, Turkey",41.08111,29.04416
+78,"Mumbai, India",18.94018,72.83484
+79,"Kars, Turkey",40.6032,43.10223
+80,"Boulder, United States",40.01574,-105.27924
+81,"Miami, United States",25.77481,-80.19773
+82,"Villigen, Switzerland",47.52364,8.21538
+83,"Lawrence, United States",38.97307,-95.23616
+84,"Vienna, Austria",48.20263,16.36842
+85,"Gainesville, United States",29.65198,-82.32265
+86,"Riga, Latvia",56.94596,24.11481
+87,"Waco, United States",31.57182,-97.1495
+88,"Yerevan, Armenia",40.17795,44.51402
+89,"College Station, United States",30.62054,-96.3259
+90,"Buffalo, United States",42.88545,-78.87846
+91,"New Brunswick, United States",40.49477,-74.44384
+92,"Quito, Ecuador",-0.20567,-78.50887
+93,"El Shorouk, Egypt",30.15307,31.62622
+94,"Mayaguez, Puerto Rico",18.17546,-67.33246
+95,"Aachen, Germany",50.77823,6.08864
+96,"Taoyuan, Taiwan",24.99363,121.30111
+97,"Islamabad, Pakistan",33.70964,73.07545
+98,"Isfahan, Iran",32.65086,51.68386
+99,"Seoul, South Korea",37.55886,126.99989
+100,"Columbus, United States",39.96199,-83.00275
+101,"Debrecen, Hungary",47.53439,21.61912
+102,"Lappeenranta, Finland",61.05545,28.18893
+103,"Uxbridge, United Kingdom",51.54425,-0.4749
+104,"Dubna, Russian Federation",56.76251,37.14867
+105,"Pavia, Italy",45.19305,9.1513
+106,"Doha, Qatar",25.29424,51.51967
+107,"Zurich, Switzerland",47.37917,8.54237
+108,"San Cristobal de La Laguna, Spain",28.48534,-16.31455
+109,"Providence, United States",41.82388,-71.41198
+110,"Strasbourg, France",48.58504,7.73642
+111,"Chandigarh, India",30.7036,76.78967
+112,"Budapest, Hungary",47.49972,19.05508
+113,"University, United States",38.6565,-90.31027
+114,"Tokat, Turkey",40.31394,36.55088
+115,"Batavia, United States",41.85,-88.30843
+116,"Santander, Spain",43.46155,-3.81006
+117,"Pune, India",18.50419,73.85286
+118,"Frascati, Italy",41.81097,12.68136
+119,"Rochester, United States",43.1558,-77.61632
+120,"Campinas, Brazil",-22.90904,-47.06454
+121,"Tallahassee, United States",30.43977,-84.28065
+122,"Adiyaman, Turkey",37.76046,38.27601
+123,"Tehran, Iran",35.68877,51.41503
+124,"Daegu, South Korea",35.85402,128.61034
+125,"Mexico City, Mexico",19.43195,-99.13315
+126,"Pasadena, United States",34.14745,-118.14427
+127,"Novosibirsk, Russian Federation",55.03976,82.91016
+128,"Louvain-la-Neuve, Belgium",50.48305,4.79561
+129,"Giza, Egypt",30.00957,31.21381
+130,"Kharkiv, Ukraine",50.00419,36.23577
+131,"Bologna, Italy",44.50484,11.34507
+132,"Southampton, United Kingdom",50.90999,-1.4071
+133,"Yazd, Iran",31.90543,54.35115
+134,"Didcot, United Kingdom",51.60237,-1.23211
+135,"Hamburg, Germany",53.55562,9.98745
+136,"Cottbus, Germany",51.76101,14.33123
+137,"Porto Alegre, Brazil",-30.03393,-51.22799
+138,"Puebla, Mexico",19.04386,-98.19756
+139,"Christchurch, New Zealand",-43.53104,172.63779
+140,"Santo Andre, Brazil",-23.65639,-46.53172
+141,"Madrid, Spain",40.41955,-3.69196
+142,"Evanston, United States",42.05702,-87.68645
+143,"Otwock, Poland",52.10574,21.26301
+144,"Vilnius, Lithuania",54.69062,25.2698
+145,"Bhubaneswar, India",20.26893,85.84103
+146,"Meram, Turkey",37.86552,32.49301
+147,"Zagreb, Croatia",45.80724,15.96757
+148,"Taipei, Taiwan",25.03737,121.56355
+149,"Davis, United States",38.54669,-121.74457
+150,"Los Angeles, United States",34.05357,-118.24545
+151,"Bingol, Turkey",38.8848,40.50614
+152,"Pittsburgh, United States",40.43851,-79.99734
+153,"West Lafayette, United States",40.4312,-86.91396
+154,"Catania, Italy",37.51162,15.06744
+155,"Dublin, Ireland",53.34807,-6.24827
+156,"Padua, Italy",45.40944,11.87171
+157,"Potenza, Italy",40.63723,15.79927
+158,"New Delhi, India",28.63141,77.21676
+159,"College Park, United States",38.98074,-76.93725
+160,"Paris, France",48.85717,2.3414
+161,"Solan, India",30.91888,77.09764
+162,"Tomsk, Russian Federation",56.49337,84.94819
+163,"Belgrade, Serbia",44.8131,20.46329
+164,"Helsinki, Finland",60.17116,24.93265
+165,"Minsk, Belarus",53.90374,27.56545
+166,"Split, Croatia",43.50278,16.44159
+167,"Protvino, Russian Federation",54.87438,37.20849
+168,"Siena, Italy",43.32563,11.33039
+169,"Gif-sur-Yvette, France",48.70235,2.13248
+170,"Riverside, United States",33.98171,-117.37404
+171,"Sofia, Bulgaria",42.69718,23.32433
+172,"London, United Kingdom",51.50643,-0.12719
+173,"Gatchina, Russian Federation",59.56419,30.11823
+174,"Notre Dame, United States",41.69933,-86.23879
+175,"Lubbock, United States",33.58451,-101.84462
+176,"Santiniketan, India",23.68221,87.68658
+177,"Warsaw, Poland",52.2356,21.01037
+178,"Villeurbanne, France",45.76962,4.87898
+179,"Rome, Italy",41.90325,12.49563
+180,"Mulhouse, France",47.7517,7.34367
+181,"Nashville, United States",36.16784,-86.77816
+182,"Athens, Greece",37.97614,23.7364
+183,"Zurich ZH,, Switzerland",47.37917,8.54237
+184,"Benito Juarez, Mexico",19.3718,-99.15725
+185,"Lisbon, Portugal",38.72633,-9.14951
+186,"Trieste, Italy",45.65757,13.77269
+187,"Fayoum, Egypt",29.30843,30.84418
+188,"Tuscaloosa, United States",33.21056,-87.56576
+189,"Adana, Turkey",36.98566,35.32497
+190,"Tbilisi, Georgia",41.70907,44.7961
+191,"Sesto Fiorentino, Italy",43.83079,11.20269
+192,"Karlsruhe, Germany",49.01096,8.40848
+193,"San Diego, United States",32.71568,-117.16171
+194,"Nicosia, Cyprus",35.17197,33.36489
+195,"Melbourne, United States",28.07944,-80.60756
+196,"Antwerpen, Belgium",51.22212,4.39769
+197,"Kolkata, India",22.5706,88.37132
+198,"Washington, D.C., United States",38.89037,-77.03196
+199,"Chicago, United States",41.88425,-87.63245
+200,"Manhattan, United States",40.71451,-74.00602
+201,"San Luis Potosí, Mexico",22.15271,-100.97663
+202,"Bengaluru, India",12.96614,77.58694
+203,"Genoa, Italy",44.41048,8.93917
+204,"Saint Petersburg, Russian Federation",59.93319,30.30609
+205,"Trento, Italy",46.07005,11.11929
+206,"Bicocca, Italy",45.52163,9.21275
+207,"Detroit, United States",42.33168,-83.048
+208,"Istanbul, Turkey",41.06201,28.98877
+209,"Dolgoprudny, Russian Federation",55.9343,37.5195
+210,"Geneva, Switzerland",46.20833,6.14275
+211,"Bangi, Malaysia",2.90178,101.77844
+212,"Naples, Italy",40.84014,14.25227
+213,"Erzincan, Turkey",39.74811,39.48222
+214,"Tallinn, Estonia",59.43642,24.75258
+215,"Bari, Italy",41.12587,16.86666
+216,"Melbourne, Australia",-37.81736,144.96755
+217,"Izmir, Turkey",38.4262,27.14188
+218,"Knoxville, United States",35.96068,-83.92103
+219,"Khon Kaen, Thailand",16.43864,102.83502
+220,"Stockholm, Sweden",59.33257,18.06683
+221,"Uppsala, Sweden",59.85862,17.64373
+222,"Helwan, Egypt",29.84637,31.30985
+223,"6th October, Egypt",31.27243,30.00426
+224,"Saint Paul, United States",44.94339,-93.09648
+225,"Karaman, Turkey",37.18076,33.22366
+226,"Hermosillo, Mexico",29.07455,-110.95912
+227,"Santa Clara, United States",37.3558,-121.95512
+228,"Tha Sala, Thailand",8.6636,99.92925
+229,"Songkla, Thailand",7.19328,100.59591
+230,"Nontaburi, Thailand",13.85905,100.5207
+231,"Saarbrucken, Germany",49.23175,6.9985
+232,"Thonburi, Thailand",13.70478,100.48973
+233,"Kamphaeng Saen, Thailand",14.03758,99.98001
+234,"Nay Pyi Taw, Myanmar",19.72682,96.07529
+235,"Boxmeer, Netherlands",51.64621,5.95028
+236,"Wako, Japan",35.78136,139.6058
+237,"Groningen, Netherlands",53.21687,6.57393
+238,"Tucson, United States",32.22177,-110.96977
+239,"Sendai, Japan",38.26822,140.8694
+240,"Kyoto, Japan",35.02125,135.75558
+241,"Nanjing, China",32.04978,118.76598
+242,"Edinburgh, United Kingdom",55.95438,-3.20144
+243,"Chiangmai, Thailand",18.767,99.02618
+244,"Hayama, Japan",35.27212,139.58618
+245,"Amherst, United States",42.37312,-72.5329
+246,"Mitaka, Japan",35.68331,139.55984
+247,"Garching bei Munchen, Germany",48.24905,11.65149
+248,"Singapore City, Singapore",1.29087,103.85238
+249,"Mainz, Germany",50.00062,8.27241
+250,"Hanoi, Viet Nam",21.02139,105.8523
+251,"Graz, Austria",47.06861,15.44328
+252,"Serdang, Malaysia",5.20818,100.61307
+253,"Hattiesburg, United States",31.32754,-89.29096
+254,"Maha Sarakham, Thailand",16.19373,103.29146
+255,"Newcastle, United Kingdom",54.97789,-1.61162
+256,"None, Georgia",51.52018,-0.15637
+257,"Suez, Egypt",41.00194,-98.60882
+258,"None, None",44.93032,7.5307
+259,"Bloomington, United States",39.1666,-86.5348
+260,"None, United States",38.89036,-77.03196
+261,"Krakow, Poland",50.06045,19.93242
+262,"Cambridge, United Kingdom",52.20992,0.11161
+263,"Suita, Japan",34.75944,135.51685
+264,"Berkeley, United States",37.86988,-122.27054
+265,"Pitsanulok, Thailand",16.82124,100.26613
+266,"Oakland, United States",37.80508,-122.27307
+267,"San Francisco, United States",37.77712,-122.41966
+268,"Songkhla Province, Thailand",7.19328,100.59591
+269,"Lopburi, Thailand",14.79984,100.63352
+270,"Liverpool, United Kingdom",53.41005,-2.9784
+271,"Montreal, Canada",45.5124,-73.55469
+272,"Lyon, France",45.75917,4.82965
+273,"Munich, Germany",48.13641,11.57754
+274,"Marseille, France",43.29337,5.37133
+275,"Biobio, Chile",-36.82816,-73.05121
+276,"Brighton, United Kingdom",50.82866,-0.13434
+277,"Leiden, Netherlands",52.15363,4.49381
+278,"Noordwijk aan Zee, Netherlands",52.24883,4.43564
+279,"Copenhagen, Denmark",55.67567,12.56756
+280,"Bonn, Germany",50.73181,7.09888
+281,"Sheffield, United Kingdom",53.38311,-1.46454
+282,"Santiago, Chile",-33.43723,-70.65003
+283,"Valparaiso, Chile",-33.05197,-71.60229
+284,"Durham, United Kingdom",54.77757,-1.57479
+285,"Wuhu, China",39.90657,116.38765
+286,"Hefei, China",31.87003,117.27457
+287,"Heidelberg, Germany",49.41349,8.70798
+288,"Wellington, New Zealand",-41.28949,174.77686
+289,"Bucheon-si, South Korea",37.47511,126.79348
+290,"Kamogawa, Japan",35.11404,140.09883
+291,"Ikoma, Japan",34.62918,135.70059
+292,"Jinan, China",36.66644,116.96486
+293,"Tsukuba, Japan",36.08348,140.07645
+294,"Jackson, United States",32.29896,-90.18044
+295,"Honolulu, United States",21.30493,-157.85788
+296,"Durham, United States",35.99544,-78.8965
+297,"Hong Kong, Hong Kong",22.27683,114.17612
+298,"Ludwigshafen, Germany",49.48092,8.44726
+299,"Hoddesdon, United Kingdom",51.76784,-0.01323
+300,"Rahway, United States",40.60451,-74.27379
+301,"Sydney, Australia",-33.86973,151.20825
+302,"Kingston, United States",41.92698,-73.99737
+303,"Brunswick, United States",31.14974,-81.49556
+304,"Adelaide, Australia",-34.92587,138.59982
+305,"Perth, Australia",-31.95265,115.85742
+306,"Chiba, Japan",35.60459,140.12307
+307,"None, Hong Kong",22.27683,114.17612
+308,"Manila, Philippines",14.60487,120.98627
+309,"Tokushima, Japan",34.06576,134.55929
+310,"Ang Thong, Thailand",14.58694,100.44364
+311,"Tubarao, Brazil",-28.48692,-49.01225
+312,"Geelong, Australia",-38.14855,144.36016
+313,"Ribeirao Preto, Brazil",-21.177,-47.8078
+314,"Mossoro, Brazil",-5.18784,-37.34422
+315,"Fortaleza, Brazil",-3.71837,-38.54405
+316,"Changsha, China",28.19615,112.97268
+317,"Bethesda, United States",38.98637,-77.09692
+318,"Cheongju, South Korea",36.63795,127.49275
+319,"Ann Arbor, United States",42.2821,-83.74847
+320,"Sapporo, Japan",43.06204,141.35437
+321,"Seri Iskandar, Malaysia",3.88987,100.9337
+322,"Erlangen, Germany",49.59795,11.00258
+323,"Min-Hsiung, Taiwan",23.55181,120.42914
+324,"Ubon Ratchathani, Thailand",15.27315,104.84923
+325,"3000 Leuven, Belgium",50.87763,4.70719
+326,"Leuven, Belgium",50.87763,4.70719
+327,"Toronto, Canada",43.64869,-79.38544
+328,"Reykjavik, Iceland",64.14585,-21.93955
+329,"Nakon Pathom, Thailand",13.84848,100.03943
+330,"Hamilton, Canada",43.26203,-79.88798
+331,"Yokohama, Japan",35.4504,139.63425
+332,"Sennan, Japan",34.40138,135.35585
+333,"Fukui, Japan",36.06519,136.22171
+334,"Ladkrabang Bangkok, Thailand",13.72307,100.7802
+335,"Matsumoto, Japan",36.23806,137.972
+336,"Niigata, Japan",37.90246,139.0232
+337,"Fukuoka, Japan",33.60621,130.41828
+338,"Stillwater, United States",36.11665,-97.05863
+339,"Nakhon Sawan, Thailand",15.68336,100.10682
+340,"Manchester, United Kingdom",53.47548,-2.25125
+341,"Beckenham, United Kingdom",51.40759,-0.02716
+342,"Penrith, Australia",-33.7537,150.69799
+343,"Barcelona, Spain",41.38804,2.17001
+344,"Okayama, Japan",34.66173,133.93503
+345,"Ames, United States",42.02534,-93.6202
+346,"Pohang, South Korea",36.03787,129.36627
+347,"Potsdam, Germany",52.39969,13.04782
+348,"Yamagata, Japan",38.2404,140.36361
+349,"Norwich, United Kingdom",52.6225,1.2949
+350,"Osaka, Japan",34.68634,135.52002
+351,"Otawara, Japan",36.87097,140.016
+352,"Kanazawa, Japan",36.56105,136.65651
+353,"Omura, Japan",32.89991,129.95789
+354,"Moroyama, Japan",35.9415,139.31605
+355,"Ube, Japan",33.95181,131.24732
+356,"Kurashiki, Japan",34.5851,133.77196
+357,"Musashino, Japan",35.7177,139.56603
+358,"Saga, Japan",33.2494,130.29963
+359,"Hannover, Germany",52.37227,9.73815
+360,"Chapel Hill, United States",35.91494,-79.0568
+361,"Research Triangle Park, United States",35.90831,-78.86228
+362,"Philadelphia, United States",39.95222,-75.16218
+363,"None, Indonesia",-6.17148,106.82648
+364,"Nagaoka, Japan",33.75964,133.58675
+365,"Si Racha, Thailand",13.17318,100.92625
+366,"Yezin, Myanmar",20.61499,94.9728
+367,"Thika, Kenya",-1.03777,37.0759
+368,"Mogadishu, Somalia",2.03812,45.34157
+369,"Nagasaki, Japan",32.75014,129.86747
+370,"Obihiro, Japan",42.92408,143.19613
+371,"Khartoum, Sudan",15.58651,32.52318
+372,"Zabol, Iran",31.03967,61.49999
+373,"Phayao, Thailand",19.12357,99.85838
+374,"Plovdiv, Bulgaria",42.13586,24.74905
+375,"Llanelli, United Kingdom",51.68283,-4.13477
+376,"Kendari, Indonesia",-3.96988,122.58953
+377,"Nishihara, Japan",26.22282,127.75883
+378,"Taoyuan, Thailand",8.87839,98.86234
+379,"Keele, United Kingdom",53.00412,-2.28781
+380,"San Jose, Costa Rica",9.92975,-84.08569
+381,"Lecce, Italy",40.35796,18.16802
+382,"Sisal, Mexico",21.16517,-90.03154
+383,"Paterna, Spain",39.5006,-0.43953
+384,"Curitiba, Brazil",-25.43998,-49.27654
+385,"Bergen, Norway",60.39078,5.33288
+386,"Galveston, United States",29.29532,-94.80791
+387,"Johor Bahru, Malaysia",1.46478,103.75711
+388,"Bath, United Kingdom",51.38503,-2.36132
+389,"Kunming, China",25.06453,102.69877
+390,"Brisbane, Australia",-27.46844,153.02334
+391,"Hempstead, United States",40.7101,-73.62194
+392,"Tyler, United States",32.34763,-95.2943
+393,"St. Louis, United States",38.62775,-90.19956
+394,"Matsuyama, Japan",33.83917,132.7656
+395,"Samarinda, Indonesia",-0.49544,117.14375
+396,"Mesa, United States",33.41704,-111.83146
+397,"Townsville, Australia",-19.25718,146.82136
+398,"Kotabumi, Indonesia",-4.82001,104.87579
+399,"Kuching, Malaysia",1.5202,110.35363
+400,"Ipoh, Malaysia",4.59857,101.11988
+401,"Makati, Philippines",14.55486,121.03509
+402,"Selangor, Malaysia",3.09198,101.49423
+403,"Malacca Town, Malaysia",2.19716,102.24619
+404,"Maastricht, Netherlands",50.84981,5.68829
+405,"Hohhot, China",40.83173,111.6611
+406,"Norman, United States",35.22097,-97.4461
+407,"Johannesburg, South Africa",-26.20495,28.03995
+408,"Qingdao, China",36.11049,120.35569
+409,"Patum Thani, Thailand",13.96878,100.55392
+410,"Seattle, United States",47.60357,-122.32945
+411,"Sakon Nakhon, Thailand",17.17245,104.10971
+412,"Chonburi, Thailand",13.33867,100.99263
+413,"Pelotas, Brazil",-31.76323,-52.34141
+414,"Jena, Germany",50.92696,11.58634
+415,"Nottingham, United Kingdom",52.94798,-1.15157
+416,"Hanover, United States",39.15593,-76.72008
+417,"Sao Carlos, Brazil",-22.01436,-47.89081
+418,"Tashkent, Uzbekistan",41.32569,69.24134
+419,"Legnaro, Italy",45.34539,11.96392
+420,"Pathumtani, Thailand",13.96878,100.55392
+421,"Maiduguri, Nigeria",11.83696,13.14475
+422,"Cluj Napoca, Romania",46.7687,23.58502
+423,"Columbia, United States",33.99882,-81.04537
+424,"Kobe, Japan",34.68943,135.19576
+425,"Calgary, Canada",51.04532,-114.06301
+426,"Raleigh, United States",35.78547,-78.6427
+427,"Bendigo, Australia",-36.75744,144.28163
+428,"None, Australia",44.93032,7.5307
+429,"San Nicolas de los Garza, Mexico",25.76004,-100.27356
+430,"Riyadh, Saudi Arabia",24.68204,46.68725
+431,"Bandar Seri Begawan, Brunei Darussalam",4.8919,114.94044
+432,"Roslin, United Kingdom",55.85828,-3.16613
+433,"Maisons-Alfort, France",48.80158,2.43213
+434,"Rockville, United States",39.08196,-77.15118
+435,"Novara, Italy",45.44678,8.61524
+436,"San Jose, United States",37.33865,-121.88542
+437,"Aarhus, Denmark",56.15302,10.20486
+438,"Belfast, United Kingdom",54.59534,-5.93455
+439,"Madurai, India",9.92422,78.12418
+440,"Hyderabad, India",17.3949,78.47081
+441,"Yonago, Japan",35.42808,133.33098
+442,"None, China",51.51142,-0.13073
+443,"Quezon City, Philippines",9.23836,117.99553
+444,"Kajang, Malaysia",2.9932,101.78892
+445,"Rolla, United States",37.95147,-91.76931
+446,"London, Canada",42.9869,-81.24624
+447,"Bartlesville, United States",36.74675,-95.97902
+448,"Bengkulu City, Indonesia",-3.75908,102.30221
+449,"Izumi, Japan",32.19943,130.17698
+450,"Leoben, Austria",47.38156,15.09585
+451,"Nanterre, France",48.88822,2.19428
+452,"Malvern, United States",40.03701,-75.51047
+453,"Loudonville, United States",40.63549,-82.23031
+454,"Portland, United States",45.51179,-122.67563
+455,"Mons, Belgium",50.45471,3.95224
+456,"Vancouver, Canada",49.26038,-123.11336
+457,"Chiang Rai, Thailand",19.89659,99.83999
+458,"Phra Nakhon si Ayutthaya, Thailand",14.35071,100.58371
+459,"Corvallis, United States",44.56513,-123.2639
+460,"Nakhon Phanom, Thailand",17.41083,104.77954
+461,"Newark, United States",40.73197,-74.17421
+462,"Hachioji, Japan",35.66645,139.31608
+463,"Jeonju, South Korea",35.827,127.14439
+464,"Icel, Turkey",39.92159,32.86044
+465,"None, Russian Federation",55.75696,37.61502
+466,"Bern, Switzerland",46.94843,7.44046
+467,"None, Italy",44.93032,7.5307
+468,"Omuta, Japan",33.03026,130.44596
+469,"Kure, Japan",34.24898,132.56538
+470,"Nis, Serbia",43.32093,21.89574
+471,"Ikeji-Arakeji, Nigeria",6.60776,3.34854
+472,"Haikou, China",20.0372,110.34528
+473,"Cooperstown, United States",42.70068,-74.92511
+474,"Evansville, United States",37.97708,-87.56405
+475,"Ho Chi Minh City, Viet Nam",10.77641,106.7011
+476,"Wuhan, China",30.64353,114.32472
+477,"Zigong, China",27.33849,128.57385
+478,"New Taipei City, Taiwan",25.01195,121.46575
+479,"Ottawa, Canada",45.42177,-75.69121
+480,"Koln, Germany",50.94257,6.95559
+481,"Leverkusen, Germany",51.03321,6.98173
+482,"Irkutsk, Russian Federation",52.30025,104.24685
+483,"Incheon, South Korea",37.46317,126.66085
+484,"Tianjin, China",39.14218,117.19935
+485,"Bandar Sunway, Malaysia",3.06866,101.60249
+486,"Phnom Penh, Cambodia",11.56261,104.87914
+487,"Maputo, Mozambique",-25.97456,32.57327
+488,"Greifswald, Germany",54.09732,13.3836
+489,"Akita, Japan",39.71863,140.10236
+490,"Makkah, Saudi Arabia",21.4211,39.82223
+491,"Perak, Malaysia",3.43353,102.41678
+492,"Central Jakarta, Indonesia",-6.18738,106.81519
+493,"Kubang Kerian, Malaysia",6.11434,102.24918
+494,"Salt Lake City, United States",40.76031,-111.88822
+495,"Laramie, United States",41.31339,-105.59072
+496,"Oak Ridge, United States",36.01468,-84.25576
+497,"Criciuma, Brazil",-28.678,-49.37165
+498,"Canoas, Brazil",-29.91523,-51.18268
+499,"Rotterdam, Netherlands",51.91438,4.48716
+500,"None, Malaysia",3.14789,101.69404
+501,"Chengdu, China",30.6719,104.0758
+502,"Hangzhou, China",30.27241,120.20593
+503,"Shanghai, China",31.25516,121.4747
+504,"Billerica, United States",42.56355,-71.27144
+505,"University Park, United States",40.79975,-77.86049
+506,"Veszprem, Hungary",47.09252,17.90776
+507,"None, Taiwan",25.03737,121.56355
+508,"Granada, Spain",37.17054,-3.60512
+509,"Charlotte, United States",35.22286,-80.83796
+510,"Mianyang, China",22.64301,93.61433
+511,"Quetta, Pakistan",30.22104,67.00878
+512,"Londrina, Brazil",-23.30997,-51.16543
+513,"Cape Town, South Africa",-33.91909,18.42198
+514,"Orange, United States",33.78787,-117.85071
+515,"Irvine, United States",33.6873,-117.82591
+516,"Chatenay-Malabry, France",48.76702,2.27673
+517,"Thanh Xuan, Viet Nam",20.99774,105.79883
+518,"Rennes, France",48.10824,-1.68449
+519,"Santiago de Compostela, Spain",42.87683,-8.54432
+520,"Havana, Cuba",23.13211,-82.36749
+521,"Hong Kong, China",23.1081,120.19398
+522,"Chang-Hua, China",28.19615,112.97268
+523,"Braunschweig, Germany",52.26546,10.5274
+524,"Taichung, Taiwan",24.16324,120.64821
+525,"Essen, Germany",51.45183,7.01108
+526,"Burnaby, Canada",49.24475,-122.97334
+527,"Jerusalem, Israel",31.78003,35.21873
+528,"Zaragoza, Spain",41.65183,-0.88114
+529,"Tempe, United States",33.42554,-111.93722
+530,"Xi'an, China",30.04732,-94.33519
+531,"Reading, United Kingdom",51.45357,-0.96257
+532,"Bremen, Germany",53.07538,8.80455
+533,"Reno, United States",39.52766,-119.81353
+534,"Las Vegas, United States",36.17193,-115.14001
+535,"Egham, United Kingdom",51.43108,-0.54689
+536,"Bandung, Indonesia",-6.91266,107.60791
+537,"Ayuthaya, Thailand",14.35071,100.58371
+538,"Linkoping, Sweden",58.41109,15.62562
+539,"Thimphu, Bhutan",27.47531,89.63399
+540,"Thimbu, Bhutan",27.47531,89.63399
+541,"Phuentsholing, Bhutan",26.90171,89.45253
+542,"Dubai, United Arab Emirates",25.26951,55.30884
+543,"Besancon, France",47.24276,6.0254
+544,"Narashino, Japan",35.68164,140.02726
+545,"Shah Alam, Malaysia",3.09198,101.49423
+546,"Samut Songkhram, Thailand",13.39904,99.99564
+547,"Shizuoka, Japan",34.97679,138.38294
+548,"Worcester, United States",42.26341,-71.80219
+549,"Parsippany, United States",40.87298,-74.43035
+550,"Udon Thani, Thailand",17.41152,102.79231
+551,"Iloilo, Philippines",10.73701,122.5383
+552,"Baguio City, Philippines",16.41297,120.59079
+553,"Davao, Philippines",7.06574,125.6108
+554,"Kelaniya, Sri Lanka",6.95517,79.92113
+555,"Leeds, United Kingdom",53.7948,-1.54655
+556,"Addis Ababa, Ethiopia",9.01358,38.76286
+557,"Orsay, France",48.69883,2.18778
+558,"Aurora, United States",39.70932,-104.81458
+559,"Varna, Bulgaria",43.2063,27.92523
+560,"Cork, Ireland",51.89832,-8.47281
+561,"Mie, Japan",34.73027,136.50854
+562,"Dhaka, Bangladesh",23.71325,90.39959
+563,"Ljubljana, Slovenia",46.05062,14.50282
+564,"Okinawa, Japan",26.21228,127.68095
+565,"Inuyama, Japan",35.37862,136.94453
+566,"Bali, Indonesia",-8.67325,115.20338
+567,"Kensington, Australia",-33.90988,151.22219
+568,"Sungai Buloh, Malaysia",3.20195,101.60016
+569,"Glasgow, United Kingdom",55.85783,-4.24251
+570,"Karachi, Pakistan",24.94778,67.0408
+571,"Amsterdam, Netherlands",52.36994,4.90788
+572,"Lausanne, Switzerland",46.5196,6.63222
+573,"Canberra, Australia",-35.30649,149.1266
+574,"Minden, Malaysia",5.35824,100.29667
+575,"Alexandria, United States",38.8046,-77.04341
+576,"Bo, Sierra Leone",7.96539,-11.73849
+577,"Fairfax, United States",38.84185,-77.30905
+578,"Lima, Peru",-12.05617,-77.02679
+579,"Darwin, Australia",-12.4609,130.84154
+580,"Washington, United States",38.89037,-77.03196
+581,"Rajshahi, Bangladesh",24.37869,88.60932
+582,"Carbondale, United States",37.72726,-89.21579
+583,"Osakasayama, Japan",34.50369,135.55574
+584,"Chachoengsao, Thailand",13.70645,100.96775
+585,"Morristown, United States",40.79352,-74.47774
+586,"Gdańsk, Poland",54.35311,18.65105
+587,"Edmonton, Canada",53.54624,-113.49037
+588,"Lviv, Ukraine",49.84441,24.02543
+589,"Titusville, United States",28.60803,-80.8077
+590,"Beerse, Belgium",51.31961,4.85576
+591,"Lodz, Poland",51.77234,19.47502
+592,"Donetsk, Ukraine",48.00203,37.81449
+593,"Bellinzona, Switzerland",46.19454,9.02414
+594,"Dinant, Belgium",50.26017,4.91033
+595,"Nizhny Novgorod, Russian Federation",56.32147,44.03271
+596,"Kawachi District, Japan",36.43937,139.91
+597,"Al Ain, United Arab Emirates",24.20747,55.68634
+598,"Patra, Greece",38.24424,21.73254
+599,"Morgantown, United States",39.63053,-79.95771
+600,"Kelowna, Canada",49.88698,-119.49661
+601,"Petchaburi, Thailand",13.09791,99.95065
+602,"Belmont, United States",42.39707,-71.17834
+603,"Kosice, Slovakia",48.71677,21.2533
+604,"Hove, United Kingdom",50.83896,-0.18214
+605,"None, Kenya",-1.28353,36.82379
+606,"Durban, South Africa",-29.85756,31.02781
+607,"Regensburg, Germany",49.01491,12.10169
+608,"Scottsdale, United States",33.494,-111.92052
+609,"Tampa, United States",27.94653,-82.45927
+610,"Lancaster, United Kingdom",54.04748,-2.79763
+611,"Ningbo, China",22.81175,108.32959
+612,"Yusong, South Korea",36.45667,128.89021
+613,"Regina, Canada",50.44825,-104.59517
+614,"Wangdue Phodrang, Bhutan",27.48522,89.92966
+615,"Zaandam, Netherlands",52.44953,4.80934
+616,"Pessac, France",44.80615,-0.63094
+617,"Lusaka, Zambia",-15.42561,28.27873
+618,"Harare, Zimbabwe",-17.82439,31.04995
+619,"Kampala, Uganda",0.31589,32.57501
+620,"Atlanta, United States",33.74831,-84.39111
+621,"Lampang, Thailand",18.27058,99.46862
+622,"Lamphun, Thailand",18.58695,99.0101
+623,"Samut Sakhon, Thailand",13.54455,100.28062
+624,"Johnson, United States",36.32008,-82.34518
+625,"Chum Phae, Thailand",16.53903,102.09759
+626,"Phetchabun, Thailand",16.41898,101.15394
+627,"Silver Spring, United States",38.99693,-77.02914
+628,"Busan, South Korea",35.17793,129.07848
+629,"Cheonan, South Korea",36.80761,127.1588
+630,"Falmouth, United States",41.55353,-70.61847
+631,"East Lansing, United States",42.73781,-84.48378
+632,"Saint-Jean-d'Illac, France",44.81096,-0.78218
+633,"Talence, France",44.81036,-0.59188
+634,"Nijmegen, Netherlands",51.84142,5.85801
+635,"Stoke-on-Trent, United Kingdom",53.02993,-2.17504
+636,"None, United Kingdom",51.50643,-0.12721
+637,"Berlin, Germany",52.51604,13.37691
+638,"Harrow, United Kingdom",51.57828,-0.3377
+639,"None, Portugal",38.72633,-9.14952
+640,"Leiria, Portugal",39.74326,-8.81203
+641,"Viseu, Portugal",40.65695,-7.91463
+642,"Luxembourg, Luxembourg",49.6096,6.12966
+643,"Tubingen, Germany",48.52035,9.04913
+644,"Poitiers, France",46.58387,0.33569
+645,"Frankfurt am Main, Germany",50.11208,8.68341
+646,"Isehara, Japan",35.40296,139.31501
+647,"Kathmandu, Nepal",27.69329,85.32227
+648,"Phutthamonthon, Thailand",13.82906,100.29385
+649,"Claremont, United States",34.09641,-117.7164
+650,"Shenzhen, China",22.55651,114.11912
+651,"Guelph, Canada",43.54456,-80.24788
+652,"Palma, Spain",39.57155,2.64663
+653,"Nomi, Japan",36.46878,136.54188
+654,"Zallaq, Bahrain",26.04934,50.49125
+655,"Leicester, United Kingdom",52.63796,-1.14042
+656,"Waalre, Netherlands",51.38646,5.44345
+657,"Cardiff, United Kingdom",51.48127,-3.18072
+658,"Vientiane, Laos",17.9518,102.61893
+659,"Gold Coast, Australia",-28.00195,153.42856
+660,"North Chicago, United States",42.32596,-87.85613
+661,"Daejeon, South Korea",36.33449,127.43731
+662,"Hiroshima, Japan",34.39658,132.45962
+663,"Beni Suef, Egypt",29.07583,31.09673
+664,"Bremerhaven, Germany",53.54433,8.58194
+665,"None, Bulgaria",42.69718,23.32433
+666,"Munster, Germany",51.96301,7.61781
+667,"Roche sur Yon, France",46.67199,-1.42739
+668,"Tours, France",47.38846,0.68957
+669,"Reims, France",49.26019,4.02956
+670,"Hradec Kralove, Czech Republic",50.21158,15.83124
+671,"Villejuif, France",48.7929,2.36931
+672,"Bordeaux, France",44.8367,-0.58105
+673,"Bowling Green, United States",36.99462,-86.44558
+674,"Fargo, United States",46.87591,-96.78176
+675,"Andong, South Korea",36.56792,128.72181
+676,"Tainan, Taiwan",22.99124,120.18476
+677,"New Haven, United States",41.30801,-72.92432
+678,"Okazaki, Japan",34.95485,137.17308
+679,"Memphis, United States",35.14976,-90.04925
+680,"Bethlehem, United States",40.63103,-75.37789
+681,"Greenfield, United States",39.78515,-85.7693
+682,"Nam Dinh, Viet Nam",20.42804,106.17489
+683,"Konkaen, Thailand",16.43864,102.83502
+684,"Phisanulok, Thailand",16.82124,100.26613
+685,"Gyongyos, Hungary",47.77503,19.93002
+686,"Plzen, Czech Republic",49.7464,13.38405
+687,"Menlo Park, United States",37.4555,-122.17878
+688,"Cleveland, United States",41.50473,-81.69074
+689,"None, Japan",40.99274,-75.90573
+690,"Augusta, United States",44.31804,-69.7763
+691,"Duarte, United States",34.13961,-117.9705
+692,"Meldola, Italy",44.13224,12.06155
+693,"Tel Aviv-Yafo, Israel",32.08556,34.78953
+694,"Tel Hashomer tel Aviv, Israel",32.0479,34.84503
+695,"Toulouse, France",43.60579,1.44863
+696,"Basel, Switzerland",47.5488,7.58781
+697,"Yilan, Taiwan",24.7518,121.75315
+698,"Fort Lauderdale, United States",26.12401,-80.14357
+699,"Cincinnati, United States",39.10713,-84.50413
+700,"El Paso, United States",31.75916,-106.48749
+701,"Reston, United States",38.95979,-77.35453
+702,"Frederick, United States",39.41574,-77.41203
+703,"Amphoe Khlong Luang, Thailand",14.10778,100.62145
+704,"Gifu, Japan",35.39108,136.72362
+705,"Hikone, Japan",35.27433,136.25964
+706,"Urbana, United States",40.11762,-88.2043
+707,"Auburn, United States",47.3074,-122.23035
+708,"Xiamen, China",25.70622,-99.23993
+709,"Tai'an, China",37.88141,112.54952
+710,"Anseong, South Korea",37.01,127.28084
+711,"Kumamoto, Japan",32.78973,130.74152
+712,"Fairfield, United States",38.24924,-122.0443
+713,"Dayton, United States",39.7592,-84.19381
+714,"Volos, Greece",39.37415,22.95779
+715,"New Cairo, Egypt",30.01601,31.40563
+716,"Armidale, Australia",-30.51572,151.66841
+717,"Denton, United States",33.21659,-97.13163
+718,"Leipzig, Germany",51.3452,12.38594
+719,"Higashihiroshima, Japan",34.42639,132.74325
+720,"Juba, South Sudan",4.83975,31.59758
+721,"Great Yarmouth, United Kingdom",52.61265,1.72408
+722,"Dresden, Germany",51.05363,13.74081
+723,"Wurzburg, Germany",49.79299,9.93651
+724,"Lahore, Pakistan",31.53945,74.30348
+725,"Freiburg im Breisgau, Germany",47.99853,7.84965
+726,"Utrecht, Netherlands",52.08979,5.11414
+727,"Laxenburg, Austria",48.06741,16.35749
+728,"Delft, Netherlands",52.00878,4.36534
+729,"Cerdanyola del Valles, Spain",41.49246,2.14699
+730,"Nantes, France",47.21811,-1.55302
+731,"Uji, Japan",34.88435,135.7998
+732,"Chemnitz, Germany",50.83669,12.92087
+733,"Taiyuan, China",37.88141,112.54952
+734,"Gland, Switzerland",46.42241,6.26142
+735,"Greenbelt, United States",39.00079,-76.88056
+736,"Arlington, United States",38.8905,-77.08629
+737,"Lismore, Australia",-28.81397,153.27808
+738,"Roma, Napoli, Italy",40.84201,14.24881
+739,"Orlando, United States",28.53823,-81.37739
+740,"Savannah, United States",32.08091,-81.09119
+741,"Foster City, United States",37.56114,-122.26888
+742,"Damaturu Yobe State, Nigeria",11.72482,11.95244
+743,"Dalseo-gu, South Korea",35.108,129.01996
+744,"Jakarta, Indonesia",-6.17147,106.82649
+745,"Gombe, Nigeria",10.29319,11.1675
+746,"Ikeja, Nigeria",6.60776,3.34854
+747,"Cebu, Philippines",10.40041,123.8547
+748,"Depok, Indonesia",-6.36094,106.83341
+749,"Ahmedabad, India",23.02778,72.60032
+750,"Montrouge, France",48.81847,2.31982
+751,"Pekan, Malaysia",3.49229,103.39333
+752,"Benin, Nigeria",6.33394,5.62449
+753,"Terengganu,, Malaysia",5.3328,103.13859
+754,"Guiyang, China",26.57242,106.69473
+755,"Panama City, Panama",8.95239,-79.53539
+756,"Ceske Budejovice, Czech Republic",48.97534,14.47935
+757,"None, Myanmar",19.72682,96.07529
+758,"No, Myanmar",17.00015,96.1446
+759,"Fuzhou, China",26.07877,119.29688
+760,"Chelari, India",11.1129,75.89045
+761,"Ferrara, Italy",44.83837,11.61941
+762,"Srisaket, Thailand",15.11521,104.32071
+763,"East Falmouth, United States",41.57864,-70.5605
+764,"Kota Kinabalu, Malaysia",5.98139,116.07423
+765,"Wonju, South Korea",37.34474,127.94863
+766,"Canterbury, United Kingdom",51.27615,1.07576
+767,"Bangor, United Kingdom",53.22976,-4.12589
+768,"Norfolk, United States",36.84686,-76.28514
+769,"Fort Wayne, United States",41.08026,-85.13831
+770,"Hasselt, Belgium",50.92705,5.33597
+771,"Orleans, France",47.90143,1.90498
+772,"Hatfield, United Kingdom",51.76137,-0.23271
+773,"Poznan, Poland",52.40947,16.93828
+774,"Dwingeloo, Netherlands",52.83418,6.3651
+775,"Westford, United States",42.58038,-71.43835
+776,"Socorro, United States",34.06014,-106.89187
+777,"I-Roma, Italy",41.76699,12.92055
+778,"None, Uganda",0.31589,32.57501
+779,"Erzurum, Turkey",39.90557,41.26724
+780,"Yangon, Myanmar",16.78645,96.16844
+781,"Semarang, Indonesia",-6.98615,110.36864
+782,"Sacramento, United States",38.57944,-121.49085
+783,"Surat Thani, Thailand",9.13315,99.31573
+784,"Kalasin, Thailand",16.43199,103.50467
+785,"Ratchaburi, Thailand",13.5417,99.80818
+786,"Changchun, China",43.88415,125.30368
+787,"Bochum, Germany",51.488,7.21398
+788,"Pretoria, South Africa",-25.74579,28.18832
+789,"Accra, Ghana",5.57888,-0.23261
+790,"Greenwood, United States",39.61369,-86.11013
+791,"Buenos Aires, Argentina",-34.60849,-58.37344
+792,"Fez, Morocco",34.04187,-5.00061
+793,"None, Paraguay",-25.29738,-57.62776
+794,"Manipal, India",13.34946,74.79473
+795,"Colombo, Sri Lanka",6.93243,79.84588
+796,"Castellon de la Plana, Spain",39.98519,-0.04628
+797,"San Pedro Sula, Honduras",15.50395,-88.01573
+798,"None, Poland",44.05087,-70.38015
+799,"Eskisehir, Turkey",39.78266,30.50669
+800,"Beirut, Lebanon",33.89607,35.50678
+801,"Malaga, Spain",36.71847,-4.41965
+802,"Wavre, Belgium",50.71342,4.61168
+803,"Tegucigalpa, Honduras",14.08192,-87.20547
+804,"Bydgoszcz, Poland",53.11935,18.00863
+805,"Valencia, Spain",39.46894,-0.37686
+806,"Santo Domingo, Dominican Republic",18.47185,-69.89139
+807,"Blanes, Spain",41.67269,2.79094
+808,"Sevilla, Spain",37.38788,-6.00196
+809,"Cochabamba, Bolivia",-17.39004,-66.16043
+810,"Vellore, India",12.91354,79.13249
+811,"Kalyani, India",22.9775,88.44663
+812,"West Haven, United States",41.27228,-72.94998
+813,"Baton Rouge, United States",30.44335,-91.18664
+814,"Yamaguchi, Japan",34.18566,131.47076
+815,"Gottingen, Germany",51.53052,9.93839
+816,"Louisville, United States",38.25489,-85.76666
+817,"Waterloo, Canada",43.46377,-80.52085
+818,"Linz, Austria",48.30422,14.28816
+819,"Innsbruck, Austria",47.268,11.3913
+820,"Phuket, Thailand",7.89044,98.3898
+821,"Putrajaya, Malaysia",2.93649,101.69153
+822,"Ann Town, Myanmar",19.80361,94.05871
+823,"Hue, Viet Nam",16.46234,107.58483
+824,"Pristina, Serbia",42.6718,21.16242
+825,"Kawasaki, Japan",35.53085,139.70307
+826,"Ebina, Japan",35.44637,139.39083
+827,"Kitakyushu, Japan",33.88329,130.87518
+828,"Changhua, Taiwan",24.08069,120.54242
+829,"Minato, Japan",35.65802,139.75155
+830,"Medellin, Colombia",6.24589,-75.57457
+831,"Bhopal, India",23.26473,77.40524
+832,"Shenyang, China",41.78726,123.40401
+833,"Turku, Finland",60.4528,22.25155
+834,"Gothenburg, Sweden",57.70067,11.96822
+835,"Hobart, Australia",-42.88163,147.33163
+836,"Orono, United States",44.88793,-68.67606
+837,"Matsue, Japan",35.46776,133.04861
+838,"San Michele all'Adige, Italy",46.19371,11.13333
+839,"Ballarat, Australia",-37.56273,143.84705
+840,"Quebec, Canada",46.81277,-71.21848
+841,"Nagpur, India",21.15686,79.08199
+842,"Salvador, Brazil",-12.98645,-38.52259
+843,"Arhus, Denmark",56.15302,10.20486
+844,"Dubendorf, Switzerland",47.39978,8.62222
+845,"L'Aquila, Italy",42.35397,13.39477
+846,"Montpellier, France",43.61086,3.87613
+847,"Stuttgart, Germany",48.76778,9.17203
+848,"Loma Linda, United States",34.04831,-117.24388
+849,"Antony, France",48.75366,2.30513
+850,"Porrentruy, Switzerland",47.417,7.07821
+851,"Hermagor, Austria",46.62639,13.37109
+852,"Rostock, Germany",54.07904,12.13219
+853,"None, Germany",52.34897,24.32206
+854,"Terni, Italy",42.56283,12.6422
+855,"Olomouc, Czech Republic",49.59242,17.24903
+856,"San Pedro Garza Garcia, Mexico",25.66566,-100.40208
+857,"Bad Oeynhausen, Germany",52.20272,8.79141
+858,"Chigasaki, Japan",35.33385,139.4036
+859,"Mansoura, Egypt",31.04246,31.3746
+860,"Dalian, China",10.31632,-74.18294
+861,"Wakayama, Japan",34.22605,135.16753
+862,"Niteroi, Brazil",-22.88844,-43.11468
+863,"Changzhou, China",25.70622,-99.23993
+864,"Jacksonville, United States",30.33147,-81.65622
+865,"Mountain View, United States",37.38971,-122.08157
+866,"San Juan, Puerto Rico",18.46536,-66.11692
+867,"Zlin, Czech Republic",49.2256,17.66898
+868,"Yangon, Myanmar, Myanmar",16.88091,96.17904
+869,"Anchorage, United States",61.21753,-149.85815
+870,"Framingham, United States",42.28003,-71.41619
+871,"Nakhon si Thammarat, Thailand",8.44105,99.9704
+872,"Shijiazhuang, China",38.04368,114.49235
+873,"Lille, France",50.6282,3.06881
+874,"Jamshoro, Pakistan",33.70964,73.07544
+875,"Roi Et, Thailand",16.05616,103.63758
+876,"Tando Adam, Pakistan",25.76812,68.66361
+877,"Miki-cho, Japan",34.26831,134.13438
+878,"Fuchu, Japan",35.66935,139.47767
+879,"Dusseldorf, Germany",51.21564,6.77661
+880,"Braga, Portugal",41.55161,-8.42915
+881,"Sfax, Tunisia",34.73324,10.75057
+882,"Jinju, South Korea",37.55886,126.99989
+883,"Vasteras, Sweden",59.60958,16.54535
+884,"Halmstad, Sweden",56.67227,12.85767
+885,"Maebashi, Japan",36.3895,139.06342
+886,"Viterbo, Italy",42.42094,12.10982
+887,"Toyama, Japan",36.69505,137.21134
+888,"Kahoku, Japan",36.66889,136.72868
+889,"Woolloongabba, Australia",-27.49095,153.03534
+890,"Ibaraki, Japan",36.34173,140.44679
+891,"Nakorn Ratchasima, Thailand",14.99151,102.11727
+892,"Denver, United States",39.74001,-104.99202
+893,"Haifa, Israel",32.80123,35.00326
+894,"Warszawa, Poland",52.2356,21.01037
+895,"Rzeszow, Poland",50.03967,22.00915
+896,"Malang, Indonesia",-7.98287,112.62677
+897,"Casablanca, Morocco",33.59661,-7.61889
+898,"Alcorcon, Spain",40.35155,-3.82448
+899,"Caracas, Venezuela",10.50526,-66.91776
+900,"Ciudad de México, Mexico",19.43195,-99.13315
+901,"Edegem, Belgium",51.15417,4.44591
+902,"Szeged, Hungary",46.25417,20.15122
+903,"Harrogate, United Kingdom",53.99466,-1.54445
+904,"Magdeburg, Germany",52.13048,11.63158
+905,"Cali, Colombia",3.43402,-76.52645
+906,"Yogyakarta, Indonesia",-7.80178,110.3799
+907,"Coventry, United Kingdom",52.40526,-1.50855
+908,"Saclay, France",48.7308,2.17218
+909,"Harbin, China",45.75553,126.63951
+910,"Suwon, South Korea",37.25859,127.01598
+911,"Wollongong, Australia",-34.42486,150.89299
+912,"Grand Junction, United States",39.06879,-108.56445
+913,"Indianapolis, United States",39.76691,-86.15012
+914,"Roorkee, India",29.86233,77.88893
+915,"Patna, India",25.60134,85.13752
+916,"Shoufeng, Taiwan",23.87035,121.50846
+917,"Checheng, Taiwan",25.19504,121.50258
+918,"Pakchong, Nakorn Ratchasima, Thailand",14.66739,101.43619
+919,"Kon Kaen, Thailand",16.43864,102.83502
+920,"Kongsberg, Norway",59.66513,9.65397
+921,"Pullman, United States",46.73015,-117.18147
+922,"Byurakan, Armenia",40.34921,44.26718
+923,"Gangneung, South Korea",37.77209,128.88131
+924,"Daito, Japan",34.712,135.62346
+925,"Sagamihara, Japan",35.57143,139.373
+926,"Kanpur, India",26.43565,80.32988
+927,"Nisshin, Japan",35.13199,137.03945
+928,"Lemont, United States",41.67494,-87.99749
+929,"Palaiseau, France",48.71303,2.24628
+930,"Waigani, Papua New Guinea",-9.42629,147.17932
+931,"Lilongwe, Malawi",-13.98557,33.77027
+932,"Navi Mumbai, India",19.03274,73.0296
+933,"Inglewood, United States",33.96178,-118.35653
+934,"Des Plaines, United States",42.0423,-87.88921
+935,"Macau, China",22.19227,113.54299
+936,"Atsugi, Japan",35.4431,139.36247
+937,"Kano, Nigeria",11.9555,8.49747
+938,"Pengkalan Chepa, Malaysia",6.15464,102.30561
+939,"Chon Buri, Thailand",13.33867,100.99263
+940,"Belitung, Indonesia",-3.04624,107.76548
+941,"Basking Ridge, United States",40.70657,-74.54828
+942,"Kurume, Japan",33.31926,130.50839
+943,"New London, United States",41.35651,-72.09624
+944,"Nonthaburee, Thailand",13.85905,100.5207
+945,"Guwahati, India",26.17723,91.75413
+946,"Kasugai, Japan",35.24755,136.97218
+947,"Kota, Malaysia",6.08571,102.2385
+948,"Penang, Malaysia",5.42382,100.32762
+949,"Aveiro, Portugal",40.64123,-8.65391
+950,"None, Saudi Arabia",24.68204,46.68725
+951,"Tromso, Norway",69.65139,18.95606
+952,"Huntingdon, United States",40.48467,-78.01139
+953,"Kuwait City, Kuwait",29.37332,47.97162
+954,"Storrs, United States",41.80855,-72.24993
+955,"CA, United States",38.57944,-121.49086
+956,"Little Rock, United States",34.7487,-92.27485
+957,"Kingston Upon Thames, United Kingdom",51.41128,-0.29102
+958,"Walnut, United States",34.02693,-117.8405
+959,"Richmond, United States",37.54068,-77.43367
+960,"Greenville, United States",34.84829,-82.4001
+961,"Fort Worth, United States",32.75095,-97.33086
+962,"Kingston, Jamaica",17.97092,-76.78827
+963,"Sherbrooke, Canada",45.40367,-71.88922
+964,"Kuopio, Finland",62.89301,27.68221
+965,"Aberdeen, United Kingdom",57.14555,-2.10249
+966,"Coimbra, Portugal",40.21085,-8.41618
+967,"Kosovska Mitrovica, Serbia",44.98571,19.63261
+968,"Biddeford, United States",43.49404,-70.45769
+969,"Clinton, United States",42.60059,-82.93378
+970,"Ypsilanti, United States",42.24081,-83.61309
+971,"Ada, United States",34.77532,-96.67866
+972,"Dhahran, Saudi Arabia",26.31169,50.13416
+973,"Kerman, Iran",30.27663,57.06363
+974,"Chattanooga, United States",35.04672,-85.30947
+975,"Msida, Malta",35.89918,14.48813
+976,"Medford, United States",42.42089,-71.10818
+977,"Lagos, Nigeria",6.4547,3.38876
+978,"Ajman, United Arab Emirates",25.40264,55.44249
+979,"Dallas, United States",32.77822,-96.79512
+980,"Dunedin, New Zealand",-45.87332,170.50404
+981,"Tetovo North, North Macedonia",42.00791,20.97005
+982,"Jazan, Saudi Arabia",16.89799,42.5505
+983,"Irbid, Jordan",32.54921,35.85063
+984,"Al-Ahsa, Saudi Arabia",25.36818,49.58791
+985,"Amman, Jordan",31.9518,35.94042
+986,"Salford, United Kingdom",53.48975,-2.2843
+987,"Albany, United States",42.65155,-73.75521
+988,"Torun, Poland",53.01411,18.61617
+989,"Buies Creek, United States",35.40712,-78.73943
+990,"Sao Cristovao, Brazil",-11.01137,-37.20855
+991,"Qinzhou, China",26.07877,119.29688
+992,"Kalgoorlie, Australia",-30.74808,121.47183
+993,"Cherbourg-Octeville, France",49.63523,-1.63743
+994,"Brumunddal, Norway",60.88351,10.93929
+995,"Oslo, Norway",59.91234,10.75
+996,"Kufa, Iraq",32.01267,44.54668
+997,"Nakhompathon, Thailand",13.84848,100.03943
+998,"Nishinomiya, Japan",34.73761,135.34173
+999,"Lillehammer, Norway",61.11502,10.46364
+1000,"Nancy, France",48.68956,6.18337
+1001,"Kansas City, United States",39.10344,-94.58311
+1002,"Ruston, United States",32.53049,-92.63981
+1003,"Chambery, France",45.56664,5.9209
+1004,"Gaziantep, Turkey",37.06199,37.37543
+1005,"Hsinchu, Taiwan",24.80619,120.96893
+1006,"Stony Brook, United States",40.91297,-73.1395
+1007,"Waltham, United States",42.37649,-71.23502
+1008,"Rabat, Morocco",34.01791,-6.83612
+1009,"Upton, United States",42.16977,-71.62041
+1010,"Udine, Italy",46.06452,13.23807
+1011,"Bucharest, Romania",44.43429,26.10298
+1012,"Birmingham, United Kingdom",52.47891,-1.90592
+1013,"Nablus, Palestine",21.52096,39.15861
+1014,"Oujda, Morocco",34.6805,-1.91781
+1015,"Eugene, United States",44.04992,-123.08829
+1016,"Porto, Portugal",41.14584,-8.61081
+1017,"Povo, Italy",46.06482,11.15291
+1018,"Thessaloniki, Greece",40.63957,22.93709
+1019,"Timisoara, Romania",45.75345,21.22333
+1020,"Mytilene, Greece",39.10601,26.55611
+1021,"Giessen, Germany",50.58624,8.67578
+1022,"Sao Joao del Rei, Brazil",-21.13316,-44.25843
+1023,"Dortmund, Germany",51.51661,7.45829
+1024,"Clermont-Ferrand, France",45.77668,3.07722
+1025,"Brasov, Romania",45.64268,25.58871
+1026,"DeKalb, United States",41.92949,-88.7499
+1027,"Saint Martin d'Heres, France",45.1838,5.75444
+1028,"Fresno, United States",36.74095,-119.78536
+1029,"Rehovot, Israel",31.8955,34.81131
+1030,"None, Canada",48.93033,1.78673
+1031,"Siegen, Germany",50.8724,8.02287
+1032,"Baku, Azerbaijan",40.41066,49.87222
+1033,"Rende, Italy",39.33209,16.18116
+1034,"Victoria, Canada",48.42855,-123.36445
+1035,"La Plata, Argentina",-34.91393,-57.94636
+1036,"Juiz de Fora, Brazil",-21.76535,-43.34869
+1037,"Richardson, United States",32.96074,-96.73297
+1038,"Iasi, Romania",47.1594,27.58732
+1039,"Giresun, Turkey",40.9152,38.38299
+1040,"Wuppertal, Germany",51.27165,7.19677
+1041,"Valparaíso, Chile",-33.05197,-71.60229
+1042,"Marakech, Morocco",31.63383,-8.00222
+1043,"Albuquerque, United States",35.08423,-106.64905
+1044,"Fribourg, Switzerland",46.80382,7.15357
+1045,"Wageningen, Netherlands",51.96685,5.66228
+1046,"Kitaadachi District, Japan",36.00014,139.62419
+1047,"Buriram, Thailand",14.98824,103.08684
+1048,"None, France",50.74462,1.70127
+1049,"Koganei, Japan",35.69948,139.50298
+1050,"Saraburi, Thailand",14.52687,100.91217
+1051,"Nakorn Si Thammarat, Thailand",8.44105,99.9704
+1052,"Trat, Thailand",12.26972,102.54134
+1053,"Manama, Bahrain",26.22952,50.57604
+1054,"Lincoln, New Zealand",-43.64013,172.48507
+1055,"Nanchang, China",-22.84974,-42.35822
+1056,"Klagenfurt, Austria",46.62056,14.31041
+1057,"Tampere, Finland",61.49847,23.77175
+1058,"Tacoma, United States",47.25517,-122.44164
+1059,"Kiyose, Japan",35.78527,139.52681
+1060,"Aalborg, Denmark",57.04936,9.91629
+1061,"Terrassa, Spain",41.56091,2.00861
+1062,"Middlesbrough, United Kingdom",54.57301,-1.23763
+1063,"Fitzroy, Australia",-37.79833,144.9786
+1064,"Cairns, Australia",-16.91887,145.77312
+1065,"Hvidovre, Denmark",55.63667,12.47443
+1066,"Camden, United States",39.94525,-75.11913
+1067,"Odense, Denmark",55.39618,10.39078
+1068,"Vitoria-Gasteiz, Spain",42.84227,-2.68359
+1069,"Alcala de Henares, Spain",40.48068,-3.37342
+1070,"La Victoria, Peru",-12.07533,-77.01583
+1071,"Chaidari, Greece",38.00084,23.66296
+1072,"Springfield, United States",39.8013,-89.6436
+1073,"Collegeville, United States",40.18782,-75.45321
+1074,"Washington, Thailand",38.90331,-77.06324
+1075,"Eldoret, Kenya",0.50668,35.27317
+1076,"Tenri, Japan",34.59663,135.83736
+1077,"Meru, Kenya",0.04691,37.65263
+1078,"Kawaguchi, Japan",35.80672,139.72337
+1079,"Sasebo, Japan",33.17985,129.71513
+1080,"Yufu, Japan",33.18002,131.42673
+1081,"Chanthaburi, Thailand",12.60087,102.1187
+1082,"Noida, India",28.53342,77.3819
+1083,"None, Viet Nam",21.02884,105.85462
+1084,"Mason, United States",39.35697,-84.29762
+1085,"Syracuse, United States",43.05042,-76.14738
+1086,"Wroclaw, Poland",51.10825,17.02691
+1087,"Miyazaki, Japan",31.91103,131.42389
+1088,"Lucknow, India",26.85471,80.92135
+1089,"Clayton, Australia",-37.90745,145.13198
+1090,"Tlalpan, Mexico",19.28843,-99.16667
+1091,"Brentford, United Kingdom",51.48413,-0.30669
+1092,"Worthing, United Kingdom",50.81365,-0.37535
+1093,"Guadalajara, Mexico",20.68758,-103.35104
+1094,"Bac Lieu City, Viet Nam",9.29667,105.72707
+1095,"Godollo, Hungary",47.60051,19.35731
+1096,"Burdur, Turkey",37.71727,30.28243
+1097,"Sirnak, Turkey",37.52188,42.4532
+1098,"Podgorica, Montenegro",42.43544,19.26389
+1099,"Zhengzhou, China",34.76403,113.65941
+1100,"Vallejo, United States",38.10095,-122.25495
+1101,"Villaviciosa de Odon, Spain",40.35124,-3.90273
+1102,"None, Spain",42.67223,-8.84573
+1103,"Muscat, Oman",23.61523,58.59126
+1104,"Stavanger, Norway",58.97101,5.73064
+1105,"Jyvaskyla, Finland",62.24045,25.75138
+1106,"Ostrava, Czech Republic",49.83937,18.28877
+1107,"Kiel, Germany",54.32325,10.13224
+1108,"Visakhapatnam, India",17.71984,83.26284
+1109,"Ulm, Germany",48.39719,9.98759
+1110,"Eger, Hungary",47.89905,20.37359
+1111,"Mangalore, India",12.89789,74.8454
+1112,"Shuwaikh, Kuwait",29.34121,47.94155
+1113,"Esplugues de Llobregat, Spain",41.37384,2.08417
+1114,"Pitesti, Romania",44.85154,24.87991
+1115,"Ladkrabang, Thailand",13.72307,100.7802
+1116,"Tunis, Tunisia",36.80001,10.1827
+1117,"Campo Grande, Brazil",-20.45584,-54.61542
+1118,"Newtown, United States",41.41327,-73.3087
+1119,"Charlotte (Skidegate), United States",35.22286,-80.83796
+1120,"Makassar, Indonesia",-5.1465,119.42293
+1121,"Aranyaprathet, Thailand",13.68489,102.50616
+1122,"Nagakute, Japan",35.18406,137.04863
+1123,"Swindon, United Kingdom",51.56176,-1.78181
+1124,"Carlow, Ireland",52.83687,-6.93181
+1125,"Exeter, United Kingdom",50.71985,-3.53019
+1126,"Zhenjiang, China",25.17064,55.41095
+1127,"Situbondo Regency, Indonesia",-8.01611,114.40419
+1128,"Lanzhou, China",36.06996,103.75021
+1129,"Oklahoma City, United States",35.47203,-97.52107
+1130,"Karaikudi, India",10.07416,78.77367
+1131,"Bonab, Iran",37.33014,46.05356
+1132,"Ardabil, Iran",38.24447,48.29549
+1133,"Callaghan, Australia",-32.89565,151.69795
+1134,"York, United Kingdom",53.95333,-1.08341
+1135,"Durango, Mexico",24.00683,-104.68135
+1136,"Blantyre, Malawi",-15.78727,35.00088
+1137,"Kaunas, Lithuania",54.8945,23.90996
+1138,"Liverpool, Australia",-33.92245,150.92312
+1139,"Kinshasa, Democratic Republic Congo",-4.31046,15.28932
+1140,"Enugu, Nigeria",6.4479,7.50999
+1141,"Daytona Beach, United States",29.20366,-81.03917
+1142,"Belo Horizonte, Brazil",-19.91962,-43.93831
+1143,"Kodaira, Japan",35.72861,139.47748
+1144,"Karlskrona, Sweden",56.16067,15.58464
+1145,"Omdurman, Sudan",32.02678,35.15284
+1146,"Torrejon de Ardoz, Spain",40.45924,-3.47645
+1147,"Neuville-sur-Oise, France",49.01358,2.06242
+1148,"Blacksburg, United States",37.22653,-80.4109
+1149,"Urumqi, China",43.78787,87.58627
+1150,"Cuernavaca, Mexico",18.92265,-99.23502
+1151,"Sonora, Mexico",29.07455,-110.95913
+1152,"Herne, Germany",51.54031,7.21984
+1153,"Malmo, Sweden",55.59669,13.0011
+1154,"Immokalee, United States",26.41858,-81.41996
+1155,"Glendale, United States",34.14633,-118.24864
+1156,"St Petersburg, United States",27.77119,-82.63876
+1157,"Belgaum, India",15.86704,74.51162
+1158,"Commerce, Pakistan",33.70964,73.07544
+1159,"Nibong Tebal, Malaysia",5.16869,100.47804
+1160,"Falls Church, United States",38.88568,-77.17391
+1161,"Selangor Darul Ehsan, Malaysia",3.09198,101.49423
+1162,"Mol, Belgium",51.1841,5.11538
+1163,"Norrkoping, Sweden",58.58462,16.19376
+1164,"Jilin, China",34.01342,-117.68933
+1165,"Phoenix, United States",33.44825,-112.0758
+1166,"Pleasanton, United States",37.65822,-121.87711
+1167,"Seongnam, South Korea",37.41043,127.13716
+1168,"Palmerston North, New Zealand",-40.35669,175.60979
+1169,"Tirupati, India",13.63191,79.41825
+1170,"Ranchi, India",23.3507,85.31377
+1171,"Bialystok, Poland",53.14009,23.18265
+1172,"San Giovanni Rotondo, Italy",41.70525,15.72962
+1173,"Katowice, Poland",50.25636,19.03103
+1174,"Palermo, Italy",38.12207,13.36112
+1175,"Naypyidaw, Myanmar",19.72682,96.07529
+1176,"Rutgers, United States",40.48801,-74.41117
+1177,"Himeji, Japan",34.81542,134.68546
+1178,"Barendrecht, Netherlands",51.8532,4.54068
+1179,"Petten, Netherlands",52.76786,4.66292
+1180,"San Antonio, United States",29.42458,-98.49461
+1181,"Anaheim, United States",33.83285,-117.91528
+1182,"Hilo, United States",33.36275,-92.27112
+1183,"Kaohsiung, Taiwan",22.62014,120.31226
+1184,"Tafresh, Iran",34.69371,50.03755
+1185,"Sa, Viet Nam",21.02884,105.85462
+1186,"Algiers, Algeria",36.77156,3.0593
+1187,"Jaipur, India",26.92589,75.80674
+1188,"Ludhiana, India",30.90724,75.84915
+1189,"Gurugram, India",28.47716,77.06847
+1190,"Chuncheon, South Korea",37.8705,127.72295
+1191,"Coimbatore, India",10.99415,76.96629
+1192,"None, India",47.04769,29.38956
+1193,"Kepong, Malaysia",3.22033,101.62708
+1194,"Kochi, India",9.93602,76.26142
+1195,"Gimhae, South Korea",35.29261,128.76808
+1196,"Northampton, United States",42.31798,-72.63184
+1197,"Macon, United States",32.83997,-83.62805
+1198,"Krasnoyarsk, Russian Federation",56.01468,92.87089
+1199,"Estoril, Portugal",38.7035,-9.3977
+1200,"Nairobi, Kenya",-1.28352,36.82379
+1201,"Rock Hill, United States",34.92428,-81.02709
+1202,"Wenzhou, China",34.76403,113.65941
+1203,"Iksan, South Korea",35.92287,126.94704
+1204,"Goyang, South Korea",37.60582,126.82901
+1205,"Westerville, United States",40.12577,-82.93154
+1206,"Kota Bharu, Malaysia",6.13533,102.23701
+1207,"None, Israel",51.53698,-0.14823
+1208,"Suphanburi, Thailand",14.46736,100.11879
+1209,"Anantapur, India",14.68351,77.58195
+1210,"Medan, Indonesia",3.5921,98.67692
+1211,"Lebanon, United States",40.33027,-76.42591
+1212,"Deerfield, United States",42.16905,-87.84621
+1213,"Manhasset, United States",40.79822,-73.69817
+1214,"Linhai, China",39.90657,116.38765
+1215,"Rijeka, Croatia",45.32672,14.44715
+1216,"Tilburg, Netherlands",51.55541,5.10581
+1217,"Halifax, Canada",44.64548,-63.57655
+1218,"Stip, North Macedonia",41.73948,22.19481
+1219,"Nanning, China",22.81175,108.32959
+1220,"Coral Gables, United States",25.74923,-80.26295
+1221,"Beverly Hills, United States",34.0736,-118.40046
+1222,"Fort Myers, United States",26.64084,-81.86793
+1223,"Alpharetta, United States",34.07554,-84.29455
+1224,"Westwood, United States",40.99207,-74.03598
+1225,"Summit, United States",40.71752,-74.36213
+1226,"Decatur, United States",33.77437,-84.29658
+1227,"Subang Jaya, Malaysia",3.03784,101.57959
+1228,"Najaf, Iraq",32.01149,44.35954
+1229,"Bac Ninh, Viet Nam",21.1857,106.07556
+1230,"Iligan, Philippines",8.23301,124.24159
+1231,"Clemson, United States",34.68269,-82.84072
+1232,"St Andrews, United Kingdom",56.33929,-2.79614
+1233,"Haverford, United States",40.01412,-75.30345
+1234,"Bryn Mawr, United States",40.0314,-75.31541
+1235,"Czestochowa, Poland",50.81648,19.09421
+1236,"Potchefstroom, South Africa",-26.71495,27.09084
+1237,"Gandhinagar, India",23.24083,72.63732
+1238,"Kaizu, Gifu, Japan",35.22054,136.63689
+1239,"Vicosa, Brazil",-20.75418,-42.88323
+1240,"Kincumber, Australia",-33.46763,151.38133
+1241,"Victoria, United States",28.80606,-97.00358
+1242,"Pecs, Hungary",46.07309,18.22875
+1243,"Shimotsuga District, Japan",36.4421,139.81464
+1244,"Beer Sheva, Israel",31.23616,34.79079
+1245,"Yunlin, Taiwan",23.69974,120.52644
+1246,"Sant Boi de Llobregat, Spain",41.34804,2.045
+1247,"Palembang, Indonesia",-2.98475,104.75158
+1248,"Lubeck, Germany",53.86627,10.68082
+1249,"New Taipei City, China",25.01195,121.46575
+1250,"London, Spain",51.52512,-0.08248
+1251,"Vladivostok, Russian Federation",43.11566,131.8859
+1252,"Kasuga, Japan",33.53258,130.47042
+1253,"Charleston, United States",38.35016,-81.63895
+1254,"Cadiz, Spain",36.52987,-6.29026
+1255,"Sangnok-gu, Ansan-si, South Korea",37.31017,126.82915
+1256,"Jos, Nigeria",9.76622,8.8454
+1257,"Kirkuk, Iraq",35.4686,44.38933
+1258,"Marburg, Germany",50.8088,8.77267
+1259,"Kaarina, Finland",60.41049,22.3843
+1260,"Cordoba, Spain",37.87064,-4.77862
+1261,"Almaty, Kazakhstan",43.2506,76.88814
+1262,"Addlestone, United Kingdom",51.37167,-0.49351
+1263,"Rozzano, Italy",45.38146,9.15549
+1264,"Verona, Italy",45.43831,10.99171
+1265,"Rawalpindi, Pakistan",33.58874,73.04549
+1266,"Brescia, Italy",45.53689,10.232
+1267,"Lublin, Poland",51.24788,22.56597
+1268,"Trzebnica, Poland",51.31016,17.06352
+1269,"Bursa, Turkey",40.18437,29.05866
+1270,"Denizli, Turkey",37.78517,29.07887
+1271,"Iskenderun, Turkey",36.58418,36.16855
+1272,"Haiphong, Viet Nam",20.78868,106.70799
+1273,"Schenectady, United States",42.81238,-73.94122
+1274,"Zhuhai, China",25.70622,-99.23993
+1275,"Dakar, Senegal",14.66927,-17.43661
+1276,"Breda, Netherlands",51.59134,4.77168
+1277,"Douala, Cameroon",4.04777,9.69497
+1278,"High Wycombe, United Kingdom",51.62906,-0.74763
+1279,"Dong Nai Provine, Viet Nam",10.9486,106.81189
+1280,"Front Royal, United States",38.91798,-78.19355
+1281,"Dharwad, India",15.45111,75.00517
+1282,"Bijapur, India",16.8282,75.71352
+1283,"Hubli, India",15.35047,75.13739
+1284,"Recife, Brazil",-8.05603,-34.87036
+1285,"Torrance, United States",33.83707,-118.34321
+1286,"Kanchanaburi, Thailand",14.07175,99.4096
+1287,"Sterling, United States",39.03336,-77.40713
+1288,"Fujimino, Japan",35.87938,139.51956
+1289,"None, Pakistan",31.60476,74.57314
+1290,"Oberschleissheim, Germany",48.25504,11.55433
+1291,"Malatya, Turkey",38.34903,38.3198
+1292,"Umea, Sweden",63.82529,20.26059
+1293,"Diyarbakir, Turkey",37.92444,40.21072
+1294,"Orebro, Sweden",59.27084,15.21759
+1295,"St Gallen, Switzerland",47.42649,9.37361
+1296,"Lowestoft, United Kingdom",52.47142,1.72934
+1297,"Hershey, United States",40.28538,-76.65091
+1298,"Hadiya, Kuwait",29.15638,48.08859
+1299,"Chiayi, Taiwan",23.48151,120.45358
+1300,"Hartford, United States",41.76381,-72.67397
+1301,"Can Tho, Viet Nam",10.14633,105.64844
+1302,"Cao Lanh, Viet Nam",10.45595,105.63344
+1303,"Hamilton, New Zealand",-37.7878,175.27995
+1304,"Saint-Etienne, France",45.43988,4.39553
+1305,"Tokorozawa, Japan",35.79944,139.46871
+1306,"Kamuela, United States",20.02034,-155.66899
+1307,"Wuxi, China",31.57129,120.28927
+1308,"Maribor, Slovenia",46.5588,15.65111
+1309,"Batu Caves, Malaysia",3.23593,101.68179
+1310,"Warren, United States",42.51165,-83.02854
+1311,"Bhuvaneswar, India",19.44527,77.43911
+1312,"None, Armenia",40.17795,44.51402
+1313,"Tabriz, Iran",40.77156,47.02168
+1314,"Urmia, Iran",61.46829,23.21822
+1315,"Edinburgh, Australia",-34.73692,138.64583
+1316,"Mengla, China",9.93608,-64.9163
+1317,"None, Nigeria",9.06344,7.46228
+1318,"Castanet-Tolosan, France",43.51633,1.49837
+1319,"Bucharest, United States",33.53006,-117.06358
+1320,"Sharjah, United Arab Emirates",25.35287,55.39203
+1321,"Caparica, Portugal",38.62972,-9.19544
+1322,"Hayward, United States",37.67134,-122.08556
+1323,"Sunto District, Japan",35.09901,138.90272
+1324,"Utsunomiya, Japan",36.55513,139.88252
+1325,"Port Charlotte, United States",26.98288,-82.10085
+1326,"Leidschendam, Netherlands",52.08651,4.39118
+1327,"Davos, Switzerland",46.79306,9.82054
+1328,"Gaithersburg, United States",39.14033,-77.19373
+1329,"Enschede, Netherlands",52.22378,6.89919
+1330,"Şrnak, Turkey",37.52188,42.4532
+1331,"Gandra, Portugal",41.22519,-8.67888
+1332,"Kattankulathur, India",12.81291,80.03188
+1333,"Ulsan, South Korea",35.53827,129.31332
+1334,"Toyohashi, Japan",34.76923,137.39157
+1335,"Round Lake, United States",42.35701,-88.09346
+1336,"Torbat-e Heydarieh, Iran",35.27486,59.21421
+1337,"St Peters, United States",38.79239,-90.59569
+1338,"St Louis, United States",38.62775,-90.19956
+1339,"Koh Tao, Suratthani, Thailand",10.08894,99.8303
+1340,"Merseburg, Germany",51.35945,11.99179
+1341,"Abidjan, Cote d'Ivoire",5.3269,-4.02173
+1342,"Principality of Monaco, Monaco",43.73286,7.41754
+1343,"McLean, United States",38.93681,-77.18493
+1344,"Limours, France",48.64509,2.07507
+1345,"Plymouth, United Kingdom",50.37617,-4.13663
+1346,"Karaj, Iran",35.82886,50.9575
+1347,"Osnabruck, Germany",52.27203,8.04555
+1348,"Parma, Italy",44.79853,10.34022
+1349,"Nakornpathom, Thailand",13.84848,100.03943
+1350,"Rourkela, India",22.22972,84.86077
+1351,"Chittagong, Bangladesh",22.34189,91.80594
+1352,"Bothell, United States",47.76144,-122.20563
+1353,"Golden, United States",39.75665,-105.22495
+1354,"Nakhonrachasima, Thailand",14.99151,102.11727
+1355,"Khan Kaen, Thailand",16.43864,102.83502
+1356,"Bangrak, Bangkok, Thailand",13.72122,100.51574
+1357,"Limerick, Ireland",52.66098,-8.63261
+1358,"Girona, Spain",41.98081,2.81873
+1359,"Corte, France",42.30802,9.15025
+1360,"Bogor, Indonesia",-6.59124,106.80801
+1361,"Ubon Ratchathani Province, Thailand",15.27315,104.84923
+1362,"Zaria, Nigeria",11.06186,7.70306
+1363,"Abuja, Nigeria",9.06344,7.46228
+1364,"Malabar, Australia",-33.96229,151.24698
+1365,"Prasat, Thailand",14.64188,103.40202
+1366,"Neuilly-sur-Seine, France",48.88437,2.26935
+1367,"Boumerdes, Algeria",36.75007,3.47067
+1368,"Darmstadt, Germany",49.87264,8.65013
+1369,"Salzburg, Austria",47.80065,13.04337
+1370,"Neiva, Colombia",2.92786,-75.27897
+1371,"Liege, Belgium",50.64549,5.5725
+1372,"Highland Heights, United States",41.55251,-81.47099
+1373,"Oita, Japan",33.23824,131.61258
+1374,"Merida, Mexico",20.9667,-89.62317
+1375,"Kehl, Germany",48.57446,7.81512
+1376,"Detmold, Germany",51.93491,8.8793
+1377,"Holywood, United Kingdom",54.64133,-5.8352
+1378,"Covilha, Portugal",40.28076,-7.50442
+1379,"Versailles, France",48.80195,2.13108
+1380,"Ulaanbaatar, Mongolia",47.92218,106.9181
+1381,"Afula, Israel",32.61944,35.3102
+1382,"Butare, Rwanda",-2.5056,29.23352
+1383,"Kuantan, Malaysia",3.83212,103.2702
+1384,"Chongqing, China",29.55095,106.51935
+1385,"Orangeburg, United States",33.48935,-80.86472
+1386,"Zhunan, Taiwan",24.68369,120.87443
+1387,"Kaohsiung, China",22.62705,120.3101
+1388,"Tlalnepantla, Mexico",19.51825,-99.09891
+1389,"Lancaster, United States",40.03832,-76.30134
+1390,"Bayreuth, Germany",49.94544,11.57127
+1391,"Salta, Argentina",-24.78864,-65.41023
+1392,"Northampton, United Kingdom",52.23401,-0.89491
+1393,"Diamantina, Brazil",-18.23745,-43.61128
+1394,"None, Argentina",-31.79783,-65.00441
+1395,"Cordoba, Argentina",-31.40718,-64.18569
+1396,"Joao Pessoa, Brazil",-7.1151,-34.86108
+1397,"Corrientes, Argentina",-27.47178,-58.84017
+1398,"Tunja, Colombia",5.53442,-73.3615
+1399,"Arusha, Tanzania",-3.36981,36.68708
+1400,"Bloemfontein, South Africa",-29.11324,26.21669
+1401,"Richmond, United Kingdom",51.46235,-0.30278
+1402,"Salem, United States",44.93326,-123.04381
+1403,"Grahamstown, South Africa",-33.30694,26.52459
+1404,"Uberlandia, Brazil",-18.91907,-48.27833
+1405,"Milledgeville, United States",33.08151,-83.22548
+1406,"Campos dos Goitacazes, Brazil",-21.44931,-41.40548
+1407,"Feira de Santana, Brazil",-12.25552,-38.95992
+1408,"Mito, Japan",36.36586,140.4713
+1409,"Kagoshima, Japan",31.56021,130.55786
+1410,"Sayo, Japan",35.00418,134.35551
+1411,"Yekaterinburg, Russian Federation",56.83764,60.59891
+1412,"Oxford, United States",34.36402,-89.51894
+1413,"Badalona, Spain",41.4505,2.24491
+1414,"None, South Africa",28.56551,77.18912
+1415,"Stellenbosch, South Africa",-33.93135,18.86642
+1416,"None, Netherlands",52.36993,4.90787
+1417,"Vic, Spain",41.93392,2.25321
+1418,"Suzhou, China",36.75014,-90.4035
+1419,"None, Peru",-12.05618,-77.0268
+1420,"Binghamton, United States",42.09871,-75.91129
+1421,"Juba, Sudan",4.83975,31.59758
+1422,"Wang Thonglang, Bangkok, Thailand",13.78456,100.60558
+1423,"Bangkorlhaem, Bangkok, Thailand",13.75336,100.50483
+1424,"Huddersfield, United Kingdom",53.64695,-1.78268
+1425,"Bandar Lampung, Indonesia",-5.42239,105.26
+1426,"Gresik, Indonesia",-7.16023,112.64712
+1427,"Pakchong, Nakhonratchasima, Thailand",14.75244,101.35684
+1428,"Gorontalo, Indonesia",0.5372,123.06108
+1429,"Banda Aceh, Indonesia",5.55464,95.32094
+1430,"Banjarmasin, Indonesia",-3.32897,114.59053
+1431,"Batu Pahat, Malaysia",1.85908,102.93699
+1432,"Kolaka, Indonesia",-4.06978,121.62271
+1433,"Kariya, Japan",34.98931,137.00232
+1434,"Mojokerto, Indonesia",-7.46403,112.43234
+1435,"Northridge, United States",34.23512,-118.53385
+1436,"Abha, Saudi Arabia",18.21692,42.5009
+1437,"Augsburg, Germany",48.37034,10.89788
+1438,"Burgos, Spain",42.34126,-3.69992
+1439,"Brugge, Belgium",51.20457,3.21737
+1440,"Mahendergarh, India",28.27141,76.15097
+1441,"Damietta, Egypt",30.54055,31.68037
+1442,"Montevideo, Uruguay",-34.87417,-56.16293
+1443,"Yaounde, Cameroon",3.84675,11.52026
+1444,"Salamanca, Spain",40.96426,-5.66385
+1445,"Angers, France",47.47069,-0.55325
+1446,"Thionville, France",49.35763,6.16903
+1447,"Creteil, France",48.77745,2.45518
+1448,"Frankston, Australia",-38.14118,145.12176
+1449,"Rouen, France",49.44014,1.0894
+1450,"Dijon, France",47.32698,5.04299
+1451,"Hellerup, Denmark",55.72707,12.56602
+1452,"Yvoir, Belgium",50.32686,4.87719
+1453,"Nong Khai, Thailand",17.82649,102.77358
+1454,"Samut Prakan, Thailand",13.62214,100.60157
+1455,"Miyagi, Japan",38.26861,140.87218
+1456,"Stara Zagora, Bulgaria",42.4227,25.63548
+1457,"Centurion, South Africa",-25.85738,28.18298
+1458,"Marlborough, United States",42.34691,-71.5472
+1459,"Kumasi, Ghana",6.66928,-1.61942
+1460,"Milpitas, United States",37.43288,-121.89694
+1461,"Ichihara, Japan",35.49793,140.11557
+1462,"Salerno, Italy",40.67348,14.77125
+1463,"La Chaux-de-Fonds, Switzerland",47.10322,6.83271
+1464,"Saratoga Springs, United States",43.08412,-73.78441
+1465,"Mt Vernon, United States",40.91245,-73.83827
+1466,"Faro, Portugal",37.01487,-7.93424
+1467,"Mont-Saint-Aignan, France",49.46204,1.07085
+1468,"Mittelburgenland, Austria",47.84556,16.51896
+1469,"Postojna, Slovenia",45.77471,14.21301
+1470,"Juriquilla, Mexico",20.71272,-100.44856
+1471,"Kishiwada City, Osaka Prefecture, Japan",34.4605,135.37096
+1472,"Hata, Japan",32.84146,132.70705
+1473,"Goiania, Brazil",-16.67931,-49.25645
+1474,"Tarragona, Spain",41.11702,1.25385
+1475,"Parramatta, Australia",-33.81613,151.008
+1476,"Chungnam, South Korea",36.74894,126.23954
+1477,"Minden-Pulau Pinang, Malaysia",5.35824,100.29667
+1478,"Sintok, Malaysia",6.44449,100.47015
+1479,"Erbil, Iraq",36.19107,44.01212
+1480,"A’ali, Bahrain",26.16077,50.52171
+1481,"Higashiosaka, Japan",34.6794,135.60101
+1482,"Ismailia, Egypt",30.60314,32.27927
+1483,"Newcastle, Australia",-32.92806,151.77261
+1484,"Novi Sad, Serbia",45.2569,19.84156
+1485,"Redmond, United States",47.67858,-122.13158
+1486,"Mashhad, Iran",36.28292,59.59812
+1487,"Moelbis, Germany",51.19613,12.49694
+1488,"Rockledge, United States",28.33438,-80.73485
+1489,"None, Turkey",39.92121,32.85393
+1490,"Cankaya, Turkey",39.89954,32.86486
+1491,"Bakersfield, United States",35.3673,-119.01886
+1492,"Rueil-Malmaison, France",48.8774,2.17912
+1493,"Jenin, Palestine",31.7617,-95.632
+1494,"Champaign, United States",40.11426,-88.2435
+1495,"Ya'an, China",36.87959,-3.29974
+1496,"Duisburg, Germany",51.43148,6.76355
+1497,"Binh -Dnh, Viet Nam",13.76975,109.23225
+1498,"Hirakata, Japan",34.81444,135.65079
+1499,"Macau, Macao",42.07777,-8.39861
+1500,"Temple City, United States",34.10728,-118.05668
+1501,"Ciudad Victoria, Mexico",23.7311,-99.15389
+1502,"Caldes de Montbui, Spain",41.63111,2.16867
+1503,"Charlottetown, Canada",46.23673,-63.12836
+1504,"Bradford, United Kingdom",53.79572,-1.7583
+1505,"Toyota, Japan",34.26963,132.91507
+1506,"Yenchao, Taiwan",22.78848,120.36176
+1507,"Alexandria, Egypt",31.2105,29.91253
+1508,"Punjab, India",30.84323,75.41766
+1509,"Kayseri, Turkey",38.7209,35.48352
+1510,"Asyut, Egypt",27.18261,31.18335
+1511,"Behshahr, Iran",36.6897,53.54124
+1512,"Yozgat, Turkey",39.82298,34.80767
+1513,"Batticoloa, Sri Lanka",7.72066,81.6955
+1514,"California, United States",38.57944,-121.49086
+1515,"Los Alamos, United States",35.88121,-106.30573
+1516,"Houghton, United States",47.12186,-88.57002
+1517,"Morelia, Mexico",19.70295,-101.1937
+1518,"Pachuca, Mexico",20.12202,-98.737
+1519,"Tuxtla Gutierrez, Mexico",16.75519,-93.11544
+1520,"Jiaxing, China",5.40097,100.57467
+1521,"Aarau, Switzerland",47.39189,8.05029
+1522,"Khannayao, Thailand",13.81267,100.68457
+1523,"Marshfield, United States",42.09083,-70.71025
+1524,"Trondheim, Norway",63.43101,10.3921
+1525,"Pocatello, United States",42.87497,-112.45056
+1526,"Olsztyn WM, Poland",53.779,20.48023
+1527,"Tuscaloosa Northport, United States",33.24038,-87.59091
+1528,"Gaza, Palestine",21.25983,40.4234
+1529,"Kyiv, Ukraine",50.45056,30.52428
+1530,"Zhytomyr, Ukraine",50.25355,28.66543
+1531,"Kofu, Japan",35.66211,138.56827
+1532,"None, Greece",37.97614,23.7364
+1533,"Temuco, Chile",-38.73397,-72.58446
+1534,"Skopje, North Macedonia",41.99468,21.43029
+1535,"Rethymnon, Greece",35.36438,24.47116
+1536,"Kiriat Ono, Israel",32.05854,34.85839
+1537,"Naukka, Nigeria",6.85428,7.38819
+1538,"Tartu, Estonia",58.37621,26.72573
+1539,"Bielefeld, Germany",52.01547,8.53231
+1540,"Cholula, Mexico",19.49493,-99.07228
+1541,"La Paz, Bolivia",-16.49908,-68.13378
+1542,"Tifton, United States",31.45209,-83.50958
+1543,"Tbilisi, United States",38.89036,-77.03196
+1544,"Ayudhya, Thailand",13.77266,100.50178
+1545,"Sunderland, United Kingdom",54.90238,-1.38653
+1546,"Dammam, Saudi Arabia",26.43683,50.09083
+1547,"Birjand, Iran",32.88443,59.21094
+1548,"Semenyih, Malaysia",2.95137,101.84522
+1549,"Mbale, Uganda",1.07343,34.17636
+1550,"Danderyd, Sweden",59.39892,18.03677
+1551,"Florianopolis, Brazil",-27.5976,-48.54799
+1552,"Asahikawa, Japan",43.7715,142.36533
+1553,"Dgo, Mexico",24.00683,-104.68135
+1554,"Chicoutimi-Jonquiere, Canada",48.42756,-71.18258
+1555,"Ramat Gan, Israel",32.08364,34.81498
+1556,"Winnipeg, Canada",49.89953,-97.14113
+1557,"Taipa, Macao",22.15743,113.55386
+1558,"Sabah, Malaysia",5.98139,116.07422
+1559,"Oberwil-Zug, Switzerland",47.20985,8.45849
+1560,"Izumo, Japan",35.36696,132.75462
+1561,"Brest, France",48.39044,-4.48656
+1562,"Macquarie Park, Australia",-33.77847,151.1256
+1563,"Winston Salem, United States",36.10001,-80.24116
+1564,"West Roxbury, United States",42.2835,-71.15705
+1565,"Vicenza, Italy",45.548,11.54947
+1566,"Brasilia, Brazil",-15.77829,-47.92909
+1567,"Guildford, United Kingdom",51.23737,-0.57054
+1568,"Birmingham, United States",33.52072,-86.81179
+1569,"Dundee, United Kingdom",56.46125,-2.96761
+1570,"Pasig, Philippines",14.57936,121.08661
+1571,"Dasmarinas, Philippines",14.30021,120.95442
+1572,"Xinyang, China",26.57242,106.69473
+1573,"Sanandaj, Iran",35.31773,46.99595
+1574,"Dehradun, India",30.3097,78.0489
+1575,"Washington, D.C., Kyrgyzstan",38.91305,-77.05245
+1576,"Lalitpur, Nepal",27.66617,85.30975
+1577,"Battambang, Cambodia",13.09109,103.20718
+1578,"Mondragon, Spain",43.06125,-2.49457
+1579,"Levanger, Norway",63.74558,11.29697
+1580,"Liberec, Czech Republic",50.77018,15.05857
+1581,"Buraidah, Saudi Arabia",26.33283,43.96644
+1582,"Villavicencio, Colombia",4.13235,-73.62196
+1583,"Armilla, Spain",37.14372,-3.62779
+1584,"Murcia, Spain",37.98308,-1.13138
+1585,"Los Banos, Philippines",14.18058,121.23412
+1586,"Campus, Pakistan",33.70964,73.07544
+1587,"Szczecin, Poland",53.42521,14.55549
+1588,"Conwy, United Kingdom",53.28224,-3.8333
+1589,"Nashua, United States",42.75881,-71.46442
+1590,"Farmington, United States",42.46568,-83.37823
+1591,"Crete, Greece",35.34245,25.15336
+1592,"Wolverhampton, United Kingdom",52.58864,-2.1217
+1593,"Muharraq, Bahrain",26.25514,50.60586
+1594,"Novato, United States",38.10609,-122.5679
+1595,"Mahasarakham, Thailand",16.19373,103.29146
+1596,"Ibadan, Nigeria",7.4749,3.91371
+1597,"Akure, Nigeria",7.2481,5.17928
+1598,"Ubonratchathani, Thailand",15.27315,104.84923
+1599,"Morioka, Japan",39.70206,141.15442
+1600,"Gurusar Sadhar, India",30.4901,75.14406
+1601,"Al Ahmadi, Kuwait",29.09426,48.07602
+1602,"Gondar, Ethiopia",12.6064,37.46134
+1603,"Zhoushan, China",26.07877,119.29688
+1604,"Rupnagar, India",30.97307,76.53271
+1605,"Ridgefield, United States",40.83604,-74.00753
+1606,"West Jakarta, Indonesia",-6.17147,106.82649
+1607,"Gyeongsan, South Korea",35.77734,128.72638
+1608,"Ingelheim am Rhein, Germany",49.97511,8.05644
+1609,"Beijing, Myanmar",16.86685,96.1014
+1610,"Mandalay, Myanmar",21.99271,96.10028
+1611,"Maia, Portugal",41.23269,-8.62323
+1612,"None, Bangladesh",51.51285,-0.06162
+1613,"Lorenskog, Norway",59.94361,10.94724
+1614,"Bangka Belitung, Indonesia",-2.75275,106.29509
+1615,"Zanjan, Iran",36.6681,48.48447
+1616,"Reduit, Mauritius",-20.23077,57.4985
+1617,"Evergreen, United States",39.63293,-105.31903
+1618,"Toyoake, Japan",35.05372,137.01286
+1619,"Loughborough, United Kingdom",52.76894,-1.22409
+1620,"The Woodlands, United States",30.17454,-95.51607
+1621,"Damascus, Syrian Arab Republic",33.51656,36.31708
+1622,"Neuss, Germany",51.19642,6.69432
+1623,"Lyngby, Denmark",55.84261,9.19618
+1624,"Purwokerto, Indonesia",-7.43972,109.24385
+1625,"Kalamazoo, United States",42.29159,-85.58768
+1626,"Drammen, Norway",59.74766,10.18267
+1627,"Da Nang, Viet Nam",16.07934,108.21241
+1628,"Bayan Lepas, Malaysia",5.33057,100.29987
+1629,"Mo i Rana, Norway",66.31038,14.13296
+1630,"Derby, United Kingdom",52.92342,-1.48443
+1631,"Constanta, Romania",44.17827,28.65115
+1632,"Semey, Kazakhstan",50.41804,80.25822
+1633,"Chelyabinsk, Russian Federation",55.1631,61.38877
+1634,"Santa Marta, Colombia",11.22656,-74.19874
+1635,"Bondy, France",48.90287,2.48022
+1636,"Samsun, Turkey",41.28103,36.33734
+1637,"Aligarh, India",27.88636,78.07375
+1638,"Ilishan-Remo, Nigeria",6.89412,3.70848
+1639,"Luton, United Kingdom",51.88159,-0.41611
+1640,"Rosario, Argentina",-32.9678,-60.65924
+1641,"Melrose, United Kingdom",55.59853,-2.72211
+1642,"Chieveley, United Kingdom",51.46246,-1.31663
+1643,"Lincoln, United Kingdom",53.22544,-0.5424
+1644,"Oulu, Finland",65.01035,25.47357
+1645,"Poulsbo, United States",47.73689,-122.64681
+1646,"Wicklow, Ireland",52.98067,-6.04362
+1647,"Plainsboro, United States",40.33409,-74.59527
+1648,"Peshawar, Pakistan",34.01002,71.55843
+1649,"Viborg, Denmark",56.4529,9.40582
+1650,"Kenmore, United States",47.75892,-122.24369
+1651,"Kyrenia, Cyprus",35.3317,33.30944
+1652,"Gorinchem, Netherlands",51.8306,4.96902
+1653,"Carolina, United States",31.24249,-86.52773
+1654,"Cumming, United States",34.20421,-84.13961
+1655,"Ganzhou, China",25.70622,-99.23993
+1656,"Zhumadian, China",5.40097,100.57467
+1657,"Semnan, Iran",35.57049,53.39271
+1658,"Lavras, Brazil",-21.2453,-45.00028
+1659,"Symonston, Australia",-35.34763,149.15788
+1660,"Terre Haute, United States",39.46649,-87.41301
+1661,"Zadar, Croatia",44.11678,15.22723
+1662,"Bedong, Malaysia",5.72781,100.50908
+1663,"Banchiao, Taiwan",23.65495,120.52408
+1664,"Eggenstein-Leopoldshafen, Germany",49.09988,8.39117
+1665,"Prievidza, Slovakia",48.77318,18.62263
+1666,"Duhok, Iraq",36.85996,42.9746
+1667,"Denpasar, Indonesia",-8.67324,115.20338
+1668,"Bien Hoa, Viet Nam",10.9486,106.8119
+1669,"Golden, Thailand",13.75336,100.50482
+1670,"Dhulikhel, Nepal",27.61822,85.55447
+1671,"Mahasarakarm, Thailand",16.19373,103.29146
+1672,"Tak, Thailand",16.86193,99.13926
+1673,"Ifakara, Tanzania",-6.76649,39.25463
+1674,"Dar Es Salaam, Tanzania",-6.815,39.28671
+1675,"Danville, United States",37.82312,-122.00139
+1676,"Chevy Chase, United States",38.98249,-77.08722
+1677,"Komotini, Greece",41.11868,25.40377
+1678,"Fukuyama, Japan",34.48589,133.36242
+1679,"Paisley, United Kingdom",55.85411,-4.4342
+1680,"Jongno-gu, South Korea",35.21717,129.08067
+1681,"Arau, Malaysia",6.43175,100.27058
+1682,"Kamloops, Canada",50.67625,-120.33902
+1683,"Cergy-Pontoise, France",49.03718,2.07618
+1684,"Golden, China",39.75665,-105.22495
+1685,"Sivakasi, India",9.46042,77.79946
+1686,"Concepcion, Chile",-36.82815,-73.0512
+1687,"Quchan, Iran",37.10483,58.51333
+1688,"Yangzhou, China",25.70622,-99.23993
+1689,"Trang, Thailand",7.57486,99.61728
+1690,"Laguna, Philippines",14.2646,121.40539
+1691,"Richmond, Australia",-20.73228,143.14347
+1692,"Nan-Tou, Taiwan",23.91174,120.68744
+1693,"Pakkret, Thailand",13.90665,100.50333
+1694,"Zigong City, China",27.33849,128.57385
+1695,"Fukushima, Japan",37.75004,140.46771
+1696,"Akron, United States",41.08431,-81.51431
+1697,"La Serena, Chile",-29.90239,-71.25124
+1698,"Antofagasta, Chile",-23.63942,-70.39598
+1699,"Toyoshina, Japan",36.30037,137.90858
+1700,"Richmond, Canada",49.16335,-123.13666
+1701,"Barretos, Brazil",-20.55065,-48.57505
+1702,"Ramadi, Iraq",32.82503,44.64025
+1703,"Freiberg, Germany",50.91695,13.33961
+1704,"Yangsan, South Korea",35.31021,129.0633
+1705,"Babol, Iran",43.43277,5.44847
+1706,"Guntur, India",16.29533,80.44265
+1707,"Bellville, South Africa",-33.89725,18.62875
+1708,"Peradeniya, Sri Lanka",7.2677,80.59668
+1709,"Sarajevo, Bosnia and Herzegovina",43.85945,18.43583
+1710,"Tanta, Egypt",30.78166,30.99566
+1711,"Gyeongju, South Korea",37.55886,126.99989
+1712,"Fuyang, China",26.57242,106.69473
+1713,"Valenzuela, Metro Manila, Philippines",14.70489,120.98833
+1714,"Petaling Jaya, Malaysia",3.10363,101.64779
+1715,"Geesthacht, Germany",53.43028,10.37422
+1716,"Mae Sod, Thailand",16.71489,98.56908
+1717,"Rahim Yar Kahn, Pakistan",28.41486,70.29763
+1718,"Baghdad, Iraq",33.3421,44.39307
+1719,"Assen, Netherlands",52.99358,6.55897
+1720,"Tonsberg, Norway",59.26591,10.40762
+1721,"Ermelo, Netherlands",52.29785,5.63146
+1722,"Apeldoorn, Netherlands",52.21652,5.96566
+1723,"Heerhugowaard, Netherlands",52.66536,4.82735
+1724,"Oswego, United States",41.68327,-88.35285
+1725,"Takamatsu, Japan",34.34277,134.04664
+1726,"Bad Zurzach, Switzerland",47.58882,8.29296
+1727,"Macclesfield, United Kingdom",53.25609,-2.12657
+1728,"Kenitra, Morocco",34.25949,-6.58484
+1729,"Long Beach, United States",33.76672,-118.1924
+1730,"Cao Lãnh City, Viet Nam",10.45595,105.63344
+1731,"Fountain Valley, United States",33.70907,-117.95028
+1732,"Kanjanaburi, Thailand",14.07175,99.4096
+1733,"Worms, Germany",49.63049,8.36197
+1734,"Vallendar, Germany",50.40168,7.61526
+1735,"Wooster, United States",40.80612,-81.93437
+1736,"Mus, Turkey",38.73413,41.49067
+1737,"St Augustine, Trinidad and Tobago",10.6409,-61.39738
+1738,"Buon Ma Thuot City, Viet Nam",12.67939,108.04461
+1739,"Boone, United States",36.22061,-81.68751
+1740,"Wiener Neustadt, Austria",47.81282,16.24552
+1741,"Jhansi, India",25.4486,78.56956
+1742,"Baoji, China",49.73827,5.34055
+1743,"Nagaram, India",16.00576,80.73793
+1744,"Hyderabad-Telangana, India",17.3949,78.47081
+1745,"Jabalpur, India",23.17416,79.93132
+1746,"Vadodara, India",22.30948,73.1799
+1747,"Kavali, India",14.91288,79.99058
+1748,"Krishna, India",24.65274,89.57084
+1749,"Nan, Thailand",18.79317,100.7798
+1750,"Chung-Li, China",24.15634,120.6811
+1751,"Yangling, China",25.70622,-99.23993
+1752,"Eberbach, Germany",49.46322,8.98751
+1753,"Prachinburi, Thailand",14.05109,101.37189
+1754,"Rathmalana, Sri Lanka",6.81444,79.87797
+1755,"Redlands, United States",34.05538,-117.18259
+1756,"Savannakhet, Laos",16.54676,104.75362
+1757,"None, Laos",17.9518,102.61893
+1758,"Gunma Prefecture, Japan",36.39069,139.06042
+1759,"Kingsville, United States",27.51573,-97.85543
+1760,"Koper, Slovenia",45.53976,13.73331
+1761,"Meta, Villavicencio, Colombia",4.13235,-73.62196
+1762,"Issaquah, United States",47.5301,-122.03439
+1763,"Newbury, United Kingdom",51.40591,-1.32612
+1764,"Clichy, France",48.90015,2.30648
+1765,"Sandton, South Africa",-26.10592,28.05424
+1766,"Sandy Bay, Australia",-42.90123,147.33281
+1767,"Bartin, Turkey",41.63171,32.34319
+1768,"Yinchuan, China",38.46662,106.26521
+1769,"Caxias do Sul, Brazil",-29.16782,-51.17896
+1770,"Sayo District, Japan",35.00418,134.35551
+1771,"Valence, France",44.93045,4.88924
+1772,"Tiruchirappalli, India",10.80605,78.69476
+1773,"Pakhtunkhwa, Pakistan",33.70964,73.07544
+1774,"Zunyi, China",39.90657,116.38765
+1775,"Kepala Batas, Malaysia",5.51805,100.43011
+1776,"Kunitachi, Japan",35.68387,139.4414
+1777,"Uttaradit, Thailand",17.5873,100.10335
+1778,"Pingtung, Taiwan",22.66209,120.49142
+1779,"Munoz, Philippines",15.72905,120.9288
+1780,"Guilin, China",47.93156,-2.53369
+1781,"Halabja, Iraq",35.20975,45.93598
+1782,"Sulaymaniyah, Iraq",34.14962,42.38188
+1783,"Coopers Plains, Australia",-27.56695,153.03884
+1784,"Pocheon, South Korea",37.55886,126.99989
+1785,"Muan, South Korea",37.55886,126.99989
+1786,"Mardan, Pakistan",27.04311,69.13286
+1787,"Vandoeouvre-les-Nancy, France",48.65992,6.17252
+1788,"Hidaka, Japan",33.89384,135.13324
+1789,"Asan, South Korea",36.92438,127.03597
+1790,"Logan, United States",41.73699,-111.83482
+1791,"Rapid City, United States",44.08146,-103.2308
+1792,"Vallabh Vidyanagar, India",22.54024,72.93382
+1793,"Saitama, Japan",35.85721,139.64902
+1794,"Nitra, Slovakia",48.31486,18.08763
+1795,"Qufu, China",27.33849,128.57385
+1796,"Oy-Mittelberg, Germany",47.6434,10.45469
+1797,"Nimes, France",43.83512,4.35855
+1798,"Villetaneuse, France",48.96219,2.34478
+1799,"Hosur, India",12.71728,77.83936
+1800,"Narathiwat, Thailand",6.42698,101.82406
+1801,"Mbarara, Uganda",-0.61324,30.65991
+1802,"Cape Coast, Ghana",5.12254,-1.26313
+1803,"Fort Detrick, United States",38.85542,-78.4072
+1804,"Manaus, Brazil",-3.10847,-60.05229
+1805,"Lulea, Sweden",65.58387,22.15221
+1806,"Amer, Spain",42.0094,2.60435
+1807,"Lome, Togo",6.13969,1.22958
+1808,"Brno, Czech Republic",49.19727,16.60368
+1809,"None, Timor-Leste",-2.99522,-59.97123
+1810,"Nampula, Mozambique",-15.11319,39.25783
+1811,"Antananarivo, Madagascar",-18.91003,47.52736
+1812,"Padang, Indonesia",-0.94825,100.35496
+1813,"Lubumbashi, Democratic Republic Congo",-11.66929,27.48089
+1814,"Jimma, Ethiopia",7.75626,37.2134
+1815,"Beira, Mozambique",-19.81725,34.85328
+1816,"None, Haiti",18.54495,-72.33562
+1817,"Niamey, Niger",13.51627,2.11633
+1818,"Tirana, Albania",41.32232,19.82517
+1819,"Molepolole, Botswana",-24.40222,25.53209
+1820,"Bishkek, Kyrgyzstan",42.88434,74.60354
+1821,"Santa Cruz, Bolivia",-17.78367,-63.18041
+1822,"Maharagama, Sri Lanka",7.34359,80.12452
+1823,"Stockholn, Sweden",59.33257,18.06683
+1824,"Karbala, Iraq",32.6023,44.03263
+1825,"Port Harcourt, Nigeria",4.81394,7.04369
+1826,"Ndola, Zambia",-12.97341,28.63442
+1827,"Port Moresby, Papua New Guinea",-9.45508,147.20381
+1828,"Bangui, Central African Republic",4.39669,18.5586
+1829,"Tripoli, Libya",32.89534,13.18105
+1830,"Dali, China",5.40097,100.57467
+1831,"None, Afghanistan",34.53313,69.10221
+1832,"Kaduna, Nigeria",10.54198,7.43589
+1833,"None, Burundi",-3.42705,29.92956
+1834,"Adam Barka, Chad",11.01889,17.9857
+1835,"Managua, Nicaragua",12.1172,-86.24081
+1836,"Nouakchott, Mauritania",18.09193,-15.97248
+1837,"Sana'a, Yemen",15.3667,44.21122
+1838,"Quelimane, Mozambique",-17.84816,36.9083
+1839,"Basra, Iraq",30.49427,47.81876
+1840,"Guayaquil, Ecuador",-2.15919,-79.92846
+1841,"Ilorin, Nigeria",8.46434,4.60087
+1842,"Moshi, Tanzania",-3.34481,37.34003
+1843,"Guatemala City, Guatemala",14.63325,-90.4671
+1844,"Parakou, Benin",9.35044,2.61926
+1845,"San Salvador, El Salvador",13.69967,-89.2068
+1846,"Oran, Algeria",35.7068,-0.64216
+1847,"Libreville, Gabon",0.39327,9.44644
+1848,"Bamenda, Cameroon",5.95964,10.15603
+1849,"Bamako, Mali",12.65039,-8.00004
+1850,"Calabar, Nigeria",4.97676,8.33635
+1851,"None, Democratic Republic Congo",26.65501,87.53205
+1852,"Siteki, Eswatini, Swaziland",-26.44605,31.94719
+1853,"Luanda, Angola",-8.81566,13.23288
+1854,"Odessa, Ukraine",46.4725,30.73711
+1855,"Arequipa, Peru",-16.40072,-71.53646
+1856,"Wad Medani, Sudan",14.40722,33.50836
+1857,"Ouagadougou, Burkina Faso",12.36857,-1.5271
+1858,"Varanasi, India",25.33286,82.99658
+1859,"Asuncion, Paraguay",-25.29737,-57.62775
+1860,"Siem Reap, Cambodia",13.33448,103.85492
+1861,"Gitarama, Rwanda",-2.07921,29.36447
+1862,"Kiev, Ukraine",50.45056,30.52428
+1863,"Mombasa, Kenya",-4.05738,39.66274
+1864,"Surakarta, Indonesia",-7.55734,110.82225
+1865,"None, Singapore",1.29087,103.85238
+1866,"Hakodate, Japan",41.76868,140.72888
+1867,"Khuzdar, Pakistan",27.75737,66.64043
+1868,"Downderry, United Kingdom",50.36191,-4.36952
+1869,"Nova Gorica, Slovenia",45.95969,13.65044
+1870,"Guri, South Korea",37.55886,126.99989
+1871,"Shantou, China",55.77984,49.11612
+1872,"Luang Prabang Province, Laos",19.89529,102.142
+1873,"Loei, Thailand",17.52979,101.72535
+1874,"Ivano-Frankivsk, Ukraine",48.92255,24.71471
+1875,"Sakakah, Saudi Arabia",29.99238,40.13722
+1876,"Bellevue, United States",47.61001,-122.1872
+1877,"Kediri, Indonesia",-7.8255,112.01073
+1878,"Ludwigsburg, Germany",48.89417,9.19186
+1879,"Valley City, United States",46.92335,-98.00226
+1880,"Nha Trang, Khanh Hoa, Viet Nam",12.24684,109.18876
+1881,"Jember, Indonesia",-8.19683,113.63462
+1882,"Grenoble, France",45.19397,5.73206
+1883,"Dessau-Rosslau, Germany",51.83606,12.24284
+1884,"Observatory, South Africa",-33.93781,18.46867
+1885,"Salisbury, United States",38.36553,-75.59971
+1886,"Palestine, Palestine",31.73415,-95.60831
+1887,"Kuroishi, Japan",40.6426,140.59466
+1888,"Koriyama, Japan",37.40046,140.35967
+1889,"Piscataway, United States",40.53865,-74.47168
+1890,"Xiangtan, China",22.27713,114.17107
+1891,"Wiesbaden, Germany",50.08466,8.24215
+1892,"Pula, Croatia",44.86579,13.84944
+1893,"VIC, Australia",-37.81737,144.96755
+1894,"Namur, Belgium",50.46573,4.86182
+1895,"Purmerend, Netherlands",52.50767,4.94779
+1896,"None, Ukraine",48.44368,27.78973
+1897,"Bushehr, Iran",36.8282,-76.17496
+1898,"Al Bayda, Libya",32.76353,21.75449
+1899,"Skopje, None",41.99468,21.43029
+1900,"Banja Luka, Bosnia and Herzegovina",44.77056,17.1894
+1901,"Heraklion, Greece",35.34245,25.15334
+1902,"Ridderkerk, Netherlands",51.87187,4.59852
+1903,"Varese, Italy",45.81475,8.83013
+1904,"Shiraz, Iran",29.59101,52.53059
+1905,"Hadera, Israel",32.43983,34.91744
+1906,"Kota Samarahan, Malaysia",1.45626,110.41913
+1907,"Bolzano, Italy",46.49528,11.35346
+1908,"Petchburi, Thailand",13.09791,99.95065
+1909,"Hồ Chí Minh, Viet Nam",10.80437,106.71927
+1910,"Bournemouth, United Kingdom",50.72039,-1.88092
+1911,"Nutley, United States",40.82054,-74.15857
+1912,"Urayasu, Japan",35.65313,139.90198
+1913,"Colleferro, Italy",41.7267,13.0098
+1914,"Gaborone, Botswana",-24.65527,25.91904
+1915,"Louvain, Belgium",50.87763,4.70719
+1916,"New Orleans, United States",29.9537,-90.07775
+1917,"Amnat Charoen, Thailand",15.88904,104.6255
+1918,"Lower Hutt, New Zealand",-41.20794,174.90268
+1919,"Mangalagiri, India",16.42504,80.57636
+1920,"Montgomery, United States",32.38015,-86.30005
+1921,"Pekanbaru, Indonesia",0.5171,101.41758
+1922,"Narahenpita, Sri Lanka",6.89826,79.87981
+1923,"Kochi, Japan",33.5597,133.53109
+1924,"Trissur, India",10.51093,76.21122
+1925,"Somerset, United States",40.49862,-74.52246
+1926,"None, Mexico",19.43195,-99.13315
+1927,"Perm, Russian Federation",58.0076,56.22796
+1928,"None, Brazil",-6.27924,-36.52192
+1929,"Chestnut Hill, United States",42.33295,-71.17208
+1930,"Salem, India",11.66553,78.15164
+1931,"Krishnagiri, India",12.52646,78.21408
+1932,"Charsadda, Pakistan",34.15221,71.74351
+1933,"None, Philippines",14.60487,120.98627
+1934,"Pau, France",43.2965,-0.37432
+1935,"Tangerang, Indonesia",-6.17683,106.63806
+1936,"Phu Yen, Viet Nam",12.99783,109.24002
+1937,"Spokane, United States",47.65726,-117.41162
+1938,"Muntinlupa, Philippines",14.41172,121.04118
+1939,"Vevey, Switzerland",46.46228,6.84297
+1940,"Damanhour, Egypt",31.04083,30.46638
+1941,"Neuchatel, Switzerland",46.99033,6.93112
+1942,"Chumporn, Thailand",10.47354,99.12626
+1943,"Maraba, Brazil",-5.37091,-49.12513
+1944,"Faisalabad, Pakistan",31.40412,73.09034
+1945,"Ajmer, India",26.46554,74.63168
+1946,"Lowell, United States",42.64588,-71.31284
+1947,"Beauvais, France",49.42964,2.0831
+1948,"Iruma, Japan",35.82824,139.52645
+1949,"Saint Charles, United States",38.7831,-90.48173
+1950,"Colchester, United Kingdom",51.88533,0.90352
+1951,"Waterford, Ireland",52.26325,-7.11652
+1952,"Nesher, Israel",32.77216,35.04328
+1953,"Africa, Eritrea",-26.09457,28.11452
+1954,"Quanzhou, China",30.27241,120.20593
+1955,"Rahim Yar Khan, Pakistan",28.41486,70.29763
+1956,"Due West, United States",34.33322,-82.38867
+1957,"Harrisburg, United States",40.25986,-76.88223
+1958,"No, Viet Nam",21.02884,105.85462
+1959,"Muang, Nakhon Ratchasima, Thailand",14.99151,102.11727
+1960,"Pattani, Thailand",6.8651,101.2456
+1961,"None, Sri Lanka",51.5112,-0.13712
+1962,"Cayenne, French Guiana",4.94173,-52.32089
+1963,"Dire Dawa, Ethiopia",9.59104,41.864
+1964,"Gdynia, Poland",54.51969,18.5357
+1965,"Hoboken, United States",40.73718,-74.03096
+1966,"Dartmouth, United States",41.62988,-70.96674
+1967,"Abilene, United States",32.44918,-99.74156
+1968,"Passau, Germany",48.57338,13.45763
+1969,"Holland, United States",42.77358,-86.10226
+1970,"Kassel, Germany",51.31853,9.51183
+1971,"Moscow, United States",46.73235,-117.00038
+1972,"Eindhoven, Netherlands",51.43597,5.48533
+1973,"Frankfurt/Oder, Germany",52.34171,14.55428
+1974,"Friday Harbor, United States",48.53448,-123.01648
+1975,"Commerce, United States",39.80568,-104.89754
+1976,"Allendale, United States",42.97224,-85.94399
+1977,"Breukelen, Netherlands",52.17303,5.00166
+1978,"Saint-Denis, France",48.93993,2.35547
+1979,"St John's, Canada",47.56083,-52.71219
+1980,"Konstanz, Germany",47.66385,9.17758
+1981,"Bamberg, Germany",49.89185,10.8929
+1982,"Cedar City, United States",37.6784,-113.06177
+1983,"Summit, Thailand",13.80255,100.45152
+1984,"Pointe-a-Pitre, France",44.07992,1.98789
+1985,"Feusiberg, Switzerland",47.18733,8.74778
+1986,"Julich, Germany",50.92148,6.3622
+1987,"The Hague, Netherlands",52.08409,4.31731
+1988,"Chernogolovka, Russian Federation",56.00484,38.37213
+1989,"Swansea, United Kingdom",51.6231,-3.94086
+1990,"Sonderborg, Denmark",54.91002,9.78995
+1991,"Kusatsu, Japan",35.01314,135.95995
+1992,"Vechta, Germany",52.72899,8.2864
+1993,"Aberystwyth, United Kingdom",52.41605,-4.07787
+1994,"Otsu, Japan",35.01775,135.85468
+1995,"Aubiere, France",45.75086,3.11092
+1996,"Saint-Genis-Laval, France",45.69485,4.79319
+1997,"Tegal, Indonesia",-6.86725,109.13649
+1998,"Oxford, Cambodia",11.56261,104.87914
+1999,"Tygerberg, South Africa",-33.78894,18.59544
+2000,"Omaha, United States",41.26068,-95.94026
+2001,"Rostov-on-Don, Russian Federation",47.22691,39.71678
+2002,"Fort Portal, Uganda",0.65274,30.27444
+2003,"Konya, Turkey",37.87088,32.50773
+2004,"Pavia, Spain",41.59907,1.34796
+2005,"Launceston, Australia",-41.4358,147.13767
+2006,"Jette, Belgium",50.8735,4.32959
+2007,"Thrissur, India",10.51093,76.21122
+2008,"Xining, China",36.62857,101.76387
+2009,"Pathumwan, Thailand",13.74567,100.5336
+2010,"Miri, Malaysia",4.42538,114.00739
+2011,"Kolhapur, India",16.70449,74.24145
+2012,"Kearney, United States",40.70047,-99.08347
+2013,"Taiping, Malaysia",4.85243,100.74078
+2014,"Misicevo, Serbia",45.99525,19.49101
+2015,"Jupiter, United States",26.93277,-80.10189
+2016,"Culver City, United States",34.02161,-118.39621
+2017,"Kalisizo, Uganda",-0.53513,31.62242
+2018,"Kingston, Canada",44.23154,-76.47933
+2019,"Majadahonda, Spain",40.47395,-3.87209
+2020,"Sari, Iran",36.56335,53.05369
+2021,"Flagstaff, United States",35.1982,-111.6513
+2022,"Alor Setar, Malaysia",6.13161,100.38883
+2023,"San Cristobal de las Casas, Mexico",16.73159,-92.64229
+2024,"Itarema, Brazil",-2.92211,-39.91384
+2025,"Monsenhor Tabosa, Brazil",-4.79183,-40.06494
+2026,"Burlington, United States",42.50595,-71.194
+2027,"Onsala, Sweden",57.41423,12.02226
+2028,"Kadapa, India",14.46734,78.85423
+2029,"Nice, France",43.70032,7.27768
+2030,"Marietta, United States",33.95321,-84.54649
+2031,"Stockton on Tees, United Kingdom",54.56296,-1.31508
+2032,"Nainital, India",29.39368,79.45178
+2033,"Whitworth Park, United Kingdom",53.66243,-2.1727
+2034,"Chicago IL, United States",41.88425,-87.63245
+2035,"Hinxton, United Kingdom",52.0864,0.18006
+2036,"Rajpura, India",30.47588,76.58966
+2037,"South Jakarta, Indonesia",-6.17148,106.82648
+2038,"Klecany, Czech Republic",50.17715,14.41736
+2039,"Chitral, Pakistan",33.70964,73.07544
+2040,"Liergues, France",45.96881,4.66763
+2041,"Midlothian, United Kingdom",55.95438,-3.20145
+2042,"Hospitalet de Llobregat, Spain",41.37251,2.12006
+2043,"Mississauga, Canada",43.58726,-79.64494
+2044,"Cagliari, Italy",39.21454,9.11049
+2045,"Ongole, India",15.49151,80.04863
+2046,"Kanchipuram, India",12.82428,79.70116
+2047,"Imizu, Japan",36.73046,137.07541
+2048,"North Shields, United Kingdom",55.01085,-1.448
+2049,"Barceona, Spain",43.13614,-4.71327
+2050,"Sippy Downs, Australia",-26.71306,153.06758
+2051,"Birtinya, Australia",-26.75164,153.12021
+2052,"Thiruvananthapuram, India",8.50525,76.95144
+2053,"Daugavpils, Latvia",55.86707,26.5129
+2054,"Iztapalapa, Mexico",19.35921,-99.09133
+2055,"None, Trinidad and Tobago",10.66103,-61.51604
+2056,"Trnava, Slovakia",48.38194,17.58567
+2057,"Rio, Greece",38.30123,21.78002
+2058,"Fort Belvoir, United States",38.68838,-77.13524
+2059,"Klerksdorp, South Africa",-26.86654,26.66558
+2060,"Hlabisa, South Africa",-28.14611,31.87433
+2061,"Nago, Japan",26.59159,127.97744
+2062,"Sandakan, Malaysia",5.84004,118.11572
+2063,"Kunigami, Japan",26.74574,128.1783
+2064,"Keelung, Taiwan",25.13162,121.74479
+2065,"Sausalito, United States",37.85924,-122.48859
+2066,"Thuwal, Saudi Arabia",22.28681,39.11641
+2067,"Korolevu, Fiji",55.92142,37.81043
+2068,"Kaneohe, United States",21.42191,-157.80415
+2069,"Meishan, China",21.20135,104.10058
+2070,"Yibin, China",27.33849,128.57385
+2071,"Palangka Raya, Indonesia",-2.2061,113.9119
+2072,"Kazan, Russian Federation",55.8003,49.10827
+2073,"Kozhikode, India",11.2588,75.78094
+2074,"Hamamatsu, Japan",34.71081,137.72609
+2075,"List, Germany",55.01373,8.42277
+2076,"Nakhon Nayok, Thailand",14.20966,101.22012
+2077,"Nakorn Nayok, Thailand",14.20966,101.22012
+2078,"Taxila, Pakistan",33.71803,72.80415
+2079,"Mathura, India",27.49193,77.67407
+2080,"Dongguan, China",34.9329,136.91523
+2081,"Hengyang, China",41.78726,123.40401
+2082,"Wuyishan, China",27.33849,128.57385
+2083,"Miao-li, Taiwan",24.56153,120.81934
+2084,"Amritsar, India",31.6334,74.87502
+2085,"Taif, Saudi Arabia",21.29461,40.42502
+2086,"Liaocheng, China",9.29667,105.72707
+2087,"Al Kharj, Saudi Arabia",24.16722,47.30419
+2088,"Ohkawa, Japan",33.20663,130.38404
+2089,"Campobasso, Italy",41.55913,14.65699
+2090,"Middlesex, United Kingdom",51.55099,-0.27921
+2091,"Popayan, Colombia",2.44421,-76.6141
+2092,"Mississippi State, United States",35.7631,-90.05299
+2093,"Sopron, Hungary",47.68136,16.59336
+2094,"Marne-la-Vallee, France",48.85589,2.62345
+2095,"Luneburg, Germany",53.24755,10.41419
+2096,"Hod HaSharon, Israel",32.14551,34.88935
+2097,"Gqeberha, South Africa",-33.96238,25.62326
+2098,"Valdivia, Chile",-39.81937,-73.24574
+2099,"Erode, India",11.34065,77.71723
+2100,"Karur, India",10.95921,78.07722
+2101,"Amaravati, India",18.96127,84.5713
+2102,"Sathyamangalam, India",11.50521,77.24621
+2103,"Richland, United States",46.27391,-119.27372
+2104,"M'sila, Algeria",35.70226,4.5447
+2105,"San'yo-Onoda, Japan",34.00323,131.18176
+2106,"Banphaeo, Thailand",13.64225,100.09002
+2107,"Taungoo, Myanmar",18.94262,96.44299
+2108,"Minas Gerais, Brazil",-19.91963,-43.93832
+2109,"Nizwa, Oman",22.93381,57.53112
+2110,"Athens, United States",33.95816,-83.37312
+2111,"Selinsgrove, United States",40.79986,-76.86184
+2112,"Thana, India",11.87051,75.38357
+2113,"Elmhurst, United States",40.74361,-73.88433
+2114,"Williamsburg, United States",37.27569,-76.71029
+2115,"Cherry Hill, United States",39.90141,-74.97854
+2116,"Kelantan, Malaysia",6.13533,102.23701
+2117,"Hualien, Taiwan",23.98216,121.60654
+2118,"Indralaya, Indonesia",-3.25182,104.67321
+2119,"Marbella, Spain",36.50809,-4.88351
+2120,"Satun, Thailand",6.61401,100.06541
+2121,"Togane, Japan",35.55987,140.36622
+2122,"Matamoros, Mexico",25.52818,-103.23003
+2123,"Dordrecht, Netherlands",51.81195,4.65647
+2124,"Karnataka, India",12.96647,77.58723
+2125,"Marcy-l'Etoile, France",45.78144,4.70565
+2126,"Shaoyang, China",41.78726,123.40401
+2127,"Barueri, Brazil",-23.50412,-46.8444
+2128,"Huizen, Netherlands",52.29513,5.23415
+2129,"Karabuk, Turkey",41.19605,32.62252
+2130,"Nankoku, Japan",33.57567,133.64149
+2131,"Sisaket, Thailand",15.11521,104.32071
+2132,"Namakkal, India",11.21941,78.16773
+2133,"Thanjavur, India",10.76868,79.12903
+2134,"Braine-l'Alleud, Belgium",50.6847,4.37077
+2135,"Unterschleissheim, Germany",48.28221,11.57489
+2136,"Ho Chi Minh Chi City, Viet Nam",10.80437,106.71927
+2137,"Changwon, South Korea",35.25442,128.62668
+2138,"Solapur, India",17.65809,75.90678
+2139,"Libourne, France",44.91135,-0.244
+2140,"San Luis Potos, Mexico",37.19939,-105.42594
+2141,"Tarsus, Turkey",36.91515,34.89379
+2142,"Jaysingpur, India",16.7777,74.55279
+2143,"Şlrnak, Turkey",37.52188,42.4532
+2144,"Kigali, Rwanda",-1.97575,30.03177
+2145,"Bilthoven, Netherlands",52.12904,5.20449
+2146,"Vigo, Spain",42.22145,-8.73345
+2147,"Freetown, Sierra Leone",8.48686,-13.23468
+2148,"Chía, Colombia",4.86318,-74.05179
+2149,"Kadhava, India",21.55045,76.98898
+2150,"Zeist, Netherlands",52.08468,5.24262
+2151,"Kisumu, Kenya",-0.09851,34.76726
+2152,"Tacuarembo, Uruguay",-31.7105,-55.98748
+2153,"Manhica, Mozambique",-25.37534,32.80988
+2154,"Popoyán, Colombia",11.62434,-72.7996
+2155,"Mihintale, Sri Lanka",8.35901,80.51358
+2156,"Sibu, Malaysia",2.30592,111.82778
+2157,"Santa Cruz de la Sierra, Bolivia",-17.78367,-63.18041
+2158,"Banjul, Gambia",13.45359,-16.57474
+2159,"As, Norway",59.91234,10.75
+2160,"Bahawalpur, Pakistan",29.39633,71.68093
+2161,"Tapachula, Mexico",14.91117,-92.2646
+2162,"Ban Kluai, Thailand",15.18318,100.15025
+2163,"Mukdahan, Thailand",16.57319,104.71154
+2164,"Bela Vista, Brazil",-22.1059,-56.53343
+2165,"Getafe, Spain",40.30484,-3.73014
+2166,"Madang, Papua New Guinea",-5.2252,145.80128
+2167,"Newport, United Kingdom",51.59108,-2.98824
+2168,"Maidstone, United Kingdom",51.27379,0.52475
+2169,"Blackburn, United Kingdom",53.74859,-2.47995
+2170,"Abercynon, United Kingdom",51.65115,-3.33382
+2171,"Samutprakarn, Thailand",13.62214,100.60157
+2172,"Tien Giang, Viet Nam",10.3665,106.37011
+2173,"Attard, Malta",35.89025,14.44496
+2174,"Pilani, India",28.36137,75.60037
+2175,"Dorset, United Kingdom",50.8063,-2.34755
+2176,"Annaba, Algeria",36.9167,7.76334
+2177,"Vaxjo, Sweden",56.87998,14.79946
+2178,"Meudon, France",48.81211,2.23791
+2179,"Windhoek, Namibia",-22.57159,17.09074
+2180,"Monterrey, Mexico",25.67093,-100.30999
+2181,"Oberkochen, Germany",48.78452,10.1063
+2182,"Frankfurt a.M, Germany",50.11208,8.68341
+2183,"Beltsville, United States",39.03525,-76.91857
+2184,"Cuiaba, Brazil",-15.59888,-56.09462
+2185,"Mandaluyong, Philippines",14.5789,121.04414
+2186,"Abakaliki, Nigeria",6.31058,8.11187
+2187,"Kent, United States",47.3807,-122.23741
+2188,"Hawthorn, Australia",-37.82274,145.03532
+2189,"Arcata, United States",40.86766,-124.08506
+2190,"Ashland City, United States",36.27442,-87.063
+2191,"Krems an der Donau, Austria",48.40899,15.59635
+2192,"Montclair, United States",40.81242,-74.21281
+2193,"Menomonie, United States",44.88159,-91.92938
+2194,"Tena, Ecuador",-0.9877,-77.81876
+2195,"River Forest, United States",41.8881,-87.81966
+2196,"Presov-Lubotice, Slovakia",49.01643,21.27592
+2197,"Sewanee, United States",35.19478,-85.91749
+2198,"Sibiu, Romania",45.79174,24.14757
+2199,"Opole, Poland",50.6634,17.93013
+2200,"Winterthur, Switzerland",47.49852,8.73299
+2201,"Banska Bystrica, Slovakia",48.73733,19.14189
+2202,"Bilbao, Spain",43.2689,-2.94529
+2203,"Galway, Ireland",53.27398,-9.04819
+2204,"Pamplona, Spain",42.81279,-1.64332
+2205,"Punta Arenas, Chile",-53.1512,-70.89745
+2206,"Jiaosi, Taiwan",24.82033,121.77004
+2207,"Abbotsford, Canada",49.05161,-122.32928
+2208,"Mugla, Turkey",37.21563,28.36288
+2209,"Osijek, Croatia",45.55846,18.67625
+2210,"Mannheim, Germany",49.48443,8.46274
+2211,"Witten, Germany",51.44033,7.33617
+2212,"Indiana, United States",39.76691,-86.15013
+2213,"Akungba-Akoko, Nigeria",7.48215,5.7372
+2214,"Hildesheim, Germany",52.15085,9.95146
+2215,"Afyonkarahisar, Turkey",38.75825,30.53792
+2216,"Lafayette, United States",30.22032,-92.01705
+2217,"Bata Caves, Malaysia",3.23593,101.68179
+2218,"Kathmandu, India",26.41983,75.6408
+2219,"Heverlee, Belgium",50.86335,4.69594
+2220,"Ananindeua, Brazil",-1.36567,-48.37207
+2221,"Prachin Buri, Thailand",14.05109,101.37189
+2222,"Sudbury, Canada",47.36581,-82.10139
+2223,"Gloucester Point, United States",37.25725,-76.49569
+2224,"Corpus Christi, United States",27.79641,-97.40389
+2225,"Cheyyar, India",12.66485,79.54029
+2226,"Al-Majmaah, Saudi Arabia",25.91389,45.36185
+2227,"Nakhon-Si-Thammarat, Thailand",8.44105,99.9704
+2228,"My Tho City, Viet Nam",10.3665,106.37011
+2229,"San Juan City, Philippines",14.59963,121.03683
+2230,"Nasik, India",19.99511,73.7964
+2231,"Sumy, Ukraine",50.90796,34.79724
+2232,"Canonsburg, United States",40.25917,-80.1847
+2233,"Dnipro, Ukraine",48.47526,35.01602
+2234,"Nagapattinam, India",10.7769,79.84062
+2235,"Inzai, Japan",35.83236,140.14578
+2236,"Modena, Italy",44.64323,10.93381
+2237,"Xalapa, Mexico",19.52398,-96.92074
+2238,"Hjorring, Denmark",57.45981,9.98408
+2239,"Foz do Iguacu, Brazil",-25.51373,-54.56867
+2240,"Hongcheon-gun, South Korea",37.84499,127.74871
+2241,"Yichang, China",30.40108,-92.70546
+2242,"Taguig, Philippines",14.51259,121.05873
+2243,"Seki, Japan",35.49577,136.91789
+2244,"Şo srnak, Turkey",37.52188,42.4532
+2245,"Nha Trang, Viet Nam",12.24684,109.18876
+2246,"Rajadevi, Thailand",13.75336,100.50482
+2247,"Somerville, United States",42.38675,-71.09845
+2248,"Kashihara, Japan",34.50932,135.79296
+2249,"Minsk Region, Belarus",53.90374,27.56545
+2250,"Heves, Hungary",47.59544,20.28862
+2251,"Mostar, Bosnia and Herzegovina",43.34371,17.80838
+2252,"Omsk, Russian Federation",54.99471,73.36476
+2253,"Chisinau, Moldova",47.02316,28.83456
+2254,"Yeovil, United Kingdom",50.9487,-2.63944
+2255,"Vijayawada, India",16.50256,80.63975
+2256,"Westbrook, United States",43.67935,-70.33843
+2257,"Morehead, United States",34.72179,-76.71758
+2258,"Tuy Hoa, Viet Nam",13.09602,109.31572
+2259,"Virudhunagar, India",9.58919,77.95368
+2260,"Duzce, Turkey",40.84183,31.15117
+2261,"Skovde, Sweden",58.39142,13.8472
+2262,"Sargodha, Pakistan",32.0852,72.66454
+2263,"Leioa, Spain",43.32766,-2.98596
+2264,"Vina del Mar, Chile",-33.02391,-71.55217
+2265,"Chester, United Kingdom",53.18813,-2.89435
+2266,"Mendoza, Argentina",-32.89035,-68.84332
+2267,"Klang, Thailand",12.7799,101.64597
+2268,"Bor Rai, Thailand",12.53697,102.56427
+2269,"Lamsing, Thailand",13.89771,100.47242
+2270,"Khao Khitchakut, Thailand",12.82198,102.11555
+2271,"Hamura-shi, Tokyo, Japan",35.76716,139.31102
+2272,"Corciano, Italy",43.12749,12.28674
+2273,"Gubbio, Italy",43.35393,12.57342
+2274,"Donostia-San Sebastian, Spain",43.32282,-1.99157
+2275,"Mihama, Japan",34.77883,136.90825
+2276,"Allahabad, India",25.43609,81.84715
+2277,"Djelfa, Algeria",34.6736,3.25326
+2278,"Fairbanks, United States",64.84527,-147.72213
+2279,"Eberswalde, Germany",52.83392,13.81271
+2280,"Saint Christophe, Italy",45.74521,7.35502
+2281,"Caquetá, Colombia",1.61172,-75.61051
+2282,"Turrialba, Costa Rica",9.90526,-83.68623
+2283,"Edgewater, United States",40.82682,-73.97355
+2284,"Santa Cruz, Argentina",-28.46873,-67.68967
+2285,"Muncheberg, Germany",52.50179,14.14345
+2286,"Riobamba, Ecuador",-1.66381,-78.64088
+2287,"Birmensdorf, Switzerland",47.35333,8.43686
+2288,"Jaen, Spain",37.76908,-3.78631
+2289,"Moncada, Spain",39.54562,-0.39833
+2290,"Hamilton, United States",39.40022,-84.56315
+2291,"Trier, Germany",49.75735,6.63626
+2292,"Champenoux, France",48.74231,6.34802
+2293,"Villenave-d'Ornon, France",44.78388,-0.57087
+2294,"Hitachi, Japan",36.59911,140.65047
+2295,"Florencia, Colombia",1.61172,-75.6105
+2296,"None, New Zealand",-41.28949,174.77686
+2297,"Global City, Philippines",51.28108,3.76107
+2298,"Klongtoey, Bangkok, Thailand",13.75336,100.50483
+2299,"Weifang, China",25.70622,-99.23993
+2300,"West Sacramento, United States",38.57162,-121.55012
+2301,"Chumphon, Thailand",10.47354,99.12626
+2302,"North Ryde, Australia",-33.79338,151.12002
+2303,"Nay Phi Tau, Myanmar",19.72682,96.07529
+2304,"Surrey, United Kingdom",51.16152,-0.42342
+2305,"Laurel, United States",39.10507,-76.86567
+2306,"Yezin, Nay Pyi Taw, Myanmar",16.8801,96.05164
+2307,"Dusit, Bangkok, Thailand",13.7723,100.51446
+2308,"Pleven, Bulgaria",43.40751,24.62106
+2309,"Griffin, United States",33.2471,-84.2636
+2310,"Boca Raton, United States",26.35049,-80.08837
+2311,"Brașov, Romania",45.64268,25.58871
+2312,"Ampang Jaya, Malaysia",3.16058,101.76042
+2313,"Okemos, United States",42.71545,-84.43004
+2314,"Boise, United States",43.60764,-116.1934
+2315,"Allerod, Denmark",55.86694,12.3304
+2316,"Tamil Nadu, India",13.0838,80.28258
+2317,"Minakami, Japan",36.67868,138.99905
+2318,"Xuzhou, China",1.5066,103.44569
+2319,"Long Xuyen City, Viet Nam",10.37805,105.4425
+2320,"Maywood, United States",41.88796,-87.83922
+2321,"Surin, Thailand",14.88994,103.4962
+2322,"Pachuca, Hgo, Mexico",20.12202,-98.737
+2323,"Santa Monica, United States",34.01158,-118.49227
+2324,"Williamstown, United States",39.68743,-75.00308
+2325,"Pieve Emanuele, Italy",45.35659,9.20387
+2326,"Singapore, Singapore",1.29087,103.85238
+2327,"Port-au-Prince, Haiti",18.54495,-72.33561
+2328,"Pensacola, United States",30.42106,-87.21727
+2329,"Liège, Belgium",50.64549,5.5725
+2330,"Rishikesh, India",30.08641,78.26667
+2331,"Dalat, Viet Nam",11.94356,108.43654
+2332,"Nankang, Taiwan",23.07494,120.29839
+2333,"Ebetsu, Japan",43.10372,141.53621
+2334,"Esch-sur-Alzette, Luxembourg",49.49658,5.98502
+2335,"New Brunswick, Canada",45.96062,-66.63912
+2336,"Berga, Germany",51.45569,11.00377
+2337,"Reinbek, Germany",53.51205,10.25157
+2338,"Amphoe Muang, Thailand",13.52829,99.81329
+2339,"Longtan, Taiwan",23.68559,120.52503
+2340,"Prescot, United Kingdom",53.4303,-2.80283
+2341,"Phrae, Thailand",18.13314,100.22447
+2342,"Duluth, United States",34.00366,-84.14542
+2343,"Mysore, India",12.30902,76.65306
+2344,"Gelegphu, Bhutan",27.47531,89.63399
+2345,"Ratchathewi, Bangok, Thailand",13.75619,100.55186
+2346,"St. Catharines, Canada",43.15644,-79.24894
+2347,"Ranong, Thailand",9.95201,98.63384
+2348,"Dhanbad, India",23.79595,86.43061
+2349,"Stord, Norway",59.78034,5.49861
+2350,"Sassari, Italy",40.72705,8.55383
+2351,"Dong Nai Province, Viet Nam",10.9486,106.81189
+2352,"Haa, Bhutan",27.47531,89.63399
+2353,"Karlstad, Sweden",59.3805,13.49937
+2354,"Kamphaeng Phet, Thailand",16.32746,99.47794
+2355,"Corner Brook, Canada",48.95092,-57.9501
+2356,"Palisades, United States",35.06185,-101.80451
+2357,"Badulla, Sri Lanka",6.99091,81.05319
+2358,"Cranfield, United Kingdom",52.07295,-0.59994
+2359,"South Hadley, United States",42.25936,-72.57516
+2360,"Pontianak, Indonesia",-0.0199,109.33675
+2361,"Iwate District, Japan",39.69636,140.97575
+2362,"Kuala Terengganu, Malaysia",5.3328,103.1386
+2363,"Lokoja, Nigeria",7.81013,6.74093
+2364,"Crete, Italy",45.56662,12.35491
+2365,"Lugano, Switzerland",46.00297,8.9512
+2366,"Spartanburg, United States",34.94838,-81.93494
+2367,"Ede, Nigeria",7.73496,4.43597
+2368,"Ciudad Valles, Mexico",21.98645,-99.01885
+2369,"Kota, India",25.16531,75.85126
+2370,"Bhilai, India",21.22074,81.37976
+2371,"Ongkharak, Thailand",14.08436,100.96056
+2372,"Samut Songkram, Thailand",13.39904,99.99564
+2373,"Goroka, Papua New Guinea",-9.45508,147.20381
+2374,"Ward, Viet Nam",21.02884,105.85462
+2375,"Miao-li, China",35.31904,139.93959
+2376,"Borne, Bhutan",27.47531,89.63399
+2377,"None, Cambodia",11.56261,104.87914
+2378,"Ariel, Israel",32.10534,35.19219
+2379,"Gabes, Tunisia",33.88129,10.09809
+2380,"La Rochelle, France",46.15941,-1.15165
+2381,"Iquitos, Peru",-3.73165,-73.24078
+2382,"Edirne, Turkey",41.6774,26.55625
+2383,"Tarrytown, United States",41.08007,-73.85865
+2384,"Sverdlovsk, Russian Federation",57.85848,60.03051
+2385,"Arkhangelsk, Russian Federation",64.53841,40.51486
+2386,"Batumi, Georgia",41.64528,41.64558
+2387,"Reggio Calabria, Italy",38.11274,15.65175
+2388,"Aviano, Italy",46.06989,12.58741
+2389,"Stade, Germany",53.60218,9.47838
+2390,"Huaibei, China",44.39726,-69.56942
+2391,"Jhelum, Pakistan",32.9224,73.72186
+2392,"Zahedan, Iran",29.6767,60.85986
+2393,"Monash, Australia",-34.23817,140.55787
+2394,"Nara, Japan",34.68529,135.83286
+2395,"Kunshan, China",15.3262,-92.65564
+2396,"Gradignan, France",44.77344,-0.61403
+2397,"Hampton, United States",37.0278,-76.34501
+2398,"Hull, United Kingdom",53.74322,-0.34564
+2399,"Tiruchengode, India",11.38037,77.89505
+2400,"Vellakulam, India",9.70146,78.05812
+2401,"Ismalia, Egypt",30.60314,32.27927
+2402,"Mishima, Japan",34.88376,135.66303
+2403,"Pushchino, Russian Federation",54.83306,37.61492
+2404,"Manassas, United States",38.75125,-77.47086
+2405,"Krishnankoil, India",8.19375,77.42814
+2406,"Le Chesnay, France",48.8272,2.1256
+2407,"50 Grand Junction, United States",33.41016,-84.66111
+2408,"Elverum, Norway",60.88159,11.56261
+2409,"Noakhali, Bangladesh",22.82612,91.10188
+2410,"Astana, Kazakhstan",51.12771,71.4283
+2411,"Bangpa-In Ayutthaya, Thailand",14.26964,100.6171
+2412,"Sahiwal, Pakistan",33.70964,73.07544
+2413,"Haripur, Pakistan",34.01618,72.91095
+2414,"York, United States",39.96464,-76.72434
+2415,"Hail, Saudi Arabia",27.59837,41.7429
+2416,"Patiala, India",30.34702,76.39419
+2417,"Ghaziabad, India",28.67815,77.40863
+2418,"Muak Lek, Thailand",14.66586,101.19489
+2419,"Phagwara, India",31.22453,75.76915
+2420,"Samara, Russian Federation",53.19171,50.19091
+2421,"Monastir, Tunisia",35.77078,10.82283
+2422,"Manggar, Indonesia",-2.86506,108.18952
+2423,"Sonipat, India",28.9953,77.02214
+2424,"Entebbe, Uganda",0.01952,32.44121
+2425,"Palu, Indonesia",-0.89815,119.86484
+2426,"Bangrak, Thailand",13.72122,100.51574
+2427,"Mandi, India",31.70922,76.93197
+2428,"Jodhpur, India",26.26694,73.03049
+2429,"Sa Pa, Viet Nam",12.58211,-81.69516
+2430,"Khlong Nueng, Thailand",14.08993,100.62048
+2431,"Bastia, France",42.6999,9.44988
+2432,"Leogane, Haiti",18.51151,-72.6133
+2433,"Sarawak, Malaysia",1.5202,110.35363
+2434,"L eogâne, Haiti",18.51151,-72.6133
+2435,"Sovenga, South Africa",-23.88396,29.73314
+2436,"Georgetown, Malaysia",5.42382,100.32762
+2437,"Pennington, United States",40.33062,-74.79173
+2438,"Sohag, Egypt",26.55513,31.69545
+2439,"Hausham, Germany",47.7477,11.84256
+2440,"Torres Vedras, Portugal",39.09172,-9.2569
+2441,"Victoria, Australia",-37.81737,144.96755
+2442,"My Tho city, Tien Giang, Viet Nam",10.3665,106.37011
+2443,"Ahvaz, Iran",35.68877,51.41503
+2444,"Nakorn-Ratchasima, Thailand",14.99151,102.11727
+2445,"Moncton, New Brunswick,, Canada",46.0891,-64.77592
+2446,"Badajoz, Spain",38.87483,-6.97272
+2447,"Old Westbury, United States",40.78178,-73.59876
+2448,"Tsu, Japan",34.7186,136.50568
+2449,"Grand Forks, United States",47.92433,-97.03173
+2450,"Gentilly, France",48.81522,2.34851
+2451,"Baronissi, Italy",40.74997,14.77329
+2452,"Candiolo, Italy",44.95954,7.60153
+2453,"Ariano Irpino, Italy",41.15206,15.08309
+2454,"Scarborough, United States",43.5938,-70.33525
+2455,"Klosterneuburg, Austria",48.30497,16.32517
+2456,"Pozzilli, Italy",41.5104,14.06521
+2457,"Toon, Japan",33.79099,132.8722
+2458,"Plouzane, France",48.38097,-4.62235
+2459,"Daedok-gu, South Korea",37.55886,126.99989
+2460,"Srinagar, India",34.08442,74.7991
+2461,"Mar de Plata, Argentina",40.35605,0.39693
+2462,"Teramo, Italy",42.65756,13.69736
+2463,"Roanoke, United States",37.27152,-79.94057
+2464,"Rootstown, United States",41.10548,-81.24242
+2465,"Indore, India",22.71622,75.86509
+2466,"Ciudad Real, Spain",38.98439,-3.93027
+2467,"Tuzla, Turkey",40.81753,29.30411
+2468,"Providencia, Chile",-33.43181,-70.60938
+2469,"Laval, Canada",45.55201,-73.74433
+2470,"Le Rheu, France",48.10039,-1.79405
+2471,"Halle, Germany",51.4822,11.97494
+2472,"Craova, Romania",44.32018,23.799
+2473,"Limoges, France",45.8288,1.26195
+2474,"Catanzaro, Italy",38.91444,16.58436
+2475,"Waterville, United States",44.55279,-69.63135
+2476,"Homburg, Germany",49.31986,7.33541
+2477,"Illkirch-Graffenstaden, France",48.52895,7.71106
+2478,"Caen, France",49.18433,-0.36118
+2479,"Faridabad, India",28.39262,77.31268
+2480,"Ancona, Italy",43.6185,13.509
+2481,"Borstel, Germany",52.6686,8.97338
+2482,"Grand Rapids, United States",42.96642,-85.67195
+2483,"Urbino, Italy",43.72362,12.63418
+2484,"Hwaseong, South Korea",37.25236,126.91989
+2485,"Flint, United States",43.01148,-83.68683
+2486,"Sioux Falls, United States",43.54576,-96.73131
+2487,"Kerala, India",8.50525,76.95144
+2488,"Elche, Spain",38.26349,-0.69941
+2489,"Thousand Oaks, United States",34.1757,-118.84809
+2490,"Pozuelo de Alarcon, Spain",40.44096,-3.81472
+2491,"Flushing, United States",40.76358,-73.83004
+2492,"Mount Pleasant, United States",32.80153,-79.89003
+2493,"Ansan, South Korea",37.31017,126.82915
+2494,"Thiruvarur, India",10.77342,79.63663
+2495,"Kaiserslautern, Germany",49.44208,7.76045
+2496,"Kyotanabe, Japan",34.81441,135.76766
+2497,"Fayetteville, United States",35.05534,-78.87727
+2498,"Kashan, Iran",33.98784,51.43767
+2499,"White Plains, United States",41.03379,-73.76344
+2500,"Trois-Rivieres, Canada",46.34017,-72.54503
+2501,"Kollam, India",8.88691,76.59231
+2502,"Southfield, United States",42.48327,-83.24111
+2503,"Missoula, United States",46.87278,-113.99625
+2504,"Magdalenka, Poland",52.09819,20.9103
+2505,"Ishikari District, Japan",43.22365,141.51701
+2506,"Luzhou, China",26.07877,119.29688
+2507,"Las Palmas de Gran Canaria, Spain",28.13026,-15.43973
+2508,"Colima, Mexico",19.24249,-103.7273
+2509,"Messina, Italy",38.17839,15.55309
+2510,"Lleida, Spain",41.61495,0.62755
+2511,"Wanju-gun, South Korea",37.34474,127.94863
+2512,"New Damietta, Egypt",43.06627,-77.40712
+2513,"Chieti, Italy",42.34664,14.16528
+2514,"Corunna, Spain",43.36846,-8.4021
+2515,"Doylestown, United States",40.31016,-75.13151
+2516,"Shreveport, United States",32.51487,-93.74689
+2517,"Oldenburg, Germany",53.13882,8.21124
+2518,"Bosisio Parini, Italy",45.80207,9.28955
+2519,"Sadat City, Egypt",30.36832,30.51594
+2520,"Bareilly, India",28.35442,79.41629
+2521,"San Diego CA, United States",32.71568,-117.16171
+2522,"Camerimo, Italy",45.50148,8.65674
+2523,"Zhanjiang, China",27.33849,128.57385
+2524,"Nuthetal, Germany",52.34644,13.10601
+2525,"Toledo, Spain",39.86183,-4.02523
+2526,"Amarillo, United States",35.20728,-101.83411
+2527,"Huainan, China",-22.84974,-42.35822
+2528,"Puducherry, India",11.92993,79.82468
+2529,"Leon, Spain",42.59917,-5.57496
+2530,"Hinthada, Myanmar",17.64605,95.46072
+2531,"Bhaktapur, Nepal",27.67471,85.42955
+2532,"Nakhonnayok, Thailand",14.20966,101.22012
+2533,"Lively, Canada",46.43822,-81.14647
+2534,"River Falls, United States",44.85418,-92.62812
+2535,"Trollhattan, Sweden",58.2831,12.28731
+2536,"Dourados, Brazil",-22.22911,-54.81093
+2537,"Iskandar Puteri, Malaysia",1.49888,103.65534
+2538,"San Marcos, United States",29.88608,-97.92818
+2539,"Middlebury, United States",44.01499,-73.16711
+2540,"Westminster, United States",33.75931,-117.98576
+2541,"Rio Grande, Brazil",-32.03314,-52.09814
+2542,"Raipur, India",21.24408,81.6348
+2543,"Middletown, United States",41.44584,-74.42261
+2544,"Caloocan, Philippines",14.65738,120.99082
+2545,"Arlesheim, Switzerland",47.49406,7.62062
+2546,"Saratov, Russian Federation",51.53182,46.01042
+2547,"Ogaki, Japan",35.35991,136.61281
+2548,"Quang Ngai, Viet Nam",15.15857,108.84689
+2549,"Kyaukse Township, Myanmar",21.60536,96.13603
+2550,"Rockhampton, Australia",-23.37411,150.50381
+2551,"Dusit, Thailand",13.7723,100.51446
+2552,"Guarapuava, Brazil",-25.39306,-51.45677
+2553,"Pato Branco, Brazil",-26.26844,-52.70548
+2554,"Oneonta, United States",42.4556,-75.05992
+2555,"Jessore, Bangladesh",23.16329,89.20267
+2556,"Gazipur, Bangladesh",23.99723,90.41794
+2557,"Bollington, United Kingdom",53.2935,-2.11018
+2558,"Ngaoundere, Cameroon",7.32066,13.58477
+2559,"Monrovia, Liberia",6.31672,-10.80213
+2560,"Morogoro, Tanzania",-6.80518,37.66229
+2561,"Conakry, Guinea",9.51198,-13.70538
+2562,"Sitiawan, Malaysia",4.21707,100.69505
+2563,"Nilai, Malaysia",2.83221,101.79589
+2564,"Isparta, Turkey",37.7833,30.54632
+2565,"Kahramanmaras, Turkey",37.58609,36.92855
+2566,"Nakonratchasrima, Thailand",7.49466,124.78191
+2567,"Mohali, India",30.70345,76.69166
+2568,"Bac Lieu, Viet Nam",9.29667,105.72707
+2569,"Volgograd, Russian Federation",48.70408,44.45177
+2570,"Manado, Indonesia",1.48693,124.84159
+2571,"Zaventem, Belgium",50.88369,4.47413
+2572,"Waverly, United States",39.12766,-82.9843
+2573,"Chantaburi, Thailand",12.60087,102.1187
+2574,"Najran, Saudi Arabia",17.54338,44.22396
+2575,"Greater Noida, India",28.48761,77.49567
+2576,"Arecibo, United States",32.88554,-111.84094
+2577,"Campeche, Mexico",19.84549,-90.53702
+2578,"Warminster, United States",40.20662,-75.09988
+2579,"Colorado Springs, United States",38.83352,-104.82181
+2580,"Aydin, Turkey",37.84085,27.83246
+2581,"Pollachi, India",10.65951,77.00751
+2582,"Jerash, Jordan",32.27494,35.89592
+2583,"Serang, Indonesia",-6.10525,106.14743
+2584,"Muang Thong Thani, Thailand",17.41152,102.79231
+2585,"South Tangerang, Indonesia",-6.17683,106.63806
+2586,"Kiruna, Sweden",67.85552,20.22236
+2587,"Nabari, Japan",34.62763,136.10836
+2588,"n'Djamena, Chad",12.11315,15.04912
+2589,"Kaifeng, China",22.76344,121.14508
+2590,"Monroe, United States",32.50983,-92.11879
+2591,"Basingstoke, United Kingdom",51.26261,-1.08212
+2592,"Roi-et, Thailand",16.05616,103.63758
+2593,"Akluj, India",17.8904,75.01699
+2594,"Vero Beach, United States",27.63885,-80.3938
+2595,"Vlora, Albania",40.47665,19.4879
+2596,"Brazzaville, Congo",-4.27934,15.26039
+2597,"Houten, Netherlands",52.03655,5.16921
+2598,"Ho, Ghana",6.60306,0.46703
+2599,"Belmopan, Belize",17.25414,-88.77042
+2600,"Aleppo, Syrian Arab Republic",36.22185,37.13188
+2601,"Abomey-Calavi, Benin",6.4838,2.35246
+2602,"Congella, South Africa",-29.86599,31.00381
+2603,"Steyning, United Kingdom",50.88281,-0.31774
+2604,"Port Louis, Mauritius",-20.16545,57.51491
+2605,"Cassino, Italy",41.49443,13.83177
+2606,"Son, Norway",59.52408,10.68848
+2607,"Chakwal, Pakistan",32.9253,72.85451
+2608,"Praia, Cape Verde",14.9155,-23.50941
+2609,"Plattsburgh, United States",44.69912,-73.45303
+2610,"Kabul, Afghanistan",34.53313,69.10222
+2611,"Nanoro, Burkina Faso",12.61787,-2.08056
+2612,"Bissau, Guinea-Bissau",11.85946,-15.59853
+2613,"Riejka, Croatia",45.32672,14.44715
+2614,"Khemis Miliana, Algeria",36.25601,2.22613
+2615,"Saskatoon, Canada",52.131,-106.65902
+2616,"Belize City, Belize",17.49953,-88.22171
+2617,"Risskov, Denmark",56.19569,10.22034
+2618,"Mahe, Seychelles",-4.67703,55.453
+2619,"Caseros, Argentina",-34.60971,-58.57074
+2620,"Bolivar, Venezuela",10.2114,-67.42657
+2621,"Hurlingham, Argentina",-34.59345,-58.6362
+2622,"Himachal Pradesh, India",31.10321,77.15844
+2623,"Greeley, United States",40.4236,-104.69445
+2624,"Oradea, Romania",47.0573,21.94004
+2625,"Shaqra, Saudi Arabia",25.25211,45.25496
+2626,"Chakdara, Pakistan",33.02915,73.74201
+2627,"Laghouat, Algeria",33.80144,2.8572
+2628,"Bures sur Yvette, France",48.69716,2.1639
+2629,"Annecy le Vieux, France",45.91913,6.14264
+2630,"San Mateo, United States",37.54704,-122.31485
+2631,"Phichit, Thailand",16.50942,100.33196
+2632,"East Java, Indonesia",-33.01524,27.90396
+2633,"Diwaniyah, Iraq",33.005,44.58313
+2634,"Wagga Wagga, Australia",-35.11716,147.35676
+2635,"Muroran, Japan",42.31514,140.97377
+2636,"Espoo, Finland",60.20678,24.65578
+2637,"Kritipur, Nepal",27.67872,85.27266
+2638,"Rasht, Iran",37.27252,49.59309
+2639,"Madinah, Saudi Arabia",24.46729,39.6058
+2640,"Douliou, Taiwan",23.69699,120.52783
+2641,"Bannu, Pakistan",32.9883,70.60127
+2642,"Zhangzhou, China",30.27241,120.20593
+2643,"Thanh Hoa, Viet Nam",19.81353,105.77665
+2644,"Annapolis, United States",38.97678,-76.49014
+2645,"Ardmore, United States",34.17268,-97.12877
+2646,"Bangkok 10300, Thailand",13.7723,100.51446
+2647,"Zagazig, Egypt",30.58628,31.51119
+2648,"Murfreesboro, United States",35.84508,-86.39503
+2649,"Chengalpattu, India",12.68225,79.98056
+2650,"Datong, China",5.40097,100.57467
+2651,"Ponzan, Poland",52.38346,16.95912
+2652,"San José, Costa Rica",9.92975,-84.08569
+2653,"Westcliff-on-Sea, United Kingdom",51.54558,0.68427
+2654,"Newburgh, United Kingdom",56.35073,-3.24181
+2655,"Idlib, Syrian Arab Republic",35.90101,36.63678
+2656,"Frontier, Chile",46.80028,-96.83417
+2657,"Venice, Italy",45.43811,12.31815
+2658,"Ormskirk, United Kingdom",53.56631,-2.88644
+2659,"Hillah, Iraq",32.46748,44.42411
+2660,"Toowoomba, Australia",-27.56119,151.95338
+2661,"Hong Kong SAR, Hong Kong",22.27683,114.17612
+2662,"Hong Kong S.A.R., Hong Kong",22.27683,114.17612
+2663,"Amiens, France",49.89469,2.29326
+2664,"Shimoga, India",13.94478,75.56668
+2665,"Khlong Toei, Bangkok, Thailand",13.71878,100.56241
+2666,"Bata Cabs, Malaysia",3.14789,101.69404
+2667,"El Tor, Egypt",28.23797,33.63004
+2668,"Ho Chi Hinh City, Viet Nam",10.77641,106.7011
+2669,"Ponta Delgada, Portugal",37.73962,-25.66855
+2670,"Stirling, United Kingdom",56.11749,-3.94018
+2671,"Chidambaram, India",11.39706,79.6997
+2672,"Frederiksberg, Denmark",55.67886,12.52975
+2673,"Wangmai District, Bangkok, Thailand",13.74338,100.52631
+2674,"Saint-Quentin, France",49.84807,3.28825
+2675,"Thethi, Nagapattinam, India",10.80169,79.82689
+2676,"Thoothukudi, India",10.88244,79.62401
+2677,"Huntsville, United States",34.72929,-86.5851
+2678,"Foshan, China",27.33849,128.57385
+2679,"Pakkred, Thailand",7.49466,124.78191
+2680,"Tacloban, Philippines",11.26331,124.96619
+2681,"Bacolod City, Philippines",10.63116,122.97506
+2682,"Sylhet, Bangladesh",24.8965,91.8768
+2683,"Shahrood, Iran",35.68877,51.41503
+2684,"Dimapur, India",25.91427,93.72859
+2685,"Abbottabad, Pakistan",34.1508,73.20311
+2686,"Luliang, China",29.68044,-97.64685
+2687,"Gliwice, Poland",50.29205,18.66723
+2688,"Solna, Sweden",59.35869,18.00296
+2689,"Rogaska Slatina, Slovenia",46.23031,15.63827
+2690,"Yaba, Nigeria",9.03829,7.48877
+2691,"Ferozepur, India",30.5241,75.7568
+2692,"Vinnytsia, Ukraine",49.23355,28.44854
+2693,"Buleleng, Indonesia",-8.1152,115.0946
+2694,"Dharan, Nepal",26.80708,87.28475
+2695,"Silchar, India",24.81277,92.79756
+2696,"Durgapur, India",23.55317,87.31303
+2697,"Hyogo, Japan",34.69128,135.18308
+2698,"Moriguchi, Japan",34.73575,135.56172
+2699,"Nugegoda, Sri Lanka",6.87706,79.89293
+2700,"Bagla, India",24.1,84.47342
+2701,"Hohhot, Inner Mongolia, China",40.83173,111.6611
+2702,"Siddipet, India",18.10342,78.84708
+2703,"Southport, Australia",-12.72362,130.94942
+2704,"None, Guinea",9.51198,-13.70539
+2705,"Belem, Brazil",-1.45643,-48.50327
+2706,"Nanaimo, Canada",49.16425,-123.93616
+2707,"Musanze, Rwanda",-1.49868,29.63645
+2708,"Sungai, Malaysia",4.68894,115.03591
+2709,"Latakia, Syrian Arab Republic",33.51656,36.31708
+2710,"Tartus, Syrian Arab Republic",34.88489,35.8964
+2711,"San Donato Milanese, Italy",45.42328,9.26334
+2712,"Lucca, Italy",43.84198,10.51531
+2713,"Stamford, United States",41.05195,-73.54222
+2714,"Treviso, Italy",45.66636,12.24189
+2715,"Cinisello Balsamo, Milan, Italy",45.55812,9.21361
+2716,"Sondrio, Italy",46.16806,9.87255
+2717,"Massa, Italy",44.03529,10.13955
+2718,"Grosseto, Italy",42.76609,11.11725
+2719,"Belluno, Italy",46.14098,12.21275
+2720,"San Lorenzo, Italy",38.01143,15.83539
+2721,"Kuressaare, Estonia",58.67588,25.50057
+2722,"Cremona, Italy",45.14241,10.01521
+2723,"Albacete, Spain",38.99793,-1.85292
+2724,"York City, United States",39.96464,-76.72434
+2725,"Lehi, United States",40.38993,-111.84755
+2726,"Prato, Italy",43.88207,11.10035
+2727,"Polla, Italy",40.51942,15.50058
+2728,"Sion, Switzerland",46.22809,7.35886
+2729,"Valladolid, Spain",41.65419,-4.73214
+2730,"Arezzo, Italy",43.46354,11.87765
+2731,"Tuscany, Italy",43.78237,11.25501
+2732,"Sophia Antipolis, France",43.60388,7.06237
+2733,"Kafr El-Zayat, Egypt",30.82442,30.81654
+2734,"Bergamo, Italy",45.69523,9.66951
+2735,"Libechov, Czech Republic",50.40799,14.44748
+2736,"Thataguni, Bangalore, India",12.84388,77.5092
+2737,"Zibo, China",27.33849,128.57385
+2738,"Troy, United States",42.73449,-73.68809
+2739,"Rio Cuarto, Argentina",-33.11698,-64.3449
+2740,"Thu Dau Mot, Viet Nam",10.98146,106.6534
+2741,"Heist-op-den-Berg, Belgium",51.0748,4.72665
+2742,"Epsom, United Kingdom",51.33307,-0.27144
+2743,"Jerez de la Frontera, Spain",36.69124,-6.13448
+2744,"Balikpapan, Indonesia",-1.15599,116.87863
+2745,"Cavite, Philippines",14.27636,120.87055
+2746,"Warrington, United Kingdom",53.39387,-2.58935
+2747,"Gloucester, United Kingdom",51.86379,-2.2495
+2748,"Ipswich, United Kingdom",52.05791,1.14544
+2749,"Muscatine, United States",41.42208,-91.04317
+2750,"Pembury, United Kingdom",51.14331,0.3168
+2751,"Barnsley, United Kingdom",53.5535,-1.48338
+2752,"Worcester, United Kingdom",52.19106,-2.22222
+2753,"Salisbury, United Kingdom",51.0692,-1.79966
+2754,"Gillingham, United Kingdom",51.3865,0.5495
+2755,"Redhill, United Kingdom",51.23815,-0.16886
+2756,"Inverness, United Kingdom",57.47901,-4.23561
+2757,"Kirkcaldy, United Kingdom",56.10958,-3.16305
+2758,"Barrow-in-Furness, United Kingdom",54.11102,-3.22581
+2759,"Rotherham, United Kingdom",53.43069,-1.35468
+2760,"Portadown, United Kingdom",54.42574,-6.43807
+2761,"Bury, United Kingdom",53.58911,-2.30126
+2762,"Harefield, United Kingdom",51.60401,-0.48204
+2763,"Eastbourne, United Kingdom",50.76691,0.28538
+2764,"Harlow, United Kingdom",51.77339,0.09908
+2765,"Walsall, United Kingdom",52.58543,-1.97603
+2766,"Dartford, United Kingdom",51.44462,0.22057
+2767,"Clydebank, United Kingdom",55.91081,-4.4036
+2768,"Whitehaven, United Kingdom",54.54685,-3.58569
+2769,"Bolton, United Kingdom",53.57843,-2.42666
+2770,"Chichester, United Kingdom",50.83621,-0.77543
+2771,"Polla, Salerno, Italy",40.51942,15.50058
+2772,"East Kilbride, United Kingdom",55.76731,-4.18503
+2773,"Chesterfield, United Kingdom",53.24286,-1.43533
+2774,"Grimsby, United Kingdom",53.56069,-0.0925
+2775,"Barnstaple, United Kingdom",51.07844,-4.05579
+2776,"Great Abington, United Kingdom",52.11505,0.23593
+2777,"Ashford, United Kingdom",51.14677,0.87565
+2778,"Torquay, United Kingdom",50.46788,-3.54373
+2779,"Hereford, United Kingdom",52.0592,-2.73176
+2780,"Wigan, United Kingdom",53.54466,-2.63289
+2781,"Wirral, United Kingdom",53.38099,-3.11299
+2782,"Truro, United Kingdom",50.26526,-5.0536
+2783,"Oldham, United Kingdom",53.5399,-2.11455
+2784,"Poole, United Kingdom",50.71434,-1.98665
+2785,"Ashton-under-Lyne, United Kingdom",53.48943,-2.08806
+2786,"Halifax, United Kingdom",53.72122,-1.86223
+2787,"Carmarthen, United Kingdom",51.86053,-4.29901
+2788,"Wishaw, United Kingdom",55.77432,-3.92083
+2789,"Wakefield, United Kingdom",53.67994,-1.51033
+2790,"Haverfordwest, United Kingdom",51.7988,-4.9774
+2791,"Wrexham, United Kingdom",53.04194,-2.99706
+2792,"Shrewsbury, United Kingdom",52.7066,-2.75122
+2793,"King's Lynn, United Kingdom",52.7573,0.41573
+2794,"Aylesbury, United Kingdom",51.81889,-0.81209
+2795,"Preston, United Kingdom",53.75786,-2.70575
+2796,"Scarborough, United Kingdom",54.27782,-0.41079
+2797,"Haywards Heath, United Kingdom",50.99723,-0.10298
+2798,"Livingston, United Kingdom",55.88624,-3.50982
+2799,"Sutton in Ashfield, United Kingdom",53.12185,-1.27699
+2800,"Stockport, United Kingdom",53.40837,-2.1615
+2801,"Huntingdon, United Kingdom",52.33523,-0.18936
+2802,"Airdrie, United Kingdom",55.86593,-3.98074
+2803,"Keighley, United Kingdom",53.86617,-1.90968
+2804,"Boston, United Kingdom",52.97486,-0.02963
+2805,"Isleworth, United Kingdom",51.47417,-0.3384
+2806,"Taunton, United Kingdom",51.01049,-3.11062
+2807,"Darlington, United Kingdom",54.52439,-1.5488
+2808,"Merthyr Tydfil, United Kingdom",51.75057,-3.37635
+2809,"Romford, United Kingdom",51.58135,0.1862
+2810,"Dudley, United Kingdom",52.50953,-2.08347
+2811,"Nuneaton, United Kingdom",52.52147,-1.46407
+2812,"Scunthorpe, United Kingdom",53.58677,-0.651
+2813,"Southend-on-Sea, United Kingdom",51.5404,0.70514
+2814,"Larbert, United Kingdom",56.0244,-3.82407
+2815,"Bedford, United Kingdom",52.13921,-0.46379
+2816,"Barnet, United Kingdom",51.65169,-0.19746
+2817,"Burton upon Trent, United Kingdom",52.80444,-1.64791
+2818,"Bury St Edmunds, United Kingdom",52.24992,0.70929
+2819,"Dorchester, United Kingdom",50.712,-2.44157
+2820,"Blackpool, United Kingdom",53.80959,-3.05077
+2821,"Chertsey, United Kingdom",51.38813,-0.5079
+2822,"Peterborough, United Kingdom",52.57346,-0.2481
+2823,"Rhyl, United Kingdom",53.31158,-3.47234
+2824,"Dumfries, United Kingdom",55.06944,-3.616
+2825,"Chelmsford, United Kingdom",51.7325,0.47801
+2826,"Southall, United Kingdom",51.51139,-0.37833
+2827,"West Bromwich, United Kingdom",52.51817,-1.98939
+2828,"Tyne and Wear, United Kingdom",55.08436,-1.91096
+2829,"Llantrisant, United Kingdom",51.54077,-3.37426
+2830,"Crosshouse, United Kingdom",55.61235,-4.55069
+2831,"Carlisle, United Kingdom",54.89647,-2.93629
+2832,"Saint Leonards, United Kingdom",50.8343,-1.83825
+2833,"Southport, United Kingdom",53.64788,-3.00634
+2834,"Watford, United Kingdom",51.65212,-0.3907
+2835,"Winchester, United Kingdom",51.06303,-1.31677
+2836,"Warwick, United Kingdom",52.28173,-1.59102
+2837,"Croydon, United Kingdom",51.37239,-0.09822
+2838,"Nakhon Ratchasrima, Thailand",14.99151,102.11727
+2839,"Dibrugarh, India",27.48439,94.92311
+2840,"Assergi, Italy",42.41563,13.50674
+2841,"Hidalgo, Mexico",24.24716,-99.4384
+2842,"Ila, New Zealand",-41.28949,174.77686
+2843,"Agdal Rabat, Morocco",33.99923,-6.84453
+2844,"Nantong, China",22.81175,108.32959
+2845,"Bridgeport, United States",41.18213,-73.19064
+2846,"Merced, United States",37.3015,-120.48685
+2847,"Petaluma, United States",38.23262,-122.64426
+2848,"Gujrat, Pakistan",32.57228,74.08074
+2849,"Plan-les-Ouates, Switzerland",46.16833,6.11765
+2850,"Hengelo, Netherlands",52.26636,6.78972
+2851,"Whitehorse, Canada",60.72066,-135.05308
+2852,"Glencoe, United States",42.13459,-87.75497
+2853,"Sackville, Canada",45.89998,-64.37448
+2854,"Minot, United States",48.2361,-101.2961
+2855,"Chuo-ku, Japan",35.67057,139.77199
+2856,"Minden, Germany",52.28877,8.91469
+2857,"Ontario, Canada",43.64869,-79.38545
+2858,"Surat, India",21.1859,72.83662
+2859,"Taitung, Taiwan",22.75489,121.14642
+2860,"Bandar Puncak Alam, Malaysia",3.23719,101.42399
+2861,"Salmiya, Kuwait",32.54656,35.85363
+2862,"Ceará, Brazil",-3.71838,-38.54406
+2863,"Courbevoie, France",48.89617,2.25648
+2864,"Kashiwa, Japan",35.86761,139.9758
+2865,"Natal, Brazil",-5.79547,-35.21149
+2866,"Manisa, Turkey",38.61291,27.42738
+2867,"Thunder Bay, Canada",48.38227,-89.2455
+2868,"Fredonia, United States",42.44029,-79.33186
+2869,"Lawrenceville, United States",33.95312,-83.98804
+2870,"Thibodaux, United States",29.79552,-90.82253
+2871,"Obu, Japan",35.01161,136.96396
+2872,"Provincetown, United States",42.04967,-70.18846
+2873,"Leeuwarden, Netherlands",53.19675,5.79249
+2874,"Bohol, Philippines",9.66813,123.87033
+2875,"Dumaguete, Philippines",9.31597,123.30225
+2876,"Mawlamyine, Myanmar",16.4609,97.63812
+2877,"Dong Nai, Viet Nam",10.9486,106.81189
+2878,"Bad Mergentheim, Germany",49.49239,9.77035
+2879,"Sierre, Switzerland",46.29407,7.53328
+2880,"Georgetown, Guyana",6.80857,-58.16124
+2881,"Martin, Slovakia",49.06171,18.91902
+2882,"Galati, Romania",45.43368,28.05475
+2883,"Kragujevac, Serbia",44.0292,20.91721
+2884,"Setif, Algeria",36.18975,5.41011
+2885,"Roskilde, Denmark",55.64053,12.09235
+2886,"Peoria, United States",40.69236,-89.58799
+2887,"Swabi, Pakistan",34.06742,72.45686
+2888,"Fall Church, United States",38.88568,-77.17391
+2889,"Limassol, Cyprus",34.67445,33.04275
+2890,"None, Croatia",45.09224,13.64128
+2891,"Emporia, United States",38.4056,-96.18016
+2892,"Potsdam, United States",44.66987,-74.98656
+2893,"Buri Ram, Thailand",14.98824,103.08684
+2894,"Russellville, United States",35.27829,-93.13481
+2895,"Krabi, Thailand",8.08112,98.90564
+2896,"Arnsberg, Germany",51.39553,8.06274
+2897,"Bang Phut, Thailand",13.93419,100.52002
+2898,"Chania, Greece",35.512,24.01229
+2899,"Dummerstorf, Germany",54.01605,12.22605
+2900,"Pulawy, Poland",51.41617,21.97227
+2901,"Florence, United States",34.19367,-79.76819
+2902,"Kedah, Malaysia",6.13161,100.38882
+2903,"Chenggong, China",23.10594,121.38067
+2904,"Sevenoaks, United Kingdom",51.27075,0.19271
+2905,"Malang City, Indonesia",-7.98287,112.62677
+2906,"Billingshurst, United Kingdom",51.02129,-0.45241
+2907,"Reynoldsburg, United States",39.9552,-82.80551
+2908,"Mbour, Senegal",14.42057,-16.96342
+2909,"Koharah, Australia",-33.96287,151.13289
+2910,"Putian, China",36.18326,-85.45788
+2911,"Guanajuato, Mexico",21.01676,-101.25328
+2912,"'t Horntje, Netherlands",53.00554,4.78504
+2913,"Toulon, France",43.12543,5.92988
+2914,"Distrito Federal, Mexico",19.43195,-99.13315
+2915,"Bishopstown, Ireland",53.45918,-7.62189
+2916,"Greencastle, United States",39.644,-86.86077
+2917,"San Luis Obispo, United States",35.28579,-120.66275
+2918,"Malacca, Malaysia",2.20355,102.25293
+2919,"Sathorn, Thailand",13.70633,100.52651
+2920,"Bangkhen, Bangkok, Thailand",13.87341,100.59493
+2921,"Muang District,Nakhon Ratchasima, Thailand",14.8852,102.02598
+2922,"Nagano, Japan",36.65128,138.18091
+2923,"Le Guedeniau, France",47.49575,-0.04772
+2924,"Yung Kung, Taiwan",25.0608,121.31066
+2925,"Makale, Ethiopia",9.01358,38.76286
+2926,"Victoria, Mauritius",-20.2369,57.7843
+2927,"Mwanza, Tanzania",-2.48853,32.9064
+2928,"Muang, Ubon Ratchathani, Thailand",15.27315,104.84923
+2929,"Pak Kret, Nonthaburi, Thailand",13.90665,100.50333
+2930,"Amersfoort, Netherlands",52.15252,5.38626
+2931,"Shimonoseki, Japan",33.95724,130.94087
+2932,"Pessac-Bordeaux, France",44.79908,-0.6541
+2933,"Krefeld, Germany",51.33395,6.56259
+2934,"Geneve, Switzerland",46.20833,6.14275
+2935,"Irrua, Nigeria",6.7373,6.21587
+2936,"None, Kazakhstan",51.12771,71.4283
+2937,"Chur, Switzerland",46.85033,9.5313
+2938,"Wetzikon, Switzerland",47.32506,8.79846
+2939,"Lombard, United States",41.86756,-88.01108
+2940,"Kermanshah, Iran",34.3094,47.05454
+2941,"Windisch, Switzerland",47.47899,8.2184
+2942,"Portogruaro, Italy",45.78002,12.83618
+2943,"Kyambogo, Uganda",0.3415,32.63146
+2944,"Thiruvalla, India",9.39969,76.56459
+2945,"Mymensingh, Bangladesh",24.74643,90.40747
+2946,"Dinajpur, Bangladesh",25.62157,88.63784
+2947,"Bogura, Bangladesh",24.84767,89.36508
+2948,"San Jaun, Philippines",14.59963,121.03683
+2949,"Amsterdum, Netherlands",52.36994,4.90788
+2950,"Villanova, United States",40.03176,-75.34903
+2951,"Gangtok, India",27.33154,88.61394
+2952,"Boras, Sweden",57.72009,12.94526
+2953,"Makkum, Netherlands",53.05723,5.40522
+2954,"Yale, United States",43.13083,-82.79834
+2955,"Yangoon, Myanmar",16.78645,96.16844
+2956,"Huzhou, China",26.07877,119.29688
+2957,"Gunsan, South Korea",37.55886,126.99989
+2958,"Nur-Sultan, Kazakhstan",51.12771,71.4283
+2959,"Santa Clara, Cuba",22.40787,-79.96504
+2960,"Seri Kembangan, Malaysia",3.02622,101.70026
+2961,"Trencin, Slovakia",48.89481,18.03862
+2962,"Elazig, Turkey",38.66785,39.23577
+2963,"Murray, United States",36.61034,-88.3021
+2964,"Morrisville, United States",35.82305,-78.83015
+2965,"Wyndmoor, United States",40.07978,-75.19696
+2966,"Slippery Rock, United States",41.06473,-80.05539
+2967,"Cary, United States",35.78996,-78.78116
+2968,"Male, Maldives",4.17524,73.50928
+2969,"Port, Trinidad and Tobago",10.66103,-61.51604
+2970,"Abu Dis, Palestine",24.49265,54.37323
+2971,"Canakkale, Turkey",40.14857,26.40448
+2972,"Latur, India",18.40044,76.56379
+2973,"Sakharkherda, India",20.22847,76.4022
+2974,"Snowflake, United States",34.51313,-110.07896
+2975,"Jambi, Jambi, Indonesia",-1.668,103.58919
+2976,"Kediri, Jawa Timur, Indonesia",-7.8255,112.01073
+2977,"Bandung, Jawa Barat, Indonesia",-6.91266,107.60791
+2978,"Yogyakarta, Yogyakarta, Indonesia",-7.80178,110.3799
+2979,"Mansehra, Pakistan",34.36589,73.20541
+2980,"Janakpur, Nepal",26.73351,85.91786
+2981,"Misan, Iraq",33.42187,45.78592
+2982,"City Kotli, Azad Jammu and Kashmir, Pakistan",33.33167,75.30182
+2983,"Peechi, India",10.52252,76.35423
+2984,"New Borg El Arab, Egypt",30.90134,29.54352
+2985,"Novo Mesto, Slovenia",45.80321,15.16911
+2986,"Kokubunji, Japan",35.71039,139.46321
+2987,"Yunnan, China",-30.17621,-68.72471
+2988,"Brandon, Canada",49.84937,-99.96192
+2989,"Odawara, Japan",35.26461,139.15222
+2990,"Ratchathewi, Thailand",13.75619,100.55186
+2991,"Mueang Nonthaburi, Thailand",13.85905,100.5207
+2992,"Bangkok, Indonesia",2.18186,100.81167
+2993,"Palangkaraya, Indonesia",-2.2061,113.9119
+2994,"Vancouver, United States",45.63248,-122.67156
+2995,"Region, Myanmar",17.33825,96.48754
+2996,"Northfield, United States",44.4496,-93.15376
+2997,"Gudivada, India",16.43224,81.00606
+2998,"Roi-Et, Thailand",16.05616,103.63758
+2999,"Natori, Japan",38.17148,140.89188
+3000,"Seenlasht, Pakistan",33.70964,73.07544
+3001,"Delemont, Switzerland",47.36535,7.34397
+3002,"Lamongan, Indonesia",-7.10833,112.39803
+3003,"Alabama, United States",32.38015,-86.30006
+3004,"Kudus, Indonesia",-6.82424,110.83513
+3005,"Vaddeswaram, India",16.44942,80.60446
+3006,"Ruse, Bulgaria",43.83512,25.95766
+3007,"Pak Chong, Thailand",14.75244,101.35684
+3008,"Gongju, South Korea",36.82368,128.62255
+3009,"Jeffersonville, United States",38.27934,-85.73763
+3010,"Chapeco, Brazil",-27.11297,-52.61194
+3011,"Culiacan, Mexico",24.80769,-107.39447
+3012,"Beaverton, United States",45.4852,-122.79643
+3013,"New Iberia, United States",30.00531,-91.81776
+3014,"Map Ta Phut, Rayong, Thailand",12.70575,101.17415
+3015,"Johnson City, United States",36.32008,-82.34518
+3016,"Qiryat Shemona, Israel",32.00683,34.7858
+3017,"Rajapalayam, India",9.44486,77.55399
+3018,"Nelson, New Zealand",-41.27072,173.28323
+3019,"Bucaramanga, Colombia",7.11711,-73.12924
+3020,"Oeiras, Portugal",38.69296,-9.30991
+3021,"Poltava, Ukraine",49.58788,34.55168
+3022,"Minya, Egypt",40.06769,-74.53338
+3023,"Wilrijk, Belgium",51.16961,4.39459
+3024,"Oranjestad, Aruba",12.52367,-70.03488
+3025,"Batna, Algeria",35.56519,6.15589
+3026,"Shibin Al Kawm, Egypt",30.55618,31.01887
+3027,"Maqabah, Bahrain",26.22952,50.57604
+3028,"Takasaki, Japan",36.32186,139.00315
+3029,"Saint-Dizier, France",48.63656,4.94698
+3030,"Venjarammoodu, India",8.67632,76.91009
+3031,"Cotonou, Benin",6.37266,2.4254
+3032,"Teddington, United Kingdom",51.50643,-0.12721
+3033,"Ras al Khaimah, United Arab Emirates",25.81007,55.97232
+3034,"Hoogland, Netherlands",52.18701,5.37623
+3035,"Monte Blanche, Mauritius",-20.28557,57.66068
+3036,"Malappuram, India",11.13302,76.15555
+3037,"Machida, Japan",35.54663,139.4387
+3038,"Surry Hills, Australia",-33.87897,151.21303
+3039,"Shimla, India",31.10321,77.15844
+3040,"Balrampur, India",27.43063,82.18021
+3041,"Bolpur, India",23.3647,87.60018
+3042,"Utrecht, Belgium",51.2836,4.41184
+3043,"Bathurst, Australia",-33.41094,149.57852
+3044,"Chatuchak, Bangkok, Thailand",13.81879,100.55552
+3045,"Zhejiang, China",25.70622,-99.23993
+3046,"Samutprakan province, Thailand",13.62214,100.60157
+3047,"Zomba, Malawi",-15.39296,35.31292
+3048,"Joensuu, Finland",62.60482,29.75987
+3049,"Samutprakan, Thailand",13.62214,100.60157
+3050,"Klong Gleua, Pakkred Nonthaburi, Thailand",13.90141,100.55306
+3051,"Pantnagar, India",29.02105,79.48689
+3052,"Jhunjhunun, India",28.12564,75.4004
+3053,"Si Maha Phot, Thailand",13.96783,101.5147
+3054,"Taguig City, Philippines",14.51259,121.05873
+3055,"Wallingford, United Kingdom",51.6009,-1.12561
+3056,"Miskolc, Hungary",48.10557,20.79058
+3057,"Virginia Beach, United States",36.75531,-76.05968
+3058,"Tunceli, Turkey",39.10068,39.54727
+3059,"Horten, Norway",59.41764,10.4824
+3060,"Ado-Ekiti, Nigeria",7.63232,5.21787
+3061,"Valmiera, Latvia",57.54093,25.42631
+3062,"Serdivan, Turkey",40.7655,30.36336
+3063,"Jonquiere, Canada",48.41347,-71.25355
+3064,"Kristiansand, Norway",58.14382,7.99486
+3065,"Gatineau, Canada",45.4283,-75.71037
+3066,"Klaipeda, Lithuania",55.69592,21.14985
+3067,"Paphos, Cyprus",34.90821,32.52928
+3068,"Barranquilla, Colombia",10.98271,-74.8302
+3069,"New Prague, United States",44.54382,-93.57741
+3070,"Aix-en-Provence, France",43.52638,5.44614
+3071,"Muzaffarnagar, India",29.47046,77.70766
+3072,"Sousse, Tunisia",35.82903,10.63778
+3073,"Rancagua, Chile",-34.1548,-70.74046
+3074,"Maragheh, Iran",37.38083,46.24258
+3075,"Almeria, Spain",36.84191,-2.46362
+3076,"La Salle, India",41.679,-86.25992
+3077,"Bielsko-Biala, Poland",49.82548,19.05068
+3078,"Gdansk, Poland",54.35311,18.65105
+3079,"Jounieh, Lebanon",40.04758,-86.46776
+3080,"101 Reykjavík, Iceland",64.14585,-21.93955
+3081,"Barbacena, Brazil",-21.2139,-43.77037
+3082,"Khulna, Bangladesh",22.84629,89.53831
+3083,"Gyanpur, India",25.31619,82.45069
+3084,"Al Madinah, Yemen",14.40332,33.40788
+3085,"Tosu, Japan",33.37814,130.50508
+3086,"Mohanpur, India",23.90912,91.25394
+3087,"Mueang, Thailand",16.4321,102.82378
+3088,"Pathein, Myanmar",16.78411,94.73261
+3089,"La Cuesta, Spain",28.46853,-16.28824
+3090,"Chiyyedu, India",14.62472,77.70193
+3091,"Pattaya, Thailand",12.93473,100.90168
+3092,"Shibin El Kom, Egypt",30.44001,31.0348
+3093,"Otwock-Cwierk, Poland",52.04728,21.24434
+3094,"Osogbo, Nigeria",7.77589,4.55473
+3095,"Lethbridge, Canada",49.69413,-112.83376
+3096,"Guatemala, Guatemala",14.63325,-90.4671
+3097,"Benghazi, Libya",32.11438,20.10736
+3098,"Ogbomoso, Nigeria",8.13597,4.23745
+3099,"Bahir Dar, Ethiopia",11.58901,37.39154
+3100,"Hisar, India",29.13888,75.73597
+3101,"Mehsana, India",23.606,72.37564
+3102,"Ambala, India",30.36422,76.80819
+3103,"Ubon Ratchatani, Thailand",15.27315,104.84923
+3104,"Boulogne-Billancourt, France",48.83527,2.24078
+3105,"Navarra, Spain",42.8511,-2.01202
+3106,"Kasaragod, India",12.51143,74.98361
+3107,"Davangere, India",14.4593,75.91528
+3108,"Killybegs, Ireland",52.74059,-6.22571
+3109,"Itabuna, Brazil",-14.78895,-39.27719
+3110,"Ivry-sur-Seine, France",48.81168,2.38489
+3111,"Rize, Turkey",41.0246,40.5255
+3112,"Queretaro, Mexico",20.59209,-100.39601
+3113,"Kangham-Gu, South Korea",37.50455,127.10308
+3114,"Bata Cabs, Selangor, Malaysia",3.23593,101.68179
+3115,"Łód´ z, Poland",51.77234,19.47502
+3116,"La-Réunion, France",44.29685,0.11835
+3117,"Coleraine, United Kingdom",55.13102,-6.67613
+3118,"Evora, Portugal",38.56923,-7.91439
+3119,"Manno, Switzerland",46.03455,8.919
+3120,"Cankiri, Turkey",40.60008,33.61739
+3121,"Lunz am See, Austria",47.86094,15.02721
+3122,"Hillerod, Denmark",55.92899,12.3057
+3123,"Sault Ste Marie, United States",46.49231,-84.35172
+3124,"Bahia Blanca, Argentina",-38.71796,-62.26673
+3125,"Brimley, United States",46.40472,-84.57228
+3126,"A Coruna, Spain",43.36846,-8.4021
+3127,"Oranmore, Ireland",53.26872,-8.92917
+3128,"Osie, Poland",53.59862,18.34833
+3129,"Braganca, Portugal",41.80725,-6.75819
+3130,"Bujumbura, Burundi",-3.36007,29.36934
+3131,"Monterotondo, Italy",42.0534,12.61359
+3132,"Peterborough, Canada",44.30592,-78.3195
+3133,"Kirikkale, Turkey",39.84057,33.5125
+3134,"Bangjak, Prakanong, Bangkok, Thailand",13.75336,100.50483
+3135,"Be’er Ya’akov, Israel",31.94429,34.84065
+3136,"Shirpur, India",21.3526,74.87985
+3137,"Palghar, India",19.70023,72.77104
+3138,"Jadcharla, India",16.77514,78.13499
+3139,"Changa, India",8.5807,77.07106
+3140,"Mianwali, Pakistan",32.58938,71.53899
+3141,"Brasília, Distrito Federal, Brazil",-15.77829,-47.92909
+3142,"Randers, Denmark",56.45936,10.03585
+3143,"Herning, Denmark",56.13746,8.9761
+3144,"Grålum, Norway",59.31905,11.04006
+3145,"Holbak, Denmark",55.71798,11.71008
+3146,"Hamar, Norway",60.79391,11.07599
+3147,"Kemiling, Indonesia",-5.39009,105.21049
+3148,"Como, Italy",45.81076,9.0871
+3149,"Yala, Thailand",6.53263,101.26246
+3150,"Puente Alto, Chile",-33.60946,-70.57504
+3151,"Ben Guerir, Morocco",32.23463,-7.95817
+3152,"Wuhu City, China",25.70622,-99.23993
+3153,"Palakkad, India",10.77581,76.65813
+3154,"Rohtak, India",28.89756,76.57444
+3155,"Baracaldo, Spain",40.47066,-3.69938
+3156,"Pasto, Colombia",1.2095,-77.27668
+3157,"Glostrup, Denmark",55.66555,12.39565
+3158,"Hong Kong, Taiwan",24.56294,120.71362
+3159,"Santos, Brazil",-23.96128,-46.32806
+3160,"Vinci, Italy",43.78452,10.92467
+3161,"Inashiki District, Japan",36.0046,140.30198
+3162,"Baoding, China",33.90635,-84.85554
+3163,"Simferopol, Ukraine",44.95754,34.10827
+3164,"Larissa, Greece",39.63852,22.42134
+3165,"Santa Cruz do Sul, Brazil",-29.71309,-52.43023
+3166,"Aracatuba, Brazil",-21.21099,-50.43345
+3167,"Reggio Emilia, Italy",44.69559,10.64125
+3168,"Toscana, Italy",43.78237,11.25501
+3169,"Sabadell, Spain",41.55191,2.10579
+3170,"Tullamore, Ireland",53.27606,-7.49203
+3171,"Ruzomberok, Slovakia",49.07373,19.30291
+3172,"Domodossola, Italy",46.10677,8.29547
+3173,"Buon Ma Thuot, Viet Nam",12.67939,108.04461
+3174,"Tula de Allende, Mexico",20.05575,-99.34204
+3175,"Kandy, Sri Lanka",7.29497,80.63867
+3176,"Manizales, Colombia",5.06465,-75.50755
+3177,"San Juan, Philippines",14.59963,121.03683
+3178,"Maryville, United States",35.75379,-83.9734
+3179,"Ulrika, Sweden",58.12676,15.43276
+3180,"Anshan, China",21.84145,105.16995
+3181,"Yantai, China",25.70622,-99.23993
+3182,"Esfarāyen, Iran",37.053,57.53972
+3183,"Sakai, Japan",34.57329,135.48297
+3184,"Temixco, Mexico",18.84546,-99.22377
+3185,"Petah Tiqwa, Israel",32.09463,34.88576
+3186,"Barletta, Italy",41.31991,16.27921
+3187,"Bussolengo (VR), Italy",45.47333,10.85145
+3188,"Kandi, India",23.95506,88.04622
+3189,"Jigjiga, Ethiopia",9.35104,42.79773
+3190,"Itajuba, Brazil",-22.42408,-45.45445
+3191,"Erfurt, Germany",50.97793,11.02351
+3192,"Takatsuki, Japan",34.84596,135.61729
+3193,"Zwolle, Netherlands",52.51621,6.09247
+3194,"Kilakarai, India",10.06771,78.05817
+3195,"Solihull, United Kingdom",52.41503,-1.77786
+3196,"Alton, United Kingdom",51.14764,-0.97478
+3197,"Foggia, Italy",41.46215,15.54482
+3198,"Lakeland, United States",28.04419,-81.94786
+3199,"Rajam, India",18.45102,83.65034
+3200,"Madera, United States",36.9623,-120.06363
+3201,"Bang len, Thailand",14.01134,100.17415
+3202,"Karamsad, India",22.54061,72.89873
+3203,"Garran, Australia",-35.34166,149.10874
+3204,"Itapetining, Brazil",-23.5848,-48.04465
+3205,"Shillong, India",25.5731,91.88792
+3206,"Tumkur, India",13.3406,77.10152
+3207,"Goyangsi, South Korea",37.60582,126.82901
+3208,"Natick, United States",42.28399,-71.34618
+3209,"Huangshan, China",27.33849,128.57385
+3210,"Tanjung Pinang, Indonesia",0.91078,104.5192
+3211,"Kolonia, Palikir, Federated States of Micronesia",6.91773,158.15775
+3212,"Chromepet, Chennai, India",12.95233,80.14411
+3213,"Luzern, Switzerland",47.04954,8.30437
+3214,"Chitose, Japan",42.82131,141.65124
+3215,"Novocherkassk, Russian Federation",47.43742,40.0998
+3216,"Samborondon, Ecuador",-1.97883,-79.70725
+3217,"Commack, United States",40.84713,-73.29144
+3218,"Nunar, India",33.96044,74.69706
+3219,"Mittelhausen, Switzerland",46.87673,7.36888
+3220,"Jeju, South Korea",33.50452,126.54024
+3221,"Talca, Chile",-35.42595,-71.66646
+3222,"Hillsboro, United States",45.52268,-122.99044
+3223,"Weno, Federated States of Micronesia",7.46541,151.84813
+3224,"Christchurch, United Kingdom",50.73425,-1.77682
+3225,"Dublin, United States",40.10497,-83.13308
+3226,"Irving, United States",32.81352,-96.95532
+3227,"Erie, United States",42.12982,-80.0855
+3228,"Puerto Montt, Chile",-41.47204,-72.93829
+3229,"Tuyong, Thailand",6.84854,101.19357
+3230,"Paknam, Thailand",13.60823,100.59716
+3231,"Vernier, Switzerland",46.21282,6.0811
+3232,"Mountain Brook, United States",33.50211,-86.75551
+3233,"Newtown, India",30.80727,75.16743
+3234,"Damghan, Iran",36.17847,54.3554
+3235,"Khyber Pakhtunkhwa, Pakistan",33.70964,73.07544
+3236,"Cartagena, Colombia",10.42505,-75.53836
+3237,"Mantova, Italy",45.16541,10.79242
+3238,"Torrette, Italy",43.60811,13.45538
+3239,"Golnik, Slovenia",46.32721,14.33022
+3240,"Padermo Dugnano, Italy",45.57122,9.15921
+3241,"Langen, Germany",49.98718,8.66561
+3242,"Satara, India",17.68631,74.00803
+3243,"Wang-mai District, Thailand",13.74338,100.52631
+3244,"Nyingchi, China",25.70622,-99.23993
+3245,"Lhasa, China",29.66176,91.13071
+3246,"Central, Hong Kong",22.28375,114.15901
+3247,"Byblos, Lebanon",34.12045,35.64603
+3248,"and Las Vegas, United States",36.17193,-115.14001
+3249,"Toki, Japan",35.35224,137.18292
+3250,"Ternate, Indonesia",0.75867,127.34913
+3251,"Unwana, Nigeria",9.06344,7.46228
+3252,"Tirunelveli, India",8.7264,77.73348
+3253,"Prachuap Khirikhan, Thailand",11.79634,99.78586
+3254,"Sialkot, Pakistan",32.51922,74.55405
+3255,"Buner, Pakistan",33.70964,73.07544
+3256,"Mohmand, Pakistan",33.70964,73.07544
+3257,"Wah, Pakistan",33.76859,72.75459
+3258,"Biratnagar, Nepal",26.45675,87.27793
+3259,"Rampur, Nepal",27.97768,82.56249
+3260,"Neijiang, China",34.9329,136.91523
+3261,"Aubière, France",45.75086,3.11092
+3262,"Adama, Ethiopia",8.54232,39.2781
+3263,"Edison, United States",40.53055,-74.38114
+3264,"San Lorenzo, Paraguay",-25.34322,-57.51748
+3265,"Santiago, Cape Verde",15.13334,-23.53333
+3266,"Kirishima, Japan",31.74081,130.76331
+3267,"Miyakonojo, Japan",31.7196,131.06162
+3268,"Plodiv, Bulgaria",42.13586,24.74905
+3269,"Chenzhou, China",34.76403,113.65941
+3270,"West Chester, United States",39.96375,-75.59795
+3271,"Tan Hiep Ward, Viet Nam",10.1158,105.28473
+3272,"Kiryat Bialik, Israel",32.84159,35.09253
+3273,"Phoeniz, United States",33.44825,-112.0758
+3274,"Nakorn, Thailand",13.75336,100.50482
+3275,"Aiken, United States",33.56164,-81.72214
+3276,"Viña del Mar, Chile",-33.02391,-71.55217
+3277,"Agona, Ghana",5.94835,-2.32643
+3278,"Whangarei, New Zealand",-35.72729,174.32012
+3279,"Venlo, Netherlands",51.37234,6.17304
+3280,"St Albans, Australia",-33.29187,150.97116
+3281,"Bikaner, India",28.01652,73.31184
+3282,"Mahasarakam, Thailand",16.19373,103.29146
+3283,"Sakaeo, Thailand",13.82091,102.06439
+3284,"Bronx, United States",40.826,-73.92309
+3285,"Jal Eddib, Lebanon",44.53486,-122.89748
+3286,"Cavite City, Philippines",14.27636,120.87055
+3287,"Assomada, Cape Verde",15.09815,-23.6667
+3288,"Welwyn Garden City, United Kingdom",51.80232,-0.19968
+3289,"Kherva, India",23.14359,73.91777
+3290,"Balmullo, United Kingdom",56.37712,-2.92602
+3291,"Kanglung, Bhutan",51.36561,1.15033
+3292,"Radford, United States",37.12069,-80.58996
+3293,"Pusa, India",25.99,85.66098
+3294,"Viedma, Argentina",-40.80815,-62.9941
+3295,"Lipa City, Philippines",13.95714,121.16571
+3296,"Angeles City, Philippines",15.16153,120.59133
+3297,"Lianga, Philippines",8.6324,126.09445
+3298,"Udaipur, India",24.58702,73.69845
+3299,"Palampur, India",32.11203,76.54498
+3300,"Hanzhong, China",24.14238,120.69493
+3301,"Fontainebleau, France",48.40499,2.70119
+3302,"Kerikeri, New Zealand",-35.22731,173.94902
+3303,"La Paz, Spain",40.48158,-3.69427
+3304,"Ife, Nigeria",7.48301,4.55966
+3305,"Narita, Japan",35.77674,140.31896
+3306,"Kawagoe, Japan",35.92514,139.48578
+3307,"Angamaly, India",10.20365,76.38266
+3308,"Haugesund, Norway",59.41203,5.26982
+3309,"Iwatsuki, Japan",35.95002,139.69429
+3310,"Kakegawa, Japan",34.76881,137.9984
+3311,"Suzaka, Japan",36.65104,138.30734
+3312,"Al-Qadisiyah, Iraq",31.81602,45.14578
+3313,"Kupang, Timor, Indonesia",-10.12837,123.71082
+3314,"Ma'an, Jordan",30.19643,35.73076
+3315,"Bho Ploi, Thailand",13.75336,100.50482
+3316,"Petropolis, Brazil",-22.50384,-43.18204
+3317,"Rivadavia, Argentina",-31.52553,-68.57837
+3318,"Newtown, Australia",-37.7014,143.66342
+3319,"Helena-West Helena, United States",34.55109,-90.64513
+3320,"Las Cruces, United States",32.30691,-106.77785
+3321,"Wolfach, Germany",48.30289,8.22076
+3322,"Monswiller, France",48.75366,7.38179
+3323,"Haridwar, India",29.9222,78.1231
+3324,"Rajkot, India",22.29715,70.80157
+3325,"Bardoli, India",21.1336,73.10661
+3326,"Rotorua, New Zealand",-38.13686,176.25126
+3327,"Buldana, India",20.5399,76.17072
+3328,"Nashik, India",19.99511,73.7964
+3329,"Ampang, Malaysia",3.15783,101.75193
+3330,"Minami-saitama District, Japan",36.02266,139.7229
+3331,"Ratnapura, Sri Lanka",6.67685,80.40504
+3332,"Belihuloya, Sri Lanka",6.72442,80.76656
+3333,"Aceh, Indonesia",5.55464,95.32094
+3334,"Rajouri, India",33.36175,74.51332
+3335,"My Tho, Viet Nam",10.3665,106.37011
+3336,"Azogues, Ecuador",-2.74455,-78.85049
+3337,"Tihany, Hungary",46.91441,17.88712
+3338,"Vacratot, Hungary",47.70407,19.24068
+3339,"Cyberjaya, Malaysia",2.92368,101.66071
+3340,"Gonabad, Iran",34.37032,58.70007
+3341,"Safat, Kuwait",29.37153,47.97365
+3342,"Monforte de Lemos, Spain",42.52239,-7.51765
+3343,"Naawan, Philippines",8.42358,124.28846
+3344,"Wichita Falls, United States",33.90874,-98.50023
+3345,"Nancy, United States",37.07238,-84.75072
+3346,"Famagusta, Turkey",35.10978,33.94445
+3347,"Skopje, Serbia",44.8131,20.46329
+3348,"Troisdorf, Germany",50.81355,7.15298
+3349,"Daisen-shi, Japan",39.45304,140.47545
+3350,"Butwal, Nepal",27.69255,83.46522
+3351,"Pokhara, Nepal",28.20571,83.99727
+3352,"Samutsakhon, Thailand",13.54455,100.28062
+3353,"Cagayan de Oro City, Philippines",8.48542,124.77382
+3354,"El Hadjar, Algeria",36.80783,7.739
+3355,"Lambarene, Gabon",-0.70706,10.21944
+3356,"Michigan City, United States",41.71936,-86.90317
+3357,"Francavilla Fontana, Italy",40.53306,17.58444
+3358,"Cesena, Italy",44.13868,12.23894
+3359,"Peschiera del Garda, Italy",45.44014,10.6898
+3360,"VIBO VALENTIA, Italy",38.67602,16.09473
+3361,"Piacenza, Italy",45.0566,9.70176
+3362,"Pawi, Ethiopia",11.21934,36.38961
+3363,"Kocaeli, Turkey",40.77541,29.9495
+3364,"Forli, Italy",44.22822,12.04209
+3365,"Zinder, Niger",13.80478,8.98767
+3366,"Chernivtsi, Ukraine",48.29245,25.93554
+3367,"Benevento, Italy",41.12995,14.78552
+3368,"Krakaw, Poland",50.06045,19.93242
+3369,"Haarlem, Netherlands",52.38868,4.63909
+3370,"Vittorio Veneto, Italy",45.98968,12.29515
+3371,"Malau, Fiji",-16.37053,179.37861
+3372,"Kaliningrad, Russian Federation",54.70907,20.50928
+3373,"Barreiro, Portugal",38.66139,-9.07737
+3374,"Rovigo, Italy",45.07016,11.78957
+3375,"San Benedetto del Tronto, Italy",42.94898,13.87776
+3376,"Erba, Italy",45.81275,9.22413
+3377,"Urduliz, Spain",43.37898,-2.95797
+3378,"Ciudad AutÃ3noma de Buenos Aires, Argentina",-34.66159,-58.45374
+3379,"Borgomanero, Italy",45.69952,8.46438
+3380,"Penafiel, Portugal",41.20623,-8.28472
+3381,"Vila Nova de Gaia, Portugal",41.12913,-8.61378
+3382,"Molfetta, Italy",41.20437,16.5999
+3383,"Putyla, Ukraine",47.9987,25.08447
+3384,"Sant Joan DespÃ, Spain",41.36966,2.07121
+3385,"Catanduva, Brazil",-21.13936,-48.97127
+3386,"Andria, Italy",41.23295,16.29486
+3387,"Mollet del Valles, Spain",41.54419,2.21695
+3388,"Novi Pazar, Serbia",43.14049,20.51812
+3389,"Ciudad de MÃ©xico, Mexico",19.43195,-99.13315
+3390,"Orbetello, Italy",42.44268,11.22302
+3391,"Melzo, Italy",45.49764,9.42162
+3392,"Kavala, Greece",40.93632,24.41437
+3393,"Verdellino, Italy",45.6057,9.61502
+3394,"Aden, Yemen",12.80457,45.03767
+3395,"Enna, Italy",37.56499,14.27037
+3396,"Ponta Grossa, Brazil",-25.09492,-50.16311
+3397,"Parker, United States",39.51812,-104.75403
+3398,"SÃ£o JosÃ© dos Campos, Brazil",-23.17925,-45.8872
+3399,"Riccione, Italy",44.00585,12.65624
+3400,"Mozyr, Belarus",52.03255,29.22313
+3401,"BraganÃ§a, Portugal",41.80725,-6.75819
+3402,"Monza, Italy",45.58409,9.27096
+3403,"Aviano, Rome, Italy",41.78159,12.35092
+3404,"Poissy, France",48.928,2.04257
+3405,"Civita Castellana, Italy",42.28703,12.40754
+3406,"Manresa, Spain",41.7254,1.82373
+3407,"Wetzlar, Germany",50.55329,8.49793
+3408,"Milan, Magenta, Italy",45.46581,8.88643
+3409,"Corigliano-Rossano, Italy",39.5979,16.51893
+3410,"Cona, Italy",45.18562,12.01917
+3411,"Misrata, Libya",32.37344,15.09094
+3412,"Mestre, Italy",45.49258,12.24267
+3413,"Piraeus, Greece",37.94285,23.64721
+3414,"Leganes, Spain",40.32805,-3.76525
+3415,"A CoruÃ±a, Spain",42.7492,-8.52777
+3416,"Macerata, Italy",43.29766,13.45586
+3417,"Clamart, France",48.79988,2.2631
+3418,"Gomel, Belarus",52.42311,31.0136
+3419,"Giannitsa, Greece",40.79188,22.41127
+3420,"Busto Arsizio, Italy",45.61187,8.85475
+3421,"Harper, Liberia",4.38099,-7.7039
+3422,"Biella, Italy",45.56041,8.05978
+3423,"Vladimir, Russian Federation",56.13037,40.41007
+3424,"Hoofddorp, Netherlands",52.30544,4.69298
+3425,"Bintulu, Malaysia",3.19235,113.11233
+3426,"Fuenlabrada, Spain",40.28344,-3.79576
+3427,"VITTORIO VENETO, Italy",45.98968,12.29515
+3428,"Syracusa, Italy",37.078,15.2813
+3429,"Cuneo, Italy",44.38822,7.54833
+3430,"Cuenca, Ecuador",-2.89313,-78.99407
+3431,"Cosenza, Italy",39.29313,16.25702
+3432,"Amadora, Portugal",38.75937,-9.23794
+3433,"Kariapatti, India",9.67485,78.10286
+3434,"Mexicali, Mexico",32.6411,-115.4745
+3435,"Chetumal, Mexico",18.50186,-88.30303
+3436,"Gorgan, Iran",35.68877,51.41503
+3437,"Bangka Tengah, Indonesia",-2.31692,106.09202
+3438,"Beijing, Thailand",13.75336,100.50482
